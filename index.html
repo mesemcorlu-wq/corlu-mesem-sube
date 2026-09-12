@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çorlu Mesleki Eğitim Merkezi - Şube Sorgulama Sistemi</title>
+    <style>
+        :root {
+            --primary-color: #1e3a8a;
+            --primary-hover: #1d4ed8;
+            --secondary-color: #f8fafc;
+            --text-color: #1e293b;
+            --border-color: #e2e8f0;
+            --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: #f1f5f9; color: var(--text-color); line-height: 1.6; display: flex; flex-direction: column; min-height: 100vh; }
+        header { background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: white; padding: 2.5rem 1rem; text-align: center; box-shadow: var(--shadow); border-bottom: 5px solid #3b82f6; }
+        header h1 { font-size: 2.2rem; font-weight: 700; margin-bottom: 0.5rem; text-transform: uppercase; }
+        header p { font-size: 1.1rem; color: #93c5fd; font-weight: 300; }
+        .container { max-width: 600px; margin: 3rem auto; padding: 0 1rem; flex: 1; width: 100%; }
+        .search-card { background: white; padding: 2.5rem; border-radius: 12px; box-shadow: var(--shadow); text-align: center; border: 1px solid var(--border-color); }
+        .search-card h2 { color: var(--primary-color); margin-bottom: 1.5rem; font-size: 1.5rem; }
+        .form-group { display: flex; flex-direction: column; gap: 0.5rem; text-align: left; max-width: 400px; margin: 0 auto 1.5rem auto; }
+        .form-group label { font-weight: 600; color: #475569; font-size: 0.95rem; }
+        .search-input { width: 100%; padding: 0.85rem 1rem; border: 2px solid var(--border-color); border-radius: 8px; font-size: 1.1rem; outline: none; text-align: center; letter-spacing: 2px; }
+        .search-input:focus { border-color: var(--primary-color); box-shadow: 0 0 0 4px rgba(30, 58, 138, 0.15); }
+        .btn-search { background-color: var(--primary-color); color: white; border: none; padding: 0.85rem 2.5rem; font-size: 1.1rem; font-weight: 600; border-radius: 8px; cursor: pointer; transition: background 0.2s; width: 100%; max-width: 400px; }
+        .btn-search:hover { background-color: var(--primary-hover); }
+        
+        /* Şube Sonuç Alanı */
+        .result-card { background: linear-gradient(to right, #eff6ff, #dbeafe); padding: 2rem; border-left: 6px solid var(--primary-color); border-radius: 8px; margin-top: 2rem; display: none; text-align: left; animation: fadeIn 0.4s ease-out; }
+        .result-card h3 { color: #1e293b; font-size: 1.2rem; margin-bottom: 0.5rem; }
+        .result-card .sube-adi { color: var(--primary-color); font-size: 1.8rem; font-weight: 800; margin-top: 0.5rem; background: white; padding: 0.75rem 1rem; border-radius: 6px; border: 1px solid #bfdbfe; text-align: center; }
+        
+        .error-message { background-color: #fef2f2; color: #991b1b; border: 1px solid #fee2e2; padding: 1rem; border-radius: 8px; margin-top: 1.5rem; display: none; font-weight: 500; }
+        footer { text-align: center; padding: 2rem 1rem; color: #64748b; font-size: 0.9rem; border-top: 1px solid var(--border-color); background: white; margin-top: auto; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>ÇORLU MESLEKİ EĞİTİM MERKEZİ</h1>
+        <p>Öğrenci Şube / Bölüm Sorgulama Sistemi</p>
+    </header>
+
+    <div class="container">
+        <div class="search-card">
+            <h2>Öğrenci Şube Bilgisi Sorgula</h2>
+            <div class="form-group">
+                <label for="tcKimlik">Öğrenci T.C. Kimlik No:</label>
+                <input type="text" id="tcKimlik" class="search-input" maxlength="11" placeholder="11 Haneli T.C. Yazın" autocomplete="off">
+            </div>
+            <button onclick="subeSorgula()" class="btn-search">Şubeyi Göster</button>
+            
+            <!-- Hata Mesajı -->
+            <div id="hataMesaji" class="error-message"></div>
+
+            <!-- Sonuç Alanı -->
+            <div id="sonucAlani" class="result-card">
+                <h3 id="infoAdSoyad">Öğrenci: Ad Soyad</h3>
+                <div style="font-weight: 600; color: #475569; margin-top: 1rem;">Ait Olduğu Şube / Bölüm:</div>
+                <div id="infoSube" class="sube-adi">9-A / Motorlu Araçlar</div>
+            </div>
+        </div>
+    </div>
+
+    <footer>&copy; 2026 Çorlu Mesleki Eğitim Merkezi. Tüm Hakları Saklıdır.</footer>
+
+    <script>
+        // Sadece Öğrenci Adı ve Şube/Bölüm Bilgilerini İçeren Basit Veritabanı
+        const ogrenciVeritabanı = {
+            "11111111111": {
+                adSoyad: "Ahmet Yılmaz",
+                sube: "9-A / Motorlu Araçlar Teknolojisi"
+            },
+            "22222222222": {
+                adSoyad: "Zeynep Kaya",
+                sube: "10-B / Elektrik-Elektronik Teknolojisi"
+            },
+            "33333333333": {
+                adSoyad: "Mehmet Demir",
+                sube: "11-C / Güzellik Hizmetleri"
+            },
+            "44444444444": {
+                adSoyad: "Ece Aydın",
+                sube: "12-D / Yiyecek İçecek Hizmetleri"
+            }
+        };
+
+        function subeSorgula() {
+            const tcInput = document.getElementById("tcKimlik").value.trim();
+            const hataMesaji = document.getElementById("hataMesaji");
+            const sonucAlani = document.getElementById("sonucAlani");
+
+            // Ekranı temizle
+            hataMesaji.style.display = "none";
+            sonucAlani.style.display = "none";
+
+            // T.C. Kontrolü
+            if (tcInput.length !== 11 || isNaN(tcInput)) {
+                hataMesaji.textContent = "Lütfen geçerli 11 haneli bir T.C. Kimlik numarası giriniz.";
+                hataMesaji.style.display = "block";
+                return;
+            }
+
+            const ogrenci = ogrenciVeritabanı[tcInput];
+
+            if (ogrenci) {
+                // Bilgileri ekrana yaz
+                document.getElementById("infoAdSoyad").textContent = "Öğrenci: " + ogrenci.adSoyad;
+                document.getElementById("infoSube").textContent = ogrenci.sube;
+                sonucAlani.style.display = "block";
+            } else {
+                hataMesaji.textContent = "Sistemde kayıtlı böyle bir öğrenci bulunamadı. (Test için: 11111111111 yazabilirsiniz)";
+                hataMesaji.style.display = "block";
+            }
+        }
+
+        // Enter tuşu desteği
+        document.getElementById("tcKimlik").addEventListener("keyup", function(e) {
+            if (e.key === "Enter") subeSorgula();
+        });
+    </script>
+</body>
+</html>
