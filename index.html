@@ -50,7 +50,7 @@
             <h2>Öğrenci Şube Bilgisi Sorgula</h2>
             <div class="form-group">
                 <label for="tcKimlik">Öğrenci T.C. Kimlik No:</label>
-                <input type="text" id="tcKimlik" class="search-input" maxlength="11" placeholder="11 Haneli T.C. Yazın" autocomplete="off">
+                <input type="text" id="tcKimlik" class="search-input" maxlength="5" placeholder="T.C.'nizin son 5 hanesini Yazın" autocomplete="off">
             </div>
             <button onclick="subeSorgula()" class="btn-search">Şubeyi Göster</button>
             
@@ -71,11 +71,11 @@
     <script>
         // Sadece Öğrenci Adı ve Şube/Bölüm Bilgilerini İçeren Basit Veritabanı
         const ogrenciVeritabanı = {
-            "11111111111": {
-                adSoyad: "Ahmet Yılmaz",
+            "1111111": {
+                adSoyad: "Ahmet Y.",
                 sube: "9-A / Motorlu Araçlar Teknolojisi"
             },
-            "22222222222": {
+            "22222": {
                 adSoyad: "Zeynep Kaya",
                 sube: "10-B / Elektrik-Elektronik Teknolojisi"
             },
@@ -86,7 +86,5219 @@
             "44444444444": {
                 adSoyad: "Ece Aydın",
                 sube: "12-D / Yiyecek İçecek Hizmetleri"
-            }
+            },
+	 "10488": {
+                adSoyad: "Kemal T. B.",
+                sube: "9 / Asansör Sistemleri"
+            },"10488": {
+                adSoyad: "Kemal T. B.",
+                sube: "9 / Asansör Sistemleri"
+            },  "10488": {
+    "adSoyad": "Kemal T. B.",
+    "sube": "9 / Asansör Sistemleri"
+  },
+  "85610": {
+    "adSoyad": "Umut K.",
+    "sube": "9 D / Asansör Sistemleri"
+  },
+  "87170": {
+    "adSoyad": "Ahmet E. K.",
+    "sube": "9 D1 / Aşçılık"
+  },
+  "19092": {
+    "adSoyad": "Bahruz A.",
+    "sube": "9 D1 / Aşçılık"
+  },
+  "52934": {
+    "adSoyad": "Elifnur Ş.",
+    "sube": "9 D1 / Aşçılık"
+  },
+  "75728": {
+    "adSoyad": "Gül D. B.",
+    "sube": "9 D1 / Aşçılık"
+  },
+  "51156": {
+    "adSoyad": "Mahmut K.",
+    "sube": "9 / Aşçılık"
+  },
+  "60558": {
+    "adSoyad": "Merve R.",
+    "sube": "9 D1 / Aşçılık"
+  },
+  "17570": {
+    "adSoyad": "Nisanur S.",
+    "sube": "9 D1 / Aşçılık"
+  },
+  "99468": {
+    "adSoyad": "Ömer Ö.",
+    "sube": "9 D1 / Aşçılık"
+  },
+  "19616": {
+    "adSoyad": "Selman M. Y.",
+    "sube": "9 D1 / Aşçılık"
+  },
+  "79552": {
+    "adSoyad": "Yiğit E. S.",
+    "sube": "9 / Bilgisayar Teknik Servisi"
+  },
+  "91520": {
+    "adSoyad": "Arda Ç.",
+    "sube": "9 E1 / Bilgisayarlı Makine İmalatı"
+  },
+  "69300": {
+    "adSoyad": "Berkant C. A.",
+    "sube": "9 E1 / Bilgisayarlı Makine İmalatı"
+  },
+  "41628": {
+    "adSoyad": "Doğukan Ö.",
+    "sube": "9 / Bilgisayarlı Makine İmalatı"
+  },
+  "63748": {
+    "adSoyad": "Eyüp Y.",
+    "sube": "9 E1 / Bilgisayarlı Makine İmalatı"
+  },
+  "49768": {
+    "adSoyad": "Furkan S.",
+    "sube": "9 E1 / Bilgisayarlı Makine İmalatı"
+  },
+  "43240": {
+    "adSoyad": "Kubilay Ö.",
+    "sube": "9 E1 / Bilgisayarlı Makine İmalatı"
+  },
+  "96652": {
+    "adSoyad": "Mehmet E.",
+    "sube": "9 E1 / Bilgisayarlı Makine İmalatı"
+  },
+  "13026": {
+    "adSoyad": "Muhammet Ç.",
+    "sube": "9 E1 / Bilgisayarlı Makine İmalatı"
+  
+},"64276": {
+  adSoyad: "Muhammet Umut ERİK",
+  sube: "9 E1 / Bilgisayarlı Makine İmalatı"
+},
+"55994": {
+  adSoyad: "Musap ARSLAN",
+  sube: "9 E1 / Bilgisayarlı Makine İmalatı"
+},
+"68768": {
+  adSoyad: "Mustafa Mete AKYILDIZ",
+  sube: "9 / Bilgisayarlı Makine İmalatı"
+},
+"78906": {
+  adSoyad: "Mustafa ÖNCEL",
+  sube: "9 E1 / Bilgisayarlı Makine İmalatı"
+},
+"65648": {
+  adSoyad: "Nurullah KAYA",
+  sube: "9 E1 / Bilgisayarlı Makine İmalatı"
+},
+"75404": {
+  adSoyad: "Ramazan ÜLEZ",
+  sube: "9 E1 / Bilgisayarlı Makine İmalatı"
+},
+"78098": {
+  adSoyad: "Yusuf Ayaz ÇETİNKAYA",
+  sube: "9 E1 / Bilgisayarlı Makine İmalatı"
+},
+"55522": {
+  adSoyad: "Berk OK",
+  sube: "9 D / Bobinaj"
+},
+"95394": {
+  adSoyad: "Erdem DEMİRBÜKEN",
+  sube: "9 D / Bobinaj"
+},
+"84086": {
+  adSoyad: "Elif Minel BERÇİN",
+  sube: "9 / Cilt Bakımı Ve Makyaj"
+},
+"31884": {
+  adSoyad: "Erva IŞIK",
+  sube: "9 / Cilt Bakımı Ve Makyaj"
+},
+"38416": {
+  adSoyad: "Nisanur TOPALOĞLU",
+  sube: "9 A / Cilt Bakımı Ve Makyaj"
+},
+"73642": {
+  adSoyad: "Ayaz BULUT",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"36498": {
+  adSoyad: "Barış OK",
+  sube: "9 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"57308": {
+  adSoyad: "Bedirhan Eren BÜLBÜL",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"36138": {
+  adSoyad: "Berat Can PEKMEZCİ",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"08534": {
+  adSoyad: "Burak ÇETİNKAYA",
+  sube: "9 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"28190": {
+  adSoyad: "Efe Can KAYA",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"19192": {
+  adSoyad: "Efe ÖZDİNÇ",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"92256": {
+  adSoyad: "Emirhan MEMİŞ",
+  sube: "9 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"33706": {
+  adSoyad: "Enes TEKE",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"21170": {
+  adSoyad: "İsmail EREN",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"79118": {
+  adSoyad: "Melik Özkan FİDAN",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"66778": {
+  adSoyad: "Mert Doruk DEMİR",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"12136": {
+  adSoyad: "Mete TOPRAK",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"89364": {
+  adSoyad: "Nur Muhammed ADIYAMAN",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"72322": {
+  adSoyad: "Ömer Faruk ALABAŞ",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"46318": {
+  adSoyad: "Ömer Faruk KAYI",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"63024": {
+  adSoyad: "Poyraz TEZCAN",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"24886": {
+  adSoyad: "Tutku YILMAZLAR",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"64330": {
+  adSoyad: "Yiğit ACAR",
+  sube: "9 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"61944": {
+  adSoyad: "Yusuf Eren GÜRCÜ",
+  sube: "9 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"93124": {
+  adSoyad: "Baran ÇETİN",
+  sube: "9 / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"04130": {
+  adSoyad: "Recep Emin GÜNEY",
+  sube: "9 D / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"18008": {
+  adSoyad: "Berat Muhammet ÖZCİRİT",
+  sube: "9 D / Endüstriyel Bakım Onarım"
+},
+"79188": {
+  adSoyad: "Kayra Ege ÇOBANOĞLU",
+  sube: "9 D / Endüstriyel Bakım Onarım"
+},
+"39372": {
+  adSoyad: "Emircan FIRAT",
+  sube: "9 A3(KARMA) / Endüstriyel Kontrol"
+},
+"20680": {
+  adSoyad: "Abdulkadir ELİK",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"12444": {
+  adSoyad: "Ahmet Hakan DUMAN",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"23926": {
+  adSoyad: "Arda ÇAKIRKAYA",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"17262": {
+  adSoyad: "Baver Aran ŞAHİN",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"08074": {
+  adSoyad: "Berat KAYA",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"44092": {
+  adSoyad: "Berat Osman YÜKSEKDAĞ",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"54838": {
+  adSoyad: "Berkay KAHRAMAN",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"45862": {
+  adSoyad: "Bilal AVCI",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"36656": {
+  adSoyad: "Bünyamin ÇOLAK",
+  sube: "9 / Erkek Kuaförlüğü"
+},
+"66134": {
+  adSoyad: "Doğukan Burak ALPAY",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"88776": {
+  adSoyad: "Efe Can ŞENEL",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"26792": {
+  adSoyad: "Efe KUŞLU",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"06568": {
+  adSoyad: "Efe TOPRAK",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"62212": {
+  adSoyad: "Enes KURT",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"36224": {
+  adSoyad: "Eren GÜRAY",
+  sube: "9 / Erkek Kuaförlüğü"
+},
+"12264": {
+  adSoyad: "Eren ÖZER",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"92216": {
+  adSoyad: "Eyüp Taha ÖZLÜ",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"42220": {
+  adSoyad: "Faruk TOSUN",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"79750": {
+  adSoyad: "Fatih Kerem FERHAT",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"89874": {
+  adSoyad: "Hasan ÇÜRÜK",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"51988": {
+  adSoyad: "Hasan SAKALLI",
+  sube: "9 / Erkek Kuaförlüğü"
+},
+"96158": {
+  adSoyad: "İdris Efe TORUN",
+  sube: "9 / Erkek Kuaförlüğü"
+},
+"69180": {
+  adSoyad: "Kayra ŞEKER",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"87618": {
+  adSoyad: "Kerem DEMİROĞLU",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"19058": {
+  adSoyad: "Kuzey KAYLI",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"58146": {
+  adSoyad: "Kuzey SORBİL",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"20860": {
+  adSoyad: "Mehmet Can ÖZDEMİR",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"92670": {
+  adSoyad: "Mehmet ÇINAR",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"75972": {
+  adSoyad: "Mekin ALTAY",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"22822": {
+  adSoyad: "Muhammed Baver EKİN",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"48312": {
+  adSoyad: "Muhammet Eren DEMİREL",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"32860": {
+  adSoyad: "Okay ÖNER",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"56106": {
+  adSoyad: "Rüstem Efe GÜLAL",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"44812": {
+  adSoyad: "Şafak Ege TÜZÜN",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"62120": {
+  adSoyad: "Umut Can ŞENGÜL",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"58518": {
+  adSoyad: "Yunus EREN",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"77802": {
+  adSoyad: "Yusuf Efe KARACA",
+  sube: "9 A / Erkek Kuaförlüğü"
+},
+"65498": {
+  adSoyad: "Yusuf GÖKÇELİ",
+  sube: "9 E / Erkek Kuaförlüğü"
+},
+"63308": {
+  adSoyad: "Aybüke BAKİ",
+  sube: "9 A3(KARMA) / Fotoğraf"
+},
+"07156": {
+  adSoyad: "Pınar ÖZER",
+  sube: "9 A3(KARMA) / Fotoğraf"
+},
+"59662": {
+adSoyad: "Yiğit PEKMEZ",
+sube: "9 / Fotoğraf"
+},
+"81726": {
+adSoyad: "İshak İsmail ÖZLÜ",
+sube: "9 D2 / Gaz Tesisat Sistemleri"
+},
+"37132": {
+adSoyad: "Muhammed Ferzende ÖZTÜRK",
+sube: "9 D / Güvenlik Sistemleri"
+},
+"76642": {
+adSoyad: "Elif Beren SEKENDİZ",
+sube: "9 A3(KARMA) / Hazır Giyim Model Makineciliği"
+},
+"85722": {
+adSoyad: "Şevval NALCI",
+sube: "9 A3(KARMA) / Hazır Giyim Model Makineciliği"
+},
+"54690": {
+adSoyad: "Zülal AKYÜZ",
+sube: "9 A3(KARMA) / Hazır Giyim Model Makineciliği"
+},
+"84074": {
+adSoyad: "Ali Berkay BAYDAR",
+sube: "9 D2 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"1054": {
+adSoyad: "Beytülşefa DENİZ",
+sube: "9 D2 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"34526": {
+adSoyad: "Ebubekir EROL",
+sube: "9 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"33002": {
+adSoyad: "Muhammed Emin MANDACI",
+sube: "9 D2 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"65602": {
+adSoyad: "Hasan Hüseyin YÜKSEL",
+sube: "9 D4 / İç Mekân Ve Mobilya Teknolojisi"
+},
+"2310": {
+adSoyad: "Ahmet Taha YILDIZ",
+sube: "9 D2 / İklimlendirme Sistemleri"
+},
+"21902": {
+adSoyad: "Hamza TEKÇE",
+sube: "9 B / İş Makineleri"
+},
+"46638": {
+adSoyad: "Muhammed Furkan KARADAĞ",
+sube: "9 C / İş Makineleri"
+},
+"30224": {
+adSoyad: "Mustafa Efe KARADEMİR",
+sube: "9 F / İş Makineleri"
+},
+"76924": {
+adSoyad: "Ahmet Tuğra SEYHAN",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"23896": {
+adSoyad: "Aysu GÜNDÜZ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"29770": {
+adSoyad: "Azra ERKAN",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"54800": {
+adSoyad: "Beren HEKİMOĞULLARI",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"55688": {
+adSoyad: "Berinnaz ONUK",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"01496": {
+adSoyad: "Berra Sude ÜLKER",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"32846": {
+adSoyad: "Buğlem ÇAKMAK",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"80916": {
+adSoyad: "Duygu KARAKAŞ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"92870": {
+adSoyad: "Ecenur ÇAMCI",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"48406": {
+adSoyad: "Ecrin Naz KARABULUT",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"11610": {
+adSoyad: "Ela Gül ALTAN",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"80440": {
+adSoyad: "Elif GEZER",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"43922": {
+adSoyad: "Elif Naz AYYILDIZ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"11446": {
+adSoyad: "Elifnur PEKER",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"49618": {
+adSoyad: "Emine KORKMAZ",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"37022": {
+adSoyad: "Ezel Su SÖYLEMEZ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"07384": {
+adSoyad: "Haktan AKKUŞ",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"35490": {
+adSoyad: "Kübra SARISU",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"65194": {
+adSoyad: "Muhammed Kerim YAMAN",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"75566": {
+adSoyad: "Nisa Nur BAYRAKTAR",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"95968": {
+adSoyad: "Nisa Nur GÖKKAYA",
+sube: "9 A / Kadın Kuaför"
+},
+"1496": {
+adSoyad: "Berra Sude ÜLKER",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"32846": {
+adSoyad: "Buğlem ÇAKMAK",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"80916": {
+adSoyad: "Duygu KARAKAŞ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"92870": {
+adSoyad: "Ecenur ÇAMCI",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"48406": {
+adSoyad: "Ecrin Naz KARABULUT",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"11610": {
+adSoyad: "Ela Gül ALTAN",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"80440": {
+adSoyad: "Elif GEZER",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"43922": {
+adSoyad: "Elif Naz AYYILDIZ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"11446": {
+adSoyad: "Elifnur PEKER",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"49618": {
+adSoyad: "Emine KORKMAZ",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"37022": {
+adSoyad: "Ezel Su SÖYLEMEZ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"7384": {
+adSoyad: "Haktan AKKUŞ",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"35490": {
+adSoyad: "Kübra SARISU",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"65194": {
+adSoyad: "Muhammed Kerim YAMAN",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"75566": {
+adSoyad: "Nisa Nur BAYRAKTAR",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"95968": {
+adSoyad: "Nisa Nur GÖKKAYA",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"86162": {
+adSoyad: "Nisa TAŞTEKİN",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"80082": {
+adSoyad: "Nisagül Şehri KALAYCI",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"80514": {
+adSoyad: "Serap ÖZ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"70618": {
+adSoyad: "Sıla Naz AKYİĞİT",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"91740": {
+adSoyad: "Suden ERGİNSOY",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"19234": {
+adSoyad: "Tuana ARAT",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"23102": {
+adSoyad: "Utku ESEN",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"42236": {
+adSoyad: "Yaren KARADENİZ",
+sube: "9 / Kadın Kuaförlüğü"
+},
+"14290": {
+adSoyad: "Zeynep DEMİR",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"74618": {
+adSoyad: "Zeynep DÜLGAR",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"17508": {
+adSoyad: "Zeynep KOÇ",
+sube: "9 A / Kadın Kuaförlüğü"
+},
+"8064": {
+adSoyad: "Beyzanur ERGÜN",
+sube: "9 A3(KARMA) / Kadın Terziliği"
+},
+"88448": {
+adSoyad: "Muhammet Kadir PÜSKÜLLÜ",
+sube: "9 D3 / Kaynakçılık"
+},
+"57966": {
+adSoyad: "Yusuf AVCI",
+sube: "9 D3 / Kaynakçılık"
+},
+"47896": {
+adSoyad: "Bilal ERBULUN",
+sube: "9 E1 / Makine Bakım Onarım"
+},
+"33978": {
+adSoyad: "Emir ÇEVİK",
+sube: "9 E1 / Makine Bakım Onarım"
+},
+"16340": {
+adSoyad: "Eren GAYRET",
+sube: "9 E1 / Makine Bakım Onarım"
+},
+"55694": {
+adSoyad: "Habib ÇOĞUN",
+sube: "9 E1 / Makine Bakım Onarım"
+},
+"56032": {
+adSoyad: "Muhammet Ali SUH",
+sube: "9 / Makine Bakım Onarım"
+},
+"21076": {
+adSoyad: "Muhammed Ensar DİŞCİ",
+sube: "9 D3 / Metal Doğrama"
+},
+"9178": {
+adSoyad: "Mesut YAMAN",
+sube: "9 A1 / Muhasebe"
+},
+"95162": {
+adSoyad: "Nazlı PİYAL",
+sube: "9 A1 / Muhasebe"
+},
+"7016": {
+adSoyad: "Azat ALTINDEN",
+sube: "9 C / Otomotiv Boya"
+},
+"94690": {
+adSoyad: "Miraç Emre TAĞ",
+sube: "9 C / Otomotiv Boya"
+},
+"85150": {
+adSoyad: "Muhammed Ali SERTBEL",
+sube: "9 F / Otomotiv Boya"
+},
+"86760": {
+adSoyad: "Tugay KARAMAN",
+sube: "9 / Otomotiv Boya"
+},
+"89790": {
+adSoyad: "Berat Rüzgar KİÇÇİ",
+sube: "9 F / Otomotiv Elektrikçiliği"
+},
+"32098": {
+adSoyad: "Fırat SUNAR",
+sube: "9 C / Otomotiv Elektrikçiliği"
+},
+"31092": {
+adSoyad: "Furkan SERİN",
+sube: "9 C / Otomotiv Elektrikçiliği"
+},
+"72046": {
+adSoyad: "Miraç TAŞKIN",
+sube: "9 F / Otomotiv Elektrikçiliği"
+},
+"34186": {
+adSoyad: "Selim ÇELİKER",
+sube: "9 B / Otomotiv Elektrikçiliği"
+},
+"61612": {
+adSoyad: "Yunus Emre GÜRCAN",
+sube: "9 F / Otomotiv Elektrikçiliği"
+},
+"13992": {
+adSoyad: "Abdulmütalip TUNCEL",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"51168": {
+adSoyad: "Ahmet TATAK",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"20268": {
+adSoyad: "Akın AYAN",
+sube: "9 / Otomotiv Elektromekanik"
+},
+"94004": {
+adSoyad: "Arazdurdy VELIYEV",
+sube: "9 / Otomotiv Elektromekanik"
+},
+"74082": {
+adSoyad: "Arda ÖZDEMİR",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"47452": {
+adSoyad: "Atlas YILMAZ",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"31448": {
+adSoyad: "Batuhan YAŞA",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"31042": {
+adSoyad: "Berat AYDIN",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"37938": {
+adSoyad: "Berat ÇİFTÇİ",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"79250": {
+adSoyad: "Berat SAMAR",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"49884": {
+adSoyad: "Berat YAŞAR",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"45402": {
+adSoyad: "Bertuğ KOCAARSLAN",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"64374": {
+adSoyad: "Bilal APOHAN",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"47532": {
+adSoyad: "Bünyamin ÇANKAYA",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"21432": {
+adSoyad: "Can Ahmed ALİŞAN",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"13988": {
+adSoyad: "Doğukan TÜRE",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"77386": {
+adSoyad: "Doğuş UÇARYILMAZ",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"61900": {
+adSoyad: "Emir UĞUR",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"12882": {
+adSoyad: "Emirhan AKKAYA",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"17538": {
+adSoyad: "Enes Kaan GEDİK",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"14200": {
+adSoyad: "Eray GÜNERİ",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"29402": {
+adSoyad: "Eren AKBULUT",
+sube: "9 / Otomotiv Elektromekanik"
+},
+"23108": {
+adSoyad: "Eyüp KAYA",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"69110": {
+adSoyad: "Eyüpcan ÇİFTÇİ",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"13458": {
+adSoyad: "Eyyüp ÇOBAN",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"53918": {
+adSoyad: "Fırat GEÇER",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"96356": {
+adSoyad: "Furkan TAŞĞIN",
+sube: "9 / Otomotiv Elektromekanik"
+},
+"27446": {
+adSoyad: "Hamza ŞENGÜL",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"25674": {
+adSoyad: "Hasan GÜNEL",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"72998": {
+adSoyad: "İbrahim TÜRKDOĞAN",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"32102": {
+adSoyad: "Kamil Can ŞEN",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"11458": {
+adSoyad: "Mehmet ASLAN",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"48516": {
+adSoyad: "Mehmet Sami ÇAĞLAR",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"83482": {
+adSoyad: "Mehmet SÖYLEMEZ",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"48730": {
+adSoyad: "Mert DİKMEN",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"78684": {
+adSoyad: "Metin ŞAHİN",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"19722": {
+adSoyad: "Muhammed AKPINAR",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"35106": {
+adSoyad: "Muhammed Ali ÖZGÜVEN",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"34228": {
+adSoyad: "Muhammed AYDIN",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"26204": {
+adSoyad: "Muhammed Üveys EŞUT",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"18828": {
+adSoyad: "Muhammet Emir ATAY",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"87502": {
+adSoyad: "Mustafa ÇİNAR",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"1974": {
+adSoyad: "Nur Muhammed BAYCUR",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"83544": {
+adSoyad: "Nurullah DENİZ",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"64700": {
+adSoyad: "Poyraz ALPEREN",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"760": {
+adSoyad: "Salih YILMAZ",
+sube: "9 / Otomotiv Elektromekanik"
+},
+"36592": {
+adSoyad: "Serhat GEÇER",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"83272": {
+adSoyad: "Tarık DOĞAN",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"67750": {
+adSoyad: "Yakup Buğra BALAKÇI",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"80362": {
+adSoyad: "Yasin KARABUT",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"58146": {
+adSoyad: "Yiğit ÖZDEN",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"20948": {
+adSoyad: "Yiğitcan ÇEKİÇ",
+sube: "9 C / Otomotiv Elektromekanik"
+},
+"23620": {
+adSoyad: "Yunus ATLI",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"72992": {
+adSoyad: "Yusuf DEMİR",
+sube: "9 F / Otomotiv Elektromekanik"
+},
+"43288": {
+adSoyad: "Zeki KARAKELLE",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"21464": {
+adSoyad: "Zeynel Tibet YOLCU",
+sube: "9 B / Otomotiv Elektromekanik"
+},
+"51250": {
+adSoyad: "Arda Kaan KURTULUŞ",
+sube: "9 C / Otomotiv Gövde"
+},
+"24688": {
+adSoyad: "Aziz Berzan OGUR",
+sube: "9 F / Otomotiv Gövde"
+},
+"36996": {
+adSoyad: "Çınar GÜLLER",
+sube: "9 F / Otomotiv Gövde"
+},
+"51800": {
+adSoyad: "Eren KARA",
+sube: "9 F / Otomotiv Gövde"
+},
+"79654": {
+adSoyad: "Mert Can ÖZTATAR",
+sube: "9 / Otomotiv Gövde"
+},
+"58616": {
+adSoyad: "Muhammet Ali AYDIN",
+sube: "9 F / Otomotiv Gövde"
+},
+"4208": {
+adSoyad: "Salih ORAL",
+sube: "9 F / Otomotiv Gövde"
+},
+"75786": {
+adSoyad: "Sertaç Emir GÜVEN",
+sube: "9 F / Otomotiv Gövde"
+},
+"338": {
+adSoyad: "Yağız Efe DEMİRCİ",
+sube: "9 F / Otomotiv Gövde"
+},
+"76858": {
+adSoyad: "Berkay ÇÜRÜKOĞLU",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"18768": {
+adSoyad: "Burak YILDIZ",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"3476": {
+adSoyad: "Bünyamin Talha ÖRSEL",
+sube: "9 F / Otomotiv Mekanikerliği"
+},
+"37378": {
+adSoyad: "Canberk KAVAK",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"34494": {
+adSoyad: "Devran BEKDAŞ",
+sube: "9 B / Otomotiv Mekanikerliği"
+},
+"52482": {
+adSoyad: "Doruk BAKRAÇ",
+sube: "9 F / Otomotiv Mekanikerliği"
+},
+"6932": {
+adSoyad: "Emirhan OCAK",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"95168": {
+adSoyad: "Fırat DOĞAN",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"38902": {
+adSoyad: "Hamza GÜNEY",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"8306": {
+adSoyad: "Hasan AKDENİZ",
+sube: "9 / Otomotiv Mekanikerliği"
+},
+"73542": {
+adSoyad: "Kerem Efe KARAGÖZ",
+sube: "9 F / Otomotiv Mekanikerliği"
+},
+"38380": {
+adSoyad: "Kuzey Can ERKILIÇ",
+sube: "9 F / Otomotiv Mekanikerliği"
+},
+"21324": {
+adSoyad: "Mustafa Berk GENÇOĞLU",
+sube: "9 F / Otomotiv Mekanikerliği"
+},
+"34804": {
+adSoyad: "Semih GÖBEKLİ",
+sube: "9 B / Otomotiv Mekanikerliği"
+},
+"83458": {
+adSoyad: "Taha TOZUN",
+sube: "9 B / Otomotiv Mekanikerliği"
+},
+"23480": {
+adSoyad: "Tunahan EKER",
+sube: "9 / Otomotiv Mekanikerliği"
+},
+"17654": {
+adSoyad: "Yakup KAÇAR",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"6626": {
+adSoyad: "Yakup ÖZCAN",
+sube: "9 B / Otomotiv Mekanikerliği"
+},
+"7916": {
+adSoyad: "Yusuf KABAY",
+sube: "9 B / Otomotiv Mekanikerliği"
+},
+"35972": {
+adSoyad: "Yusuf ÖZSARI",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"37572": {
+adSoyad: "Yusuf Sami TORUN",
+sube: "9 C / Otomotiv Mekanikerliği"
+},
+"8462": {
+adSoyad: "Enes Malik TOPCU",
+sube: "9 C / Otomotiv Motor Yenileştirmeciliği"
+},
+"45512": {
+adSoyad: "Emirhan ÇOLAKER",
+sube: "9 F / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"1418": {
+adSoyad: "Emrah DAĞBAŞI",
+sube: "9 F / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"416": {
+adSoyad: "Fatih GÜNER",
+sube: "9 B / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"19940": {
+adSoyad: "Umut AYDIN",
+sube: "9 C / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"89604": {
+adSoyad: "Yakup ATABEK",
+sube: "9 C / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"39658": {
+adSoyad: "Esilasu KOZAN",
+sube: "9 / Pasta Ve Tatlı Yapımı"
+},
+"98290": {
+adSoyad: "Melisa DÜNDAR",
+sube: "9 D1 / Pasta Ve Tatlı Yapımı"
+},
+"46896": {
+adSoyad: "Muhammet KURU",
+sube: "9 D1 / Pasta Ve Tatlı Yapımı"
+},
+"43460": {
+adSoyad: "Rumeysa ŞAHİN",
+sube: "9 D1 / Pasta Ve Tatlı Yapımı"
+},
+"16726": {
+adSoyad: "Rüya Nur ÜSTÜN",
+sube: "9 / Pasta Ve Tatlı Yapımı"
+},
+"77720": {
+adSoyad: "Hamza TOPÇU",
+sube: "10 D1 / Ahşap Doğrama Teknolojisi"
+},
+"76726": {
+adSoyad: "Murat DİNÇ",
+sube: "10 / Ahşap Doğrama Teknolojisi"
+},
+"90526": {
+adSoyad: "Yunus Emre SEVİNÇ",
+sube: "10 D1 / Ahşap Doğrama Teknolojisi"
+},
+"92132": {
+adSoyad: "Alper AYGIN",
+sube: "10 E / Asansör Sistemleri"
+},
+"20336": {
+adSoyad: "Berat TAŞKIN",
+sube: "10 E / Asansör Sistemleri"
+},
+"2224": {
+adSoyad: "Efe Can KALINLAR",
+sube: "10 E / Asansör Sistemleri"
+},
+"59406": {
+adSoyad: "Emir DEMİRKAN",
+sube: "10 E / Asansör Sistemleri"
+},
+"78334": {
+adSoyad: "Ömer VARLI",
+sube: "10 D / Asansör Sistemleri"
+},
+"33436": {
+adSoyad: "Seyfullah Kasım VAROL",
+sube: "10 D / Asansör Sistemleri"
+},
+"41342": {
+adSoyad: "Ayaz Ali SÖZEN",
+sube: "10 M / Aşçılık"
+},
+"35280": {
+adSoyad: "Can AKGÜN",
+sube: "10 M / Aşçılık"
+},
+"29638": {
+adSoyad: "Efenuh KÖSEOĞLU",
+sube: "10 M / Aşçılık"
+},
+"78672": {
+adSoyad: "Emir ÇELİK",
+sube: "10 M / Aşçılık"
+},
+"57286": {
+adSoyad: "Habibe BAYKARA",
+sube: "10 M / Aşçılık"
+},
+"6512": {
+adSoyad: "Hanzade KERİMOĞLU",
+sube: "10 M / Aşçılık"
+},
+"38416": {
+adSoyad: "Havva KARAŞAHİN",
+sube: "10 M / Aşçılık"
+},
+"25700": {
+adSoyad: "Muhammed Abdülhamid TANIK",
+sube: "10 M / Aşçılık"
+},
+"5044": {
+adSoyad: "Muhammed Emin GÖKÇELİ",
+sube: "10 M / Aşçılık"
+},
+"13124": {
+adSoyad: "Nisanur ANNAÇ",
+sube: "10 M / Aşçılık"
+},
+"24704": {
+adSoyad: "Okan ÖZGÖR",
+sube: "10 M / Aşçılık"
+},
+"1692": {
+adSoyad: "Ömer Faruk OCAK",
+sube: "10 M / Aşçılık"
+},
+"36316": {
+adSoyad: "Seyfi OĞUZ",
+sube: "10 M / Aşçılık"
+},
+"70974": {
+adSoyad: "Sinan GUBAT",
+sube: "10 M / Aşçılık"
+},
+"60448": {
+adSoyad: "Tuğba CANPOLAT",
+sube: "10 M / Aşçılık"
+},
+"23782": {
+adSoyad: "Yağmur GÜZELGÜL",
+sube: "10 M / Aşçılık"
+},
+"50416": {
+adSoyad: "Yiğit GADİŞ",
+sube: "10 M / Aşçılık"
+},
+"36100": {
+adSoyad: "Önder DOĞRU",
+sube: "10 A2 / Ayakkabı Üretimi"
+},
+"63094": {
+adSoyad: "Arslan Fatih YOĞURTÇU",
+sube: "10 E1 / Bilgisayar Teknik Servisi"
+},
+"99528": {
+adSoyad: "Belinay Havva TAŞPINAR",
+sube: "10 E1 / Bilgisayar Teknik Servisi"
+},
+"59790": {
+adSoyad: "Beren TÜRKOĞLU",
+sube: "10 E1 / Bilgisayar Teknik Servisi"
+},
+"47792": {
+adSoyad: "Furkan YÜCEMAN",
+sube: "10 E1 / Bilgisayar Teknik Servisi"
+},
+"7840": {
+adSoyad: "Muhammet İLCİBOĞA",
+sube: "10 / Bilgisayar Teknik Servisi"
+},
+"66132": {
+adSoyad: "Ali Enes KAZIK",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"27482": {
+adSoyad: "Arda GÖKDEMİR",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"10": {
+adSoyad: "Bedirhan SOYLU",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"38218": {
+adSoyad: "Berat Kaan KURTULDU",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"19464": {
+adSoyad: "Ensar DEDE",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"57366": {
+adSoyad: "Eray BATTAL",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"76146": {
+adSoyad: "Eren Deniz DİNÇ",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"12416": {
+adSoyad: "Halil İbrahim KARA",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"16142": {
+adSoyad: "Mert GÜREL",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"46868": {
+adSoyad: "Muhammet KAÇAR",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"47230": {
+adSoyad: "Rezak Çınar DENİZ",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"83404": {
+adSoyad: "Serkan ÇETİNKAYA",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"40350": {
+adSoyad: "Yakup ÇAMCI",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"93458": {
+adSoyad: "Yakup KAYA",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"72114": {
+adSoyad: "Yiğit AKGÜL",
+sube: "10 L / Bilgisayarlı Makine İmalatı"
+},
+"50828": {
+adSoyad: "Berat BOYRAZ",
+sube: "10 E / Bobinaj"
+},
+"93016": {
+adSoyad: "Eren TOKCAN",
+sube: "10 D / Bobinaj"
+},
+"14736": {
+adSoyad: "Harun ÇAKIR",
+sube: "10 D / Bobinaj"
+},
+"87504": {
+adSoyad: "Hüsnü MERÇ",
+sube: "10 E / Bobinaj"
+},
+"31298": {
+adSoyad: "İbrahim KILIÇ",
+sube: "10 E / Bobinaj"
+},
+"31508": {
+adSoyad: "İzzet Buğra AKAY",
+sube: "10 E / Bobinaj"
+},
+"41104": {
+adSoyad: "Mikail Mustafa DERİN",
+sube: "10 D / Bobinaj"
+},
+"56280": {
+adSoyad: "Mustafa KURT",
+sube: "10 D / Bobinaj"
+},
+"14044": {
+adSoyad: "Yaver ERBULUN",
+sube: "10 D / Bobinaj"
+},
+"28792": {
+adSoyad: "Arzu TOK",
+sube: "10 A / Cilt Bakımı Ve Makyaj"
+},
+"50296": {
+adSoyad: "Dilara NAYCI",
+sube: "10 B / Cilt Bakımı Ve Makyaj"
+},
+"21066": {
+adSoyad: "Doğa DURAK",
+sube: "10 B / Cilt Bakımı Ve Makyaj"
+},
+"3752": {
+adSoyad: "Ela MALKOÇ",
+sube: "10 / Cilt Bakımı Ve Makyaj"
+},
+"82594": {
+adSoyad: "Ferah ELNASEN",
+sube: "10 A / Cilt Bakımı Ve Makyaj"
+},
+"22978": {
+adSoyad: "Tuana SALMA",
+sube: "10 / Cilt Bakımı Ve Makyaj"
+},
+"88240": {
+adSoyad: "Zeynep Ilgın AKPOLAT",
+sube: "10 A / Cilt Bakımı Ve Makyaj"
+},
+"73982": {
+adSoyad: "Berkay TAŞKIN",
+sube: "10 K / Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı"
+},
+"61246": {
+adSoyad: "İbrahim ZENGİN",
+sube: "10 F / Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı"
+},
+"10904": {
+adSoyad: "Musapbin Ümeyr AŞAN",
+sube: "10 / Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı"
+},
+"99084": {
+adSoyad: "Özkan ÖZKAN",
+sube: "10 K / Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı"
+},
+"67470": {
+adSoyad: "Ahmet Can KÖLEMENOĞLU",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"33420": {
+adSoyad: "Ahmetcan EROL",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"50744": {
+adSoyad: "Ali Fırat ATLI",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"75554": {
+adSoyad: "Aslan AĞRAŞ",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"9610": {
+adSoyad: "Bekir KAYAHAN",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"20314": {
+adSoyad: "Ege Doruk CANFER",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"2346": {
+adSoyad: "Emirhan ARTAN",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"40120": {
+adSoyad: "Emirhan İZSİZ",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"40684": {
+adSoyad: "Emirhan VERİM",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"61594": {
+adSoyad: "Enver Efe KARATAŞ",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"36206": {
+adSoyad: "Erdem Utku OĞUZ",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"31528": {
+adSoyad: "Ertuğrul ÇATALKAYA",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"34258": {
+adSoyad: "Eyüp KARATAŞ",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"59436": {
+adSoyad: "Hüseyin Kerem KARAKAYA",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"66816": {
+adSoyad: "Levent ÖZER",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"6636": {
+adSoyad: "Muhammed Emir ALKANAT",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"89078": {
+adSoyad: "Muhammet Emir BUĞU",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"17086": {
+adSoyad: "Musa EREN",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"19576": {
+adSoyad: "Mustafa KELEŞ",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"70150": {
+adSoyad: "Ömer Rafet COŞKUN",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"8526": {
+adSoyad: "Resul ÖZTÜRK",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"26532": {
+adSoyad: "Rıdvan TEMEL",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"7136": {
+adSoyad: "Sabri Enes KARATAŞ",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"77006": {
+adSoyad: "Serhat YUCA",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"19932": {
+adSoyad: "Taha GÖZCÜ",
+sube: "10 E / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"20750": {
+adSoyad: "Veysi AKTEKİN",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"86536": {
+adSoyad: "Yemlihan Berken ABDUKAYA",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"86770": {
+adSoyad: "Yusuf Ali BALKAYA",
+sube: "10 D / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"4646": {
+adSoyad: "Alparslan BARAN",
+sube: "10 / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"59056": {
+adSoyad: "Çağrı GÖKGEDİK",
+sube: "10 / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"75272": {
+adSoyad: "Ege MANAVOĞLU",
+sube: "10 E / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"41924": {
+adSoyad: "Kayra Berke AKINCI",
+sube: "10 E / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"85076": {
+adSoyad: "Kerimcan AÇIKGÖZ",
+sube: "10 E / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"37654": {
+adSoyad: "Muhammed Muaz ÇAVUŞOĞLU",
+sube: "10 / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"82924": {
+adSoyad: "Mustafa Efe ÇETİZ",
+sube: "10 D / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"21750": {
+adSoyad: "Ogün SAĞDIÇ",
+sube: "10 E / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"44304": {
+adSoyad: "Olgun Can YILMAZ",
+sube: "10 E / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"66580": {
+adSoyad: "Yusuf Salih ATMAN",
+sube: "10 E / Elektrikli Ev Aletleri Teknik Servisi"
+},
+"87396": {
+adSoyad: "Ata Can SILDIR",
+sube: "10 E / Endüstriyel Bakım Onarım"
+},
+"86590": {
+adSoyad: "Göktuğ Zülkar ZÜLKEROĞLU",
+sube: "10 E / Endüstriyel Bakım Onarım"
+},
+"62032": {
+adSoyad: "Bedirhan BAKAR",
+sube: "10 L / Endüstriyel Kalıp"
+},
+"74558": {
+adSoyad: "Ali TAŞGIN",
+sube: "10 E2 / Endüstriyel Kontrol"
+},
+"916": {
+adSoyad: "Muhammet Mustafa BAŞ",
+sube: "10 E2 / Endüstriyel Kontrol"
+},
+"4846": {
+adSoyad: "Abdülbaki ARSLAN",
+sube: "10 B / Erkek Kuaförlüğü"
+},
+"31406": {
+adSoyad: "Alperen TAKIM",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"65124": {
+adSoyad: "Arda YILMAZ",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"91374": {
+adSoyad: "Azad AYNA",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"52440": {
+adSoyad: "Azat Ensar KORDAĞLI",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"40820": {
+adSoyad: "Barış AKGÜN",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"66908": {
+adSoyad: "Barış Özgür SEVGİOĞLU",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"30098": {
+adSoyad: "Batın Mert GÜNDOĞDU",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"77560": {
+adSoyad: "Batuhan TEKİN",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"43700": {
+adSoyad: "Berat YAMAN",
+sube: "10 B / Erkek Kuaförlüğü"
+},
+"96044": {
+adSoyad: "Bilal KAYA",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"30790": {
+adSoyad: "Bilal TAHTALI",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"43734": {
+adSoyad: "Celil ÖZKAN",
+sube: "10 B / Erkek Kuaförlüğü"
+},
+"52450": {
+adSoyad: "Cihangir BULUR",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"61638": {
+adSoyad: "Devrim TAŞ",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"66552": {
+adSoyad: "Durdu Eren ŞAHİN",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"34132": {
+adSoyad: "Efe GENÇ",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"52570": {
+adSoyad: "Ege KARAÇOBAN",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"94462": {
+adSoyad: "Emir YADIŞ",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"17382": {
+adSoyad: "Emirhan AKCAL",
+sube: "10 B / Erkek Kuaförlüğü"
+},
+"17526": {
+adSoyad: "Emirhan GÜNGÖR",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"50892": {
+adSoyad: "Eren Can AKKAYA",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"27664": {
+adSoyad: "Eser YENİYILDIZ",
+sube: "10 B / Erkek Kuaförlüğü"
+},
+"16090": {
+adSoyad: "Fatih ÇETİNKAYA",
+sube: "10 B / Erkek Kuaförlüğü"
+},
+"30424": {
+adSoyad: "Göktuğ Okan GİZİR",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"85284": {
+adSoyad: "Görkem Yiğit YALDIZ",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"49538": {
+adSoyad: "Halis YILMAZ",
+sube: "10 B / Erkek Kuaförlüğü"
+},
+"85268": {
+adSoyad: "Kaan UZUN",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"48236": {
+adSoyad: "Muhammed Orhan KAYMAK",
+sube: "10 B / Erkek Kuaförlüğü"
+},
+"78140": {
+adSoyad: "Muhammet Alperen SÜRBAHANLI",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"46326": {
+adSoyad: "Mustafa KARATAŞ",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"75458": {
+adSoyad: "Mustafa Namık TÜRKOĞLU",
+sube: "10 / Erkek Kuaförlüğü"
+},
+"71518": {
+adSoyad: "Mustafa SADE",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"46696": {
+adSoyad: "Nurullah CAZIR",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"3122": {
+adSoyad: "Olcay KAMACI",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"64344": {
+adSoyad: "Ozan AKDOĞAN",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"73638": {
+adSoyad: "Özer DEMİR",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"77796": {
+adSoyad: "Ramazan Talha MUSLU",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"41464": {
+adSoyad: "Samet ÇELİK",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"17784": {
+adSoyad: "Selami AKBIYIK",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"10050": {
+adSoyad: "Serhat ÖRS",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"48036": {
+adSoyad: "Soykan KARADENİZ",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"39992": {
+adSoyad: "Taner LAÇIN",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"43446": {
+adSoyad: "Utku SARIKAYA",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"65560": {
+adSoyad: "Yiğit Efe TUFAN",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"29554": {
+adSoyad: "Yiğit Kaan ÇANDAR",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"37382": {
+adSoyad: "Yiğit ŞAHİN",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"44732": {
+adSoyad: "Yunus Emre UÇAK",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"81542": {
+adSoyad: "Yusuf Ziya AKÇİL",
+sube: "10 A / Erkek Kuaförlüğü"
+},
+"53816": {
+adSoyad: "Yüksel ET",
+sube: "10 C / Erkek Kuaförlüğü"
+},
+"44294": {
+adSoyad: "İlker SEÇGİN",
+sube: "10 A1 / Fotoğraf"
+},
+"91328": {
+adSoyad: "İpek YILDIZ",
+sube: "10 A1 / Fotoğraf"
+},
+"23808": {
+adSoyad: "Meryem EŞLİK",
+sube: "10 A1 / Fotoğraf"
+},
+"60544": {
+adSoyad: "Muhammet Duran AKBULUT",
+sube: "10 A1 / Fotoğraf"
+},
+"14162": {
+adSoyad: "Polat GÜNDÜZ",
+sube: "10 A1 / Fotoğraf"
+},
+"55882": {
+adSoyad: "Sümeyye UZUN",
+sube: "10 A1 / Fotoğraf"
+},
+"79292": {
+adSoyad: "Yaren AKÇA",
+sube: "10 A1 / Fotoğraf"
+},
+"70050": {
+adSoyad: "Baran ÇETİN",
+sube: "10 D / Görüntü Ve Ses Sistemleri"
+},
+"74726": {
+adSoyad: "Beytullah AYKUT",
+sube: "10 D / Görüntü Ve Ses Sistemleri"
+},
+"28252": {
+adSoyad: "Buğra Can TUNCA",
+sube: "10 / Görüntü Ve Ses Sistemleri"
+},
+"6408": {
+adSoyad: "Erdem ÖGEDAY",
+sube: "10 E / Görüntü Ve Ses Sistemleri"
+},
+"7310": {
+adSoyad: "Hamza EKİN",
+sube: "10 A1 / Grafik"
+},
+"14530": {
+adSoyad: "Murat KAÇMAZ",
+sube: "10 E / Haberleşme Sistemleri"
+},
+"87614": {
+adSoyad: "Abdulrezak AKTEKİN",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"80434": {
+adSoyad: "Ahmet ÇAKIRKAYA",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"82092": {
+adSoyad: "Ali Talha ASLAN",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"37954": {
+adSoyad: "Eren DEMİR",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"73276": {
+adSoyad: "Fehim ŞAŞMAZ",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"80096": {
+adSoyad: "Ömer Fırat KIVRAK",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"16154": {
+adSoyad: "Özgür Can AFŞAR",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"71558": {
+adSoyad: "Şerzan Hasan EREN",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"57492": {
+adSoyad: "Umut KIRCA",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"01298": {
+adSoyad: "Yiğit YORULMAZ",
+sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+	"22928": {
+  adSoyad: "Yoldaş GEDİK",
+  sube: "10 L1 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+},
+"75456": {
+  adSoyad: "Abdülsamet GÜLTEKİN",
+  sube: "10 D1 / İç Mekân Ve Mobilya Teknolojisi"
+},
+"20386": {
+  adSoyad: "Berat KARAMAN",
+  sube: "10 D1 / İç Mekân Ve Mobilya Teknolojisi"
+},
+"46272": {
+  adSoyad: "Muhammed Ali İZSİZ",
+  sube: "10 D1 / İç Mekân Ve Mobilya Teknolojisi"
+},
+"62602": {
+  adSoyad: "Gökhan BAYDAR",
+  sube: "10 L1 / İklimlendirme Sistemleri"
+},
+"79340": {
+  adSoyad: "Uğur UÇAR",
+  sube: "10 G / İş Makineleri"
+},
+"85512": {
+  adSoyad: "Aras KEPEKLİ",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"3988": {
+  adSoyad: "Asya Melin TEKİNALP",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"41240": {
+  adSoyad: "Aysun Ecrin BOZKURT",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"79064": {
+  adSoyad: "Bahadır AKKUL",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"77828": {
+  adSoyad: "Berru Hira KÖKSAL",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"96072": {
+  adSoyad: "Cansu VURAL",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"31810": {
+  adSoyad: "Cemile PEKTAŞ",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"21964": {
+  adSoyad: "Damla HIRÇIN",
+  sube: "10 / Kadın Kuaförlüğü"
+},
+"54970": {
+  adSoyad: "Duru KAYA",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"24378": {
+  adSoyad: "Edam MUHARREM",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"13046": {
+  adSoyad: "Emine Berna TAŞ",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"49246": {
+  adSoyad: "Eslem Nisa BAYCAN",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"26806": {
+  adSoyad: "Eylem AYDOĞDU",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"24826": {
+  adSoyad: "Gizem ÖZTÜRK",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"97198": {
+  adSoyad: "Gözde MANGIRCI",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"60420": {
+  adSoyad: "Hacer KAYA",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"96484": {
+  adSoyad: "Havvanur BEDELOV",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"86234": {
+  adSoyad: "Hira KILIÇ",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"50562": {
+  adSoyad: "Hiranur SİRİ",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"2764": {
+  adSoyad: "Hüseyin Kadir KARABULUT",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"9334": {
+  adSoyad: "Irmak ERYILMAZ",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"75514": {
+  adSoyad: "İlayda DEMİRÖZ",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"3790": {
+  adSoyad: "İlke Ebrar ERGÜL",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"53202": {
+  adSoyad: "Kardelen GÖKSAL",
+  sube: "10 / Kadın Kuaförlüğü"
+},
+"8176": {
+  adSoyad: "Kardelen KARTUN",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"81152": {
+  adSoyad: "Mehmet Ufuk KARAARSLAN",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"89798": {
+  adSoyad: "Merve ÜNLÜ",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"57606": {
+  adSoyad: "Merve YILMAZ",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"50992": {
+  adSoyad: "Muhammed Ali ZEYTİNOĞLU",
+  sube: "10 / Kadın Kuaförlüğü"
+},
+"78820": {
+  adSoyad: "Muhammed Öner KAYA",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"99084": {
+  adSoyad: "Nisa Nur BAYCAN",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"84082": {
+  adSoyad: "Nisanur ÇOLAK",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"53552": {
+  adSoyad: "Pınar YENİYURT",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"51592": {
+  adSoyad: "Ramis HACIOĞLU",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"70576": {
+  adSoyad: "Sıla ÜNSAL",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"54708": {
+  adSoyad: "Sudenaz KAVAK",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"30424": {
+  adSoyad: "Şevval AYBEK",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"24772": {
+  adSoyad: "Tuğba HAN",
+  sube: "10 A / Kadın Kuaförlüğü"
+},
+"39830": {
+  adSoyad: "Yaprak Ahu AKIN",
+  sube: "10 B / Kadın Kuaförlüğü"
+},
+"28838": {
+  adSoyad: "Emir ERTÜRK",
+  sube: "10 C1 / Kaynakçılık"
+},
+"66418": {
+  adSoyad: "Göktuğ ARICI",
+  sube: "10 C1 / Kaynakçılık"
+},
+"42418": {
+  adSoyad: "Mustafa Efe MERAL",
+  sube: "10 C1 / Kaynakçılık"
+},
+"90832": {
+  adSoyad: "Okan MEŞE",
+  sube: "10 C1 / Kaynakçılık"
+},
+"51132": {
+  adSoyad: "Ataberk İLERİ",
+  sube: "10 L / Makine Bakım Onarım"
+},
+"86440": {
+  adSoyad: "Hasan Hüseyin KAYA",
+  sube: "10 L / Makine Bakım Onarım"
+},
+"22538": {
+  adSoyad: "Kasım ÇAKMAKÇI",
+  sube: "10 L / Makine Bakım Onarım"
+},
+"56914": {
+  adSoyad: "Ömer ŞİMŞEK",
+  sube: "10 L / Makine Bakım Onarım"
+},
+"36234": {
+  adSoyad: "Özgür ERGÜN",
+  sube: "10 L / Makine Bakım Onarım"
+},
+"16926": {
+  adSoyad: "Serdar TEKDOĞAN",
+  sube: "10 L / Makine Bakım Onarım"
+},
+"43656": {
+  adSoyad: "Yiğit KÜÇÜKBATUR",
+  sube: "10 L / Makine Bakım Onarım"
+},
+"3606": {
+  adSoyad: "Defne Ela VARLAR",
+  sube: "10 C2 / Muhasebe"
+},
+"37486": {
+  adSoyad: "Melisa ARSLAN",
+  sube: "10 C2 / Muhasebe"
+},
+"53272": {
+  adSoyad: "Muhammed Ali SARIBUĞA",
+  sube: "10 C2 / Muhasebe"
+},
+"8566": {
+  adSoyad: "Resulhan SERBEST",
+  sube: "10 / Ofset Baskı"
+},
+"22070": {
+  adSoyad: "Ali Furkan LEVENT",
+  sube: "10 F / Otomotiv Boya"
+},
+"12440": {
+  adSoyad: "Aliyar YAVRUTÜRK",
+  sube: "10 İ / Otomotiv Boya"
+},
+"17742": {
+  adSoyad: "Arda TOPÇU",
+  sube: "10 K / Otomotiv Boya"
+},
+"59440": {
+  adSoyad: "Bulut KARA",
+  sube: "10 K / Otomotiv Boya"
+},
+"21320": {
+  adSoyad: "Kudret BAKADUR",
+  sube: "10 G / Otomotiv Boya"
+},
+"24438": {
+  adSoyad: "Salih SÖYÜNCÜ",
+  sube: "10 İ / Otomotiv Boya"
+},
+"95374": {
+  adSoyAd: "Yusuf ELNASEN",
+  sube: "10 G / Otomotiv Boya"
+},
+"16338": {
+  adSoyAd: "Abdulbasit ELŞAVİ",
+  sube: "10 İ / Otomotiv Elektrikçiliği"
+},
+"55332": {
+  adSoyAd: "Abdulkerim GÜÇLÜGİL",
+  sube: "10 F / Otomotiv Elektrikçiliği"
+},
+"19034": {
+  adSoyAd: "Bayram Ali TOPCU",
+  sube: "10 F / Otomotiv Elektrikçiliği"
+},
+"43268": {
+  adSoyAd: "Emirhan DANACIOĞLU",
+  sube: "10 F / Otomotiv Elektrikçiliği"
+},
+"30044": {
+  adSoyAd: "Eyüp KARTAL",
+  sube: "10 H / Otomotiv Elektrikçiliği"
+},
+"39256": {
+  adSoyAd: "Kerem KAMAR",
+  sube: "10 F / Otomotiv Elektrikçiliği"
+},
+"29778": {
+  adSoyAd: "Mehmet Fatih GÜMÜŞ",
+  sube: "10 H / Otomotiv Elektrikçiliği"
+},
+"5148": {
+  adSoyAd: "Volkan BOZOĞLU",
+  sube: "10 H / Otomotiv Elektrikçiliği"
+},
+"74256": {
+  adSoyAd: "Yağız Kemal UĞUN",
+  sube: "10 F / Otomotiv Elektrikçiliği"
+},
+"69982": {
+  adSoyAd: "Yusuf KÖYSÜ",
+  sube: "10 G / Otomotiv Elektrikçiliği"
+},
+"32038": {
+  adSoyAd: "Abdulsamet TEMEL",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"43226": {
+  adSoyAd: "Abdurrahim KAYA",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"83772": {
+  adSoyAd: "Abdül Samet Z.",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"75464": {
+  adSoyAd: "Ahmet YÜKSEL",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"94822": {
+  adSoyAd: "Ali Haydar A.",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"63756": {
+  adSoyAd: "Arif Hasan KARAOĞLU",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"89622": {
+  adSoyAd: "Atakan SEVGİ",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"36304": {
+  adSoyAd: "Baran YILDIRIM",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"67020": {
+  adSoyAd: "Berat GÖKÇE",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"91200": {
+  adSoyAd: "Berat Gökhan TUNÇ",
+  sube: "10 / Otomotiv Elektromekanik"
+},
+"24646": {
+  adSoyAd: "Berat YEGİN",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"61916": {
+  adSoyAd: "Bünyamin YAĞIZ",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"93410": {
+  adSoyAd: "Çınar ŞAHİN",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"50154": {
+  adSoyAd: "Efe ARSLAN",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"67854": {
+  adSoyAd: "Efecan ERMİŞ",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"53542": {
+  adSoyAd: "Ege MUTLU",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"20798": {
+  adSoyAd: "Elyesa KILIÇ",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"52326": {
+  adSoyAd: "Emir Efe ERDOĞMUŞ",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"70248": {
+  adSoyAd: "Emir Nevzat ŞENKAN",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"39350": {
+  adSoyAd: "Enes TÜRKAY",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"78042": {
+  adSoyAd: "Eren KÖYLÜ",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"30512": {
+  adSoyAd: "Eren ÖZTÜRK",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"22290": {
+  adSoyAd: "Fatih ÇAKIR",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"5282": {
+  adSoyAd: "Halil Burak KARA",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"46594": {
+  adSoyAd: "Halil SÖNMEZ",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"78308": {
+  adSoyAd: "Hüsamettin KILIÇ",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"25838": {
+  adSoyAd: "Hüzeyfe GÖKKAYA",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"55168": {
+  adSoyAd: "İbrahim Halil SEZİKLİ",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"48010": {
+  adSoyad: "İshak UĞUZ",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"90320": {
+  adSoyad: "Kaan TEZEL",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"47786": {
+  adSoyad: "Kaancan BAŞARAN",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"37986": {
+  adSoyad: "Kadir YAVUZ",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"29794": {
+  adSoyad: "Kenan KURT",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"73694": {
+  adSoyad: "Kerem KUĞUMCU",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"46014": {
+  adSoyad: "Kuzey BAYAR",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"28118": {
+  adSoyad: "Mehmet Can ŞAYIP",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"30262": {
+  adSoyad: "Mert Ali BAYLAN",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"72052": {
+  adSoyad: "Mert TAŞKIN",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"60076": {
+  adSoyad: "Metehan ÇİÇEK",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"37552": {
+  adSoyad: "Muhammed Berat EŞUT",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"81348": {
+  adSoyad: "Muhammed Emin BABAN",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"52486": {
+  adSoyad: "Muhammed Eren KAR",
+  sube: "10 / Otomotiv Elektromekanik"
+},
+"67638": {
+  adSoyad: "Muhammed Sait KAYA",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"86810": {
+  adSoyad: "Muhammed SIRÇANCI",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"21148": {
+  adSoyad: "Muhammet Emin GÖREN",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"21532": {
+  adSoyad: "Muhammet Hüseyin DEMİR",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"83562": {
+  adSoyad: "Muhammet İNAN",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"28254": {
+  adSoyad: "Muhammet Mustafa YILDIZ",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"99904": {
+  adSoyad: "Muharrem TEKE",
+  sube: "10 G / Otomotiv Elektromekanik"
+},
+"51374": {
+  adSoyad: "Murat YOLDAŞ",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"80284": {
+  adSoyad: "Mustafa Cesur NARİN",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"48450": {
+  adSoyad: "Müslüm ÇOBAN",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"93996": {
+  adSoyad: "Ömer ALTAY",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"7840": {
+  adSoyad: "Ömer BENLİ",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"41676": {
+  adSoyad: "Ömer TAŞ",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"22058": {
+  adSoyad: "Ömer TUNÇ",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"99612": {
+  adSoyad: "Polat ÇINAR",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"92236": {
+  adSoyad: "Poyraz Ali ÇAĞLAK",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"18206": {
+  adSoyad: "Ramazan TAŞGIN",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"5154": {
+  adSoyad: "Recep Tayyip KAYA",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"67670": {
+  adSoyad: "Recep TÜRKKAN",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"72476": {
+  adSoyad: "Rüzgar ATAÇ",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"37770": {
+  adSoyad: "Salih SAGIŞ",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"62682": {
+  adSoyad: "Samet BEYDOĞAN",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"31170": {
+  adSoyad: "Sefa Eren CAN",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"57010": {
+  adSoyad: "Süheyl TATAK",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"71178": {
+  adSoyad: "Şenol EMEK",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"75252": {
+  adSoyad: "Şiyar KARADAĞ",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"52220": {
+  adSoyad: "Talha Ensar BOLAT",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"44898": {
+  adSoyad: "Umut Arslan KAYALAR",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"29826": {
+  adSoyad: "Utku KUŞKU",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"96494": {
+  adSoyad: "Yağız Efe GÜNER",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"63384": {
+  adSoyad: "Yasin CİSA",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"36608": {
+  adSoyad: "Yasin ÇELİK",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"31892": {
+  adSoyad: "Yasin EROL",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"40882": {
+  adSoyad: "Yasin ESEN",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"7626": {
+  adSoyad: "Yiğit GEMİCİ",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"38376": {
+  adSoyad: "Yiğit GÜLEN",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"46728": {
+  adSoyad: "Yiğit ÖVÜT",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"15114": {
+  adSoyad: "Yunus Can ALTINTAŞ",
+  sube: "10 İ / Otomotiv Elektromekanik"
+},
+"94206": {
+  adSoyad: "Yunus Emre GÜZELYURT",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"58484": {
+  adSoyad: "Yunus Emre SAYGI",
+  sube: "10 H / Otomotiv Elektromekanik"
+},
+"57096": {
+  adSoyad: "Yusuf TOKUR",
+  sube: "10 F / Otomotiv Elektromekanik"
+},
+"81290": {
+  adSoyad: "Yusufcan CENGİZ",
+  sube: "10 K / Otomotiv Elektromekanik"
+},
+"95456": {
+  adSoyad: "Abdullah GÖK",
+  sube: "10 G / Otomotiv Gövde"
+},
+"50060": {
+  adSoyad: "Ahmet Talha KARTAL",
+  sube: "10 H / Otomotiv Gövde"
+},
+"68268": {
+  adSoyad: "Arda SERTTAŞ",
+  sube: "10 F / Otomotiv Gövde"
+},
+"77952": {
+  adSoyad: "Berat BABACAN",
+  sube: "10 F / Otomotiv Gövde"
+},
+"85780": {
+  adSoyad: "Berkay TATAR",
+  sube: "10 İ / Otomotiv Gövde"
+},
+"6808": {
+  adSoyad: "Berke SOVAN",
+  sube: "10 G / Otomotiv Gövde"
+},
+"24402": {
+  adSoyad: "Cesim ERGÜN",
+  sube: "10 F / Otomotiv Gövde"
+},
+"53234": {
+  adSoyad: "Egehan DOĞRU",
+  sube: "10 H / Otomotiv Gövde"
+},
+"98738": {
+  adSoyad: "Emir ALTUNOLUK",
+  sube: "10 G / Otomotiv Gövde"
+},
+"97444": {
+  adSoyad: "Emre SAKA",
+  sube: "10 F / Otomotiv Gövde"
+},
+"86644": {
+  adSoyad: "İsmail Efe YENİYURT",
+  sube: "10 G / Otomotiv Gövde"
+},
+"34304": {
+  adSoyad: "Kuzey BOSTANCI",
+  sube: "10 K / Otomotiv Gövde"
+},
+"30832": {
+  adSoyad: "Mikail Yalçın KAYA",
+  sube: "10 K / Otomotiv Gövde"
+},
+"3394": {
+  adSoyad: "Muhammed Can ALPASLAN",
+  sube: "10 H / Otomotiv Gövde"
+},
+"62080": {
+  adSoyad: "Muhammed Can OLGUN",
+  sube: "10 İ / Otomotiv Gövde"
+},
+"93430": {
+  adSoyad: "Serkan GÜNDOĞDU",
+  sube: "10 G / Otomotiv Gövde"
+},
+"62884": {
+  adSoyad: "Seyit Ahmet EROL",
+  sube: "10 İ / Otomotiv Gövde"
+},
+"5578": {
+  adSoyad: "Umut KARTAL",
+  sube: "10 K / Otomotiv Gövde"
+},
+"31088": {
+  adSoyad: "Yusuf KURU",
+  sube: "10 H / Otomotiv Gövde"
+},
+"3054": {
+  adSoyad: "Ahmet Hasan KAYA",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"24110": {
+  adSoyad: "Ali ÖZDEMİR",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"90808": {
+  adSoyad: "Barış Enes HORZUM",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"50026": {
+  adSoyad: "Batuhan SEVGİ",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"95076": {
+  adSoyad: "Berat AKKUL",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"75788": {
+  adSoyad: "Berat ATEŞ",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"2642": {
+  adSoyad: "Berat BİLGİN",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"58258": {
+  adSoyad: "Berat KABA",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"50192": {
+  adSoyad: "Berke BASAR",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"87498": {
+  adSoyad: "Bilal Can KARASAKAL",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"99222": {
+  adSoyad: "Bünyamin BAŞ",
+  sube: "10 F / Otomotiv Mekanikerliği"
+},
+"18162": {
+  adSoyad: "Can Muhammed KÜL",
+  sube: "10 / Otomotiv Mekanikerliği"
+},
+"85740": {
+  adSoyad: "Cesur ARMUT",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"96666": {
+  adSoyad: "Demir Kaan DUMAN",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"49182": {
+  adSoyad: "Efe DÖNMEZ",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"86664": {
+  adSoyad: "Efe GÖKBULUT",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"14630": {
+  adSoyad: "Efe ÖZCAN",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"11516": {
+  adSoyad: "Efe TAŞTEKİN",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"6528": {
+  adSoyad: "Ege EROL",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"99086": {
+  adSoyad: "Emir GÜREŞİR",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"28874": {
+  adSoyad: "Emrullah BATUMAK",
+  sube: "10 / Otomotiv Mekanikerliği"
+},
+"41066": {
+  adSoyad: "Enes AKAY",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"63764": {
+  adSoyad: "Ezel Berk ŞEN",
+  sube: "10 F / Otomotiv Mekanikerliği"
+},
+"34430": {
+  adSoyad: "Faik KAYA",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"87324": {
+  adSoyad: "Furkan TEKİN",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"70266": {
+  adSoyad: "Hakan ARIK",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"19416": {
+  adSoyad: "Hüseyin Kayra ÖZER",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"32898": {
+  adSoyad: "İbrahim Emre ASLAN",
+  sube: "10 F / Otomotiv Mekanikerliği"
+},
+"22528": {
+  adSoyad: "İlker Kağan ÖZER",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"30288": {
+  adSoyad: "Kaan DAL",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"87844": {
+  adSoyad: "Kaan İNAN",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"15570": {
+  adSoyad: "Kemal ATAK",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"57872": {
+  adSoyad: "Lokman Efe ŞENGÜL",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"14496": {
+  adSoyad: "Mahmut ÇETİNKAYA",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"5788": {
+  adSoyad: "Mehmet Ali GÜNEY",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"43506": {
+  adSoyad: "Mehmet Emir SOYLU",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"60132": {
+  adSoyad: "Muarrem BAYDAR",
+  sube: "10 F / Otomotiv Mekanikerliği"
+},
+"24700": {
+  adSoyad: "Muhammed Emin ZORAVALİ",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"57060": {
+  adSoyad: "Muhammed Furkan KÖSE",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"21268": {
+  adSoyad: "Muhammed Mustafa GILIÇ",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"55294": {
+  adSoyad: "Muhammed Yasir GÖK",
+  sube: "10 F / Otomotiv Mekanikerliği"
+},
+"67854": {
+  adSoyad: "Muhammet Can IŞIK",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"57130": {
+  adSoyad: "Muhammet Efe ÖZÇELİK",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"43172": {
+  adSoyad: "Muhammet Hasan ALTIN",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"22150": {
+  adSoyad: "Murat Efe KOÇDAĞ",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"81640": {
+  adSoyad: "Mustafa Eren ŞİMŞEK",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"90872": {
+  adSoyad: "Onur ÖNCEL",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"57656": {
+  adSoyad: "Poyraz DEMİR",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"27280": {
+  adSoyad: "Ramazan GELİYOR",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"9300": {
+  adSoyad: "Rasim KİLİTÇİ",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"35068": {
+  adSoyad: "Remzi GÖKÇE",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"54410": {
+  adSoyad: "Said Mansur ELBAHADIR",
+  sube: "10 F / Otomotiv Mekanikerliği"
+},
+"3888": {
+  adSoyad: "Serhat ADIGÜZEL",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"53130": {
+  adSoyad: "Taha TÜRKMENDAĞ",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"14526": {
+  adSoyad: "Talha Muhammet ÇAPCI",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"94122": {
+  adSoyad: "Tuğrul SEVGİ",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"31816": {
+  adSoyad: "Uğur KUŞCU",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"56448": {
+  adSoyad: "Umut YILDIZLI",
+  sube: "10 F / Otomotiv Mekanikerliği"
+},
+"30138": {
+  adSoyad: "Umutcan AYAZ",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"55900": {
+  adSoyad: "Utku SANCAR",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"84860": {
+  adSoyad: "Veysel ALİŞAN",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"76126": {
+  adSoyad: "Veysel GÖKÇE",
+  sube: "10 H / Otomotiv Mekanikerliği"
+},
+"7320": {
+  adSoyad: "Veysel YILDIRIM",
+  sube: "10 F / Otomotiv Mekanikerliği"
+},
+"98112": {
+  adSoyad: "Yiğit Can SEVİM",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"54630": {
+  adSoyad: "Yiğit KAHRAMAN",
+  sube: "10 İ / Otomotiv Mekanikerliği"
+},
+"2332": {
+  adSoyad: "Yiğit PEKMEZCİ",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"22498": {
+  adSoyad: "Yunus Emre YILDIZ",
+  sube: "10 K / Otomotiv Mekanikerliği"
+},
+"43998": {
+  adSoyad: "Yusuf Yiğit ARPACI",
+  sube: "10 G / Otomotiv Mekanikerliği"
+},
+"10656": {
+  adSoyad: "Berat YAVUZ",
+  sube: "10 F / Otomotiv Motor Yenileştirmeciliği"
+},
+"58410": {
+  adSoyad: "Abdulservet ŞAHİN",
+  sube: "10 F / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"55876": {
+  adSoyad: "Ali Can YANIKCI",
+  sube: "10 K / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"10946": {
+  adSoyad: "Ata İŞLER",
+  sube: "10 G / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"71886": {
+  adSoyad: "Batuhan ÖZBURUN",
+  sube: "10 K / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"83636": {
+  adSoyad: "Bedirhan KOÇ",
+  sube: "10 G / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"54532": {
+  adSoyad: "Beytullah AKYÜZ",
+  sube: "10 İ / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"21864": {
+  adSoyad: "Bilal ÖZBEK",
+  sube: "10 H / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"60210": {
+  adSoyad: "Burak ACAR",
+  sube: "10 G / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"84422": {
+  adSoyad: "Enver ÜNAL",
+  sube: "10 G / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"54258": {
+  adSoyad: "Mahmut YILDIRIM",
+  sube: "10 İ / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"57980": {
+  adSoyad: "Mert Can TEKDOĞAN",
+  sube: "10 H / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"18952": {
+  adSoyad: "Muhammed KOÇ",
+  sube: "10 H / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"70160": {
+  adSoyad: "Ramazan GÜNEŞ",
+  sube: "10 H / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"73826": {
+  adSoyad: "Samet BEBE",
+  sube: "10 K / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"37038": {
+  adSoyad: "Sefa YILMAZ",
+  sube: "10 H / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"80150": {
+  adSoyad: "Soner ÖZMENTEŞ",
+  sube: "10 F / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"99666": {
+  adSoyad: "Yakup Mehmet YÜKSEL",
+  sube: "10 İ / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"42284": {
+  adSoyad: "Yusuf ÇİFTÇİ",
+  sube: "10 İ / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"49632": {
+  adSoyad: "Yusuf Eren ÇUKADAR",
+  sube: "10 G / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"58706": {
+  adSoyad: "Yusuf Ziya BAYRAM",
+  sube: "10 K / Ön Düzen Ayarcılığı Ve Lastikçilik"
+},
+"91976": {
+  adSoyad: "Ahmed GÜNEŞ",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"92898": {
+  adSoyad: "Avesta Damla OKŞAK",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"23228": {
+  adSoyad: "Beyzanur KARATAŞ",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"99374": {
+  adSoyad: "Ceren Betül DURMUŞ",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"39576": {
+  adSoyad: "Ceylin ÖKSÜZ",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"36042": {
+  adSoyad: "Delil SÖYLEMEZ",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"96794": {
+  adSoyad: "Ecrin Naz KARAMAN",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"52558": {
+  adSoyad: "Enes ERDEM",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"80132": {
+  adSoyad: "Kardelen İLTER",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"1756": {
+  adSoyad: "Nesrin KINIK",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"60542": {
+  adSoyad: "Nurbanu ÖNDARÖ",
+  sube: "10 / Pasta Ve Tatlı Yapımı"
+},
+"67052": {
+  adSoyad: "Poyraz COŞKUN",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"72408": {
+  adSoyad: "Sahra Saliha SARIGÜL",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"64820": {
+  adSoyad: "Sümeyye SIRDAŞ",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"22852": {
+  adSoyad: "Şüheda GÖNÜL",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"9972": {
+  adSoyad: "Yasin Erdinç AKINCI",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"40056": {
+  adSoyad: "Yeşim BALANDI",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"30130": {
+  adSoyad: "Yunus ALADAĞ",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"31140": {
+  adSoyad: "Yusuf Sami ÖZEL",
+  sube: "10 M / Pasta Ve Tatlı Yapımı"
+},
+"59758": {
+  adSoyad: "Yusuf UNAL",
+  sube: "10 / Pasta Ve Tatlı Yapımı"
+},
+"18468": {
+  adSoyad: "Zeynep AYNA",
+  sube: "10 / Pasta Ve Tatlı Yapımı"
+},
+"31048": {
+  adSoyad: "Zeynep Eda KURBAN",
+  sube: "10 / Pasta Ve Tatlı Yapımı"
+},
+"17382": {
+  adSoyad: "Muhammet KONAK",
+  sube: "10 / Sac İşleri"
+},
+"434": {
+  adSoyad: "Mustafa TAŞHAN",
+  sube: "10 C1 / Sac İşleri"
+},
+"55726": {
+  adSoyad: "Enes NAZLIGÜL",
+  sube: "10 L1 / Soğutma Sistemleri"
+},
+"91366": {
+  adSoyad: "Alperen ÖZDEMİR",
+  sube: "10 E1 / Yazılım Geliştirme"
+},
+"77486": {
+  adSoyad: "Ömer Fatih CENGİZ",
+  sube: "10 E1 / Yazılım Geliştirme"
+},
+"30084": {
+  adSoyad: "Ercan YILMAZ",
+  sube: "11 K7 / Ahşap Doğrama Teknolojisi"
+},
+"55898": {
+  adSoyad: "Asya YAMAN",
+  sube: "11 D / Aşçılık"
+},
+"9864": {
+  adSoyad: "Azra SÖYLEMEZ",
+  sube: "11 D / Aşçılık"
+},
+"15940": {
+  adSoyad: "Bulut DEMİR",
+  sube: "11 D / Aşçılık"
+},
+"89482": {
+  adSoyad: "Elif BAGIRAN",
+  sube: "11 D / Aşçılık"
+},
+"50240": {
+  adSoyad: "Emirhan BAYDEDE",
+  sube: "11 D / Aşçılık"
+},
+"56120": {
+  adSoyad: "Fatmanur AYDIN",
+  sube: "11 D / Aşçılık"
+},
+"28662": {
+  adSoyad: "Huriye ŞEYHAHMED",
+  sube: "11 D / Aşçılık"
+},
+"14166": {
+  adSoyad: "Muhammet Batuhan AYDIN",
+  sube: "11 D / Aşçılık"
+},
+"66616": {
+  adSoyad: "Musa TÜRKAY",
+  sube: "11 D / Aşçılık"
+},
+"42946": {
+  adSoyad: "Mustafa Efe DEMİR",
+  sube: "11 D / Aşçılık"
+},
+"17426": {
+  adSoyad: "Necati Levent HEBEBCİ",
+  sube: "11 D / Aşçılık"
+},
+"71460": {
+  adSoyad: "Oğuzhan SAPİL",
+  sube: "11 D / Aşçılık"
+},
+"24390": {
+  adSoyad: "Sinem BİLECEN",
+  sube: "11 D / Aşçılık"
+},
+"27250": {
+  adSoyad: "Şeref DÜZENLİ",
+  sube: "11 D / Aşçılık"
+},
+"27260": {
+  adSoyad: "Taha ÇAKMAK",
+  sube: "11 D / Aşçılık"
+},
+"22000": {
+  adSoyad: "Yiğit AŞCI",
+  sube: "11 D / Aşçılık"
+},
+"17900": {
+  adSoyad: "Fatih BUDAK",
+  sube: "11 K4 / Bilgisayar Teknik Servisi"
+},
+"98726": {
+  adSoyad: "Yunus Emre KURT",
+  sube: "11 K4 / Bilgisayar Teknik Servisi"
+},
+"91792": {
+  adSoyad: "Yusuf Aybars ÇELİK",
+  sube: "11 K4 / Bilgisayar Teknik Servisi"
+},
+"2858": {
+  adSoyad: "Arda DİŞLİ",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"13668": {
+  adSoyad: "Barış ATTİLLA",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"86192": {
+  adSoyad: "Batuhan GÜNDOĞAN",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"57796": {
+  adSoyad: "Efe ÇAMURCU",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"57824": {
+  adSoyad: "Kaan TELLİ",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"70586": {
+  adSoyad: "Kemal ÇETİNKAYA",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"22290": {
+  adSoyad: "Muhammed Mümtaz AŞIROĞLU",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"27800": {
+  adSoyad: "Mustafa AKBABA",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"99220": {
+  adSoyad: "Oğuz ÇOKDER",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"7966": {
+  adSoyad: "Ömer Emin Can ATEŞ",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"4346": {
+  adSoyad: "Serhat ÇETİNKAYA",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"93936": {
+  adSoyad: "Yasin TATAR",
+  sube: "11 İ / Bilgisayarlı Makine İmalatı"
+},
+"78124": {
+  adSoyad: "Caner ÇOMAK",
+  sube: "11 C1 / Bobinaj"
+},
+"59936": {
+  adSoyad: "Emirhan DEĞERLİ",
+  sube: "11 C1 / Bobinaj"
+},
+"15428": {
+  adSoyad: "Samet TONBUL",
+  sube: "11 C1 / Bobinaj"
+},
+"14760": {
+  adSoyad: "Yasin ÖZKAYA",
+  sube: "11 C1 / Bobinaj"
+},
+"17572": {
+  adSoyad: "Çisem Berna ÖNDARÖ",
+  sube: "11 A1 / Cilt Bakımı Ve Makyaj"
+},
+"76706": {
+  adSoyad: "Elif MACAR",
+  sube: "11 A1 / Cilt Bakımı Ve Makyaj"
+},
+"73630": {
+  adSoyad: "Fatma Zehra DEMİREL",
+  sube: "11 A1 / Cilt Bakımı Ve Makyaj"
+},
+"99696": {
+  adSoyad: "Nisanur ATICI",
+  sube: "11 A1 / Cilt Bakımı Ve Makyaj"
+},
+"28806": {
+  adSoyad: "Nisanur KOCAR",
+  sube: "11 A1 / Cilt Bakımı Ve Makyaj"
+},
+"50670": {
+  adSoyad: "Yasmin YALIM",
+  sube: "11 A1 / Cilt Bakımı Ve Makyaj"
+},
+"27306": {
+  adSoyad: "Yunus Emre KORCAN",
+  sube: "11 E1 / Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı"
+},
+"20710": {
+  adSoyad: "Adil DOĞAN",
+  sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"36446": {
+  adSoyad: "Alperen ÜNLÜ",
+  sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"42738": {
+  adSoyad: "Arda HAS",
+  sube: "11 K8 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"26118": {
+  adSoyad: "Batuhan ÇALIŞKAN",
+  sube: "11 K8 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"63748": {
+  adSoyad: "Egemen BİRYAN",
+  sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"7746": {
+  adSoyad: "Emirhan ELİTAŞ",
+  sube: "11 K8 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"67420": {
+  adSoyad: "Enes KARAMAN",
+  sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"18464": {
+  adSoyad: "Ercan EREN",
+  sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"37098": {
+  adSoyad: "Hüseyin YAMAN",
+  sube: "11 K8 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"45062": {
+  adSoyad: "Kadim AĞRAŞ",
+  sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"58654": {
+  adSoyad: "Mehmet UZUN",
+  sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"33590": {
+  adSoyad: "Mert ÇETİNKAYA",
+  sube: "11 K8 / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+"72574": {
+  adSoyad: "Mert DERENBİK",
+  sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+},
+  "42838": {
+    adSoyad: "Şaban ÜNLÜ",
+    sube: "11 K8 / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "20508": {
+    adSoyad: "Yakup EREN",
+    sube: "11 K8 / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "65394": {
+    adSoyad: "Yiğit KIRCAOĞLU",
+    sube: "11 K8 / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "76998": {
+    adSoyad: "Yunus Bilal AKYÜZ",
+    sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "42862": {
+    adSoyad: "Yunus Emre KALAYCI",
+    sube: "11 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "5130": {
+    adSoyad: "Baran AKINCI",
+    sube: "11 C2 / Elektrikli Ev Aletleri Teknik Servisi"
+  },
+  "3182": {
+    adSoyad: "Metin Can TAŞKIRAN",
+    sube: "11 C2 / Elektrikli Ev Aletleri Teknik Servisi"
+  },
+  "48436": {
+    adSoyad: "Uğur GÜLER",
+    sube: "11 C2 / Elektrikli Ev Aletleri Teknik Servisi"
+  },
+  "38688": {
+    adSoyad: "Eyüp TEKTAŞ",
+    sube: "11 C3 / Endüstriyel Bakım Onarım"
+  },
+  "13282": {
+    adSoyad: "Taha KARAER",
+    sube: "11 K12 / Endüstriyel Reklamcı (Tabelacı)"
+  },
+  "46582": {
+    adSoyad: "Ahmet AYDOĞAN",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "53726": {
+    adSoyad: "Arda ÖZAYDIN",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "56992": {
+    adSoyad: "Arda YÜKSEL",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "10024": {
+    adSoyad: "Batuhan ÖZEN",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "98074": {
+    adSoyad: "Berat Kaan TATAR",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "5946": {
+    adSoyad: "Berat ÖZLÜ",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "30984": {
+    adSoyad: "Berkay ÇAMCI",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "15792": {
+    adSoyad: "Efe DOĞAN",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "32596": {
+    adSoyad: "Emirhan ÖZCAN",
+    sube: "11 / Erkek Kuaförlüğü"
+  },
+  "87248": {
+    adSoyad: "Emre TÜRK",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "89608": {
+    adSoyad: "Erdem Eren BİLİCİ",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "78898": {
+    adSoyad: "Fırat YARIM",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "37336": {
+    adSoyad: "Fuat Efe EĞRİYOL",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "49746": {
+    adSoyad: "Hacı Mustafa TEKNE",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "9330": {
+    adSoyad: "Hüseyin Erdem AKSEL",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "75354": {
+    adSoyad: "İbrahim DEMİR",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "7904": {
+    adSoyad: "İbrahim DEMİR",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "5912": {
+    adSoyad: "İlker KARAASLAN",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "92538": {
+    adSoyad: "İsmail DEMİR",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "31158": {
+    adSoyad: "İsmet SİVRİ",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "59776": {
+    adSoyad: "Kadir TEKDOĞAN",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "56816": {
+    adSoyad: "Mehmet Ali ERYİĞİT",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "53580": {
+    adSoyad: "Mehmet Emre YEŞİLYURT",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "87622": {
+    adSoyad: "Melih SARAÇLI",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "56512": {
+    adSoyad: "Mert TÜRK",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "82540": {
+    adSoyad: "Miraç AKYÜZ",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "42300": {
+    adSoyad: "Muhammed CANLI",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "27988": {
+    adSoyad: "Muhammed Taha HASAR",
+    sube: "11 / Erkek Kuaförlüğü"
+  },
+  "29162": {
+    adSoyad: "Mustafa YANIKCI",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "36876": {
+    adSoyad: "Nurettin ÇOLAK",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "55228": {
+    adSoyad: "Salih KAYNAK",
+    sube: "11 / Erkek Kuaförlüğü"
+  },
+  "30532": {
+    adSoyad: "Umut Arda ÇELİK",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "2092": {
+    adSoyad: "Umut ŞAHİN",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "80350": {
+    adSoyad: "Veysel Aras SAVCI",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "32466": {
+    adSoyad: "Volkan Ahmet KILIÇ",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "71130": {
+    adSoyad: "Yasin BOZKURT",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "25750": {
+    adSoyad: "Yasin GÜNDÜZ",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "83442": {
+    adSoyad: "Yavuz Emir HASAR",
+    sube: "11 / Erkek Kuaförlüğü"
+  },
+  "5538": {
+    adSoyad: "Ysmayyl MYRATNAZAROV",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "68942": {
+    adSoyad: "Yunus Emre KAHRAMAN",
+    sube: "11 B / Erkek Kuaförlüğü"
+  },
+  "77606": {
+    adSoyad: "Enes BARAN",
+    sube: "11 H2 / Fırıncılık"
+  },
+  "85182": {
+    adSoyad: "Enes Buğra CEYLAN",
+    sube: "11 D2 / Fotoğraf"
+  },
+  "2122": {
+    adSoyad: "Ferhat YILDIRIM",
+    sube: "11 D2 / Fotoğraf"
+  },
+  "63372": {
+    adSoyad: "Göknur ATLI",
+    sube: "11 D2 / Fotoğraf"
+  },
+  "28134": {
+    adSoyad: "Hasan KARTAL",
+    sube: "11 İ4 / Gaz Yakıcı Cihazlar Ve Servis"
+  },
+  "74272": {
+    adSoyad: "Mehmet Uğur DÖNER",
+    sube: "11 İ4 / Gaz Yakıcı Cihazlar Ve Servis"
+  },
+  "61490": {
+    adSoyad: "Murat KARTAL",
+    sube: "11 İ4 / Gaz Yakıcı Cihazlar Ve Servis"
+  },
+  "75140": {
+    adSoyad: "Tarık ÇELİK",
+    sube: "11 İ4 / Gaz Yakıcı Cihazlar Ve Servis"
+  },
+  "12502": {
+    adSoyad: "Erdoğan YEŞİLDAĞ",
+    sube: "11 K10 / Görüntü Ve Ses Sistemleri"
+  },
+  "14672": {
+    adSoyad: "Mustafa Burak TARHAN",
+    sube: "11 K10 / Görüntü Ve Ses Sistemleri"
+  },
+  "87422": {
+    adSoyad: "Yakup DÖMBEK",
+    sube: "11 K10 / Görüntü Ve Ses Sistemleri"
+  },
+  "87326": {
+    adSoyad: "Yakup Efe DOĞMUŞ",
+    sube: "11 K10 / Görüntü Ve Ses Sistemleri"
+  },
+  "19706": {
+    adSoyad: "Berat CİVELEK",
+    sube: "11 C4 / Haberleşme Sistemleri"
+  },
+  "1862": {
+    adSoyad: "Yiğit Can KAÇMAZ",
+    sube: "11 C4 / Haberleşme Sistemleri"
+  },
+  "31272": {
+    adSoyad: "Yusuf BAYRAM",
+    sube: "11 C4 / Haberleşme Sistemleri"
+  },
+  "69306": {
+    adSoyad: "Delil EREN",
+    sube: "11 İ3 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "48092": {
+    adSoyad: "Muhammet EREN",
+    sube: "11 İ3 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "89580": {
+    adSoyad: "Sidar EREN",
+    sube: "11 İ3 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "17506": {
+    adSoyad: "Vedat AKTEKİN",
+    sube: "11 İ3 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "80908": {
+    adSoyad: "Yusuf AKTEKİN",
+    sube: "11 İ3 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "43164": {
+    adSoyad: "Emre ZENBİLLİ",
+    sube: "11 K6 / İç Mekân Ve Mobilya Teknolojisi"
+  },
+  "20822": {
+    adSoyad: "Eymen ÖNAL",
+    sube: "11 K6 / İç Mekân Ve Mobilya Teknolojisi"
+  },
+  "68654": {
+    adSoyad: "Muhammet Emin KAYA",
+    sube: "11 K6 / İç Mekân Ve Mobilya Teknolojisi"
+  },
+  "68502": {
+    adSoyad: "Burak YAVUZ",
+    sube: "11 İ5 / İklimlendirme Sistemleri"
+  },
+  "93702": {
+    adSoyad: "Demir YILDIRAN",
+    sube: "11 İ5 / İklimlendirme Sistemleri"
+  },
+  "53558": {
+    adSoyad: "Emircan SAATCI",
+    sube: "11 F1 / İş Makineleri"
+  },
+  "20800": {
+    adSoyad: "Hikmet Eren SERTOĞLU",
+    sube: "11 F1 / İş Makineleri"
+  },
+  "46062": {
+    adSoyad: "İbrahim Ersan TOZUN",
+    sube: "11 F1 / İş Makineleri"
+  },
+  "42344": {
+    adSoyad: "Aysu DEMİRKIR",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "45418": {
+    adSoyad: "Azra ÇAĞAN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "28092": {
+    adSoyad: "Azra KENT",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "7146": {
+    adSoyad: "Berfin ERYİĞİT",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "11798": {
+    adSoyad: "Beril ŞENTÜRK",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "29312": {
+    adSoyad: "Beyzanur MERĞEN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "95950": {
+    adSoyad: "Burak BALKIZ",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "72116": {
+    adSoyad: "Ecrin Havin AKDOĞAN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "23012": {
+    adSoyad: "Ecrin KALAY",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "82016": {
+    adSoyad: "Ela Seray SEVİM",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "83602": {
+    adSoyad: "Emine DENİZ",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "78942": {
+    adSoyad: "Esra TÜRKDOĞAN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "87104": {
+    adSoyad: "Eylül Yasmin TEMİZKAN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "20346": {
+    adSoyad: "Gizem YURTSEVER",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "46844": {
+    adSoyad: "Halil Suat PABUÇÇU",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "36164": {
+    adSoyad: "Hüseyin Eymen DUMANOVA",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "28944": {
+    adSoyad: "İrem YURTSEVER",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "3192": {
+    adSoyad: "İremnaz DEMİRDÖVEN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "48796": {
+    adSoyad: "Mediha Naz ALTUNAY",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "502": {
+    adSoyad: "Mert KIZILKAYA",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "45850": {
+    adSoyad: "Merve GÜNEŞ",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "47696": {
+    adSoyad: "Rengin ÇAKIN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "66284": {
+    adSoyad: "Rojbin ÇELEBİ",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "8528": {
+    adSoyad: "Rosida DEMİRHAN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "76468": {
+    adSoyad: "Selen YALÇIN",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "76126": {
+    adSoyad: "Selin BOZKURT",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "92786": {
+    adSoyad: "Songül GÜRCÜ",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "73252": {
+    adSoyad: "Sudenaz TANIK",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "87824": {
+    adSoyad: "Sumaya OLIMOVA",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "27210": {
+    adSoyad: "Tunç KESER",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "21942": {
+    adSoyad: "Yiğit Efe KÖKSAL",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "652": {
+    adSoyad: "Yunus Emre ÇİÇEK",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "15192": {
+    adSoyad: "Yunus Emre GÜNDÜZ",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "65982": {
+    adSoyad: "Zerrin ÖZER",
+    sube: "11 A / Kadın Kuaförlüğü"
+  },
+  "33090": {
+    adSoyad: "Alper BALCI",
+    sube: "11 K / Kaynakçılık"
+  },
+  "99504": {
+    adSoyad: "Caner KUYU",
+    sube: "11 K / Kaynakçılık"
+  },
+  "52256": {
+    adSoyad: "Faruk KOÇYİĞİT",
+    sube: "11 K / Kaynakçılık"
+  },
+  "46776": {
+    adSoyad: "Mert ATTİLLA",
+    sube: "11 K / Kaynakçılık"
+  },
+  "84600": {
+    adSoyad: "Muhammet Ali KAYA",
+    sube: "11 K / Kaynakçılık"
+  },
+  "11236": {
+    adSoyad: "Yunus ULUSOY",
+    sube: "11 K / Kaynakçılık"
+  },
+  "30916": {
+    adSoyad: "Enes SAMANCI",
+    sube: "11 İ1 / Makine Bakım Onarım"
+  },
+  "55964": {
+    adSoyad: "Kaan Deniz İLGÜN",
+    sube: "11 İ1 / Makine Bakım Onarım"
+  },
+  "80996": {
+    adSoyad: "Oğuzhan Kayra DEMİR",
+    sube: "11 İ1 / Makine Bakım Onarım"
+  },
+  "68046": {
+    adSoyad: "Ömer Sait TOPCU",
+    sube: "11 İ2 / Mermer İşleme"
+  },
+  "82664": {
+    adSoyad: "Efe BABUR",
+    sube: "11 K2 / Metal Doğrama"
+  },
+  "79540": {
+    adSoyad: "Açelya BAYEZİT",
+    sube: "11 K3 / Muhasebe"
+  },
+  "45152": {
+    adSoyad: "Duru KÜÇÜK",
+    sube: "11 K3 / Muhasebe"
+  },
+  "93028": {
+    adSoyad: "Sevim Yaren TEZCAN",
+    sube: "11 K3 / Muhasebe"
+  },
+  "94422": {
+    adSoyad: "Ahmet Serkan ÖZYÜRÜK",
+    sube: "11 E2 / Otomotiv Boya"
+  },
+  "67478": {
+    adSoyad: "Baran AKÇAKOCA",
+    sube: "11 E2 / Otomotiv Boya"
+  },
+  "41566": {
+    adSoyad: "Delil EREN",
+    sube: "11 E2 / Otomotiv Boya"
+  },
+  "49090": {
+    adSoyad: "İlyas AYDIN",
+    sube: "11 E2 / Otomotiv Boya"
+  },
+  "44906": {
+    adSoyad: "Jiyan AY",
+    sube: "11 E2 / Otomotiv Boya"
+  },
+  "2270": {
+    adSoyad: "Ahmet Can YILMAZ",
+    sube: "11 G1 / Otomotiv Elektrikçiliği"
+  },
+  "12594": {
+    adSoyad: "Ayberk YAŞLI",
+    sube: "11 G1 / Otomotiv Elektrikçiliği"
+  },
+  "85200": {
+    adSoyad: "Berat Emin BİNGÖL",
+    sube: "11 G1 / Otomotiv Elektrikçiliği"
+  },
+  "114": {
+    adSoyad: "Hüseyin KUŞCU",
+    sube: "11 G1 / Otomotiv Elektrikçiliği"
+  },
+  "21962": {
+    adSoyad: "Olcay PAKSOY",
+    sube: "11 G1 / Otomotiv Elektrikçiliği"
+  },
+  "27494": {
+    adSoyad: "Ramazan ATICI",
+    sube: "11 G1 / Otomotiv Elektrikçiliği"
+  },
+  "14728": {
+    adSoyad: "Abdulkadir YAĞIZ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "2554": {
+    adSoyad: "Abdullah Samet BEKDAŞ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "30792": {
+    adSoyad: "Adnan GÖKÇEBAŞ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "11014": {
+    adSoyad: "Ahmet KELEŞ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "26386": {
+    adSoyad: "Ahmet Şafak KANAT",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "93376": {
+    adSoyad: "Ahmet YİĞİT",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "10382": {
+    adSoyad: "Ali Erkut GÜZEL",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "31906": {
+    adSoyad: "Alperen YAMAN",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "37724": {
+    adSoyad: "Arda ALTUN",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "69562": {
+    adSoyad: "Azat ÇETİNKAYA",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "87084": {
+    adSoyad: "Baki GÜNDOĞDU",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "32114": {
+    adSoyad: "Baran BAYTAR",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "99054": {
+    adSoyad: "Batın KILIÇ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "34284": {
+    adSoyad: "Bedirhan HACIOĞLU",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "6434": {
+    adSoyad: "Bedirhan KARAKAYA",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "22878": {
+    adSoyad: "Bedirhan SEVGİ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "31488": {
+    adSoyad: "Bıhışt BOZKURT",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "8348": {
+    adSoyad: "Bilal Rojhat AKİNCİ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "56974": {
+    adSoyad: "Bora ÖZ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "45512": {
+    adSoyad: "Burak KUBUR",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "39952": {
+    adSoyad: "Bünyamin BÜTÜN",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "79292": {
+    adSoyad: "Cem GÜLEÇ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "70872": {
+    adSoyad: "Çağrı SAKİNAK",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "28324": {
+    adSoyad: "Devran Ege ELİBOL",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "72962": {
+    adSoyad: "Devrim DÜNDAR",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "99598": {
+    adSoyad: "Duhan ÜNLÜTÜRK",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "80080": {
+    adSoyad: "Egemen ERSEVEN",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "24474": {
+    adSoyad: "Emirhan AKAY",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "52972": {
+    adSoyad: "Emirhan ATAŞ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "14092": {
+    adSoyad: "Emre DEMİR",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "65202": {
+    adSoyad: "Emre KIRCA",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "23710": {
+    adSoyad: "Enes TEKDEMİR",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "65748": {
+    adSoyad: "Furkan Emin ÖZDERE",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "82678": {
+    adSoyad: "Harun KAYALIK",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "20524": {
+    adSoyad: "Hasan ASLAN",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "53176": {
+    adSoyad: "Hasan Efe CİCİOĞLU",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "50402": {
+    adSoyad: "İsmail Buğra YÜREKLİ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "52794": {
+    adSoyad: "Kaan Altay ÇOLAK",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "34860": {
+    adSoyad: "Kaan ENGES",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "51002": {
+    adSoyad: "Kadir GERÇEKER",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "72926": {
+    adSoyad: "Kadir YILDIZ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "19980": {
+    adSoyad: "Mehmet Arda ELÇİ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "54422": {
+    adSoyad: "Metin Eren DEMİRCİ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "73954": {
+    adSoyad: "Muhammed Yasin PEKTEZEL",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "76284": {
+    adSoyad: "Murat Can AKYILDIZ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "64602": {
+    adSoyad: "Mustafa Samet KOCA",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "60536": {
+    adSoyad: "Muzaffer KELEŞ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "22486": {
+    adSoyad: "Ömer Faruk ALTUN",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "41472": {
+    adSoyad: "Özbek SARIALTUN",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "82932": {
+    adSoyad: "Polat BOYRAZ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "6460": {
+    adSoyad: "Samet AYDIN",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "88290": {
+    adSoyad: "Sami YAMAN",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "43412": {
+    adSoyad: "Selman KELLE",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "52922": {
+    adSoyad: "Serkan GÜNDOĞDU",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "76500": {
+    adSoyad: "Vecih HARZUM",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "33408": {
+    adSoyad: "Veysel Üveys YILDIZ",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "19968": {
+    adSoyad: "Yağız Efe AYDEMİR",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "35640": {
+    adSoyad: "Yiğit HAZER",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "69926": {
+    adSoyad: "Yiğit ÖZGÜN",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "13036": {
+    adSoyad: "Yusuf Ali DAĞ",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "18768": {
+    adSoyad: "Yusuf Erdem DELER",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "364": {
+    adSoyad: "Yusuf Eren İNAN",
+    sube: "11 F / Otomotiv Elektromekanik"
+  },
+  "21304": {
+    adSoyad: "Yusuf ÖZBEK",
+    sube: "11 E / Otomotiv Elektromekanik"
+  },
+  "59944": {
+    adSoyad: "Ahmet AYDOĞAN",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "26062": {
+    adSoyad: "Arda NARŞAP",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "82964": {
+    adSoyad: "Eray BACİN",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "7614": {
+    adSoyad: "Kadir ÇEKİM",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "78488": {
+    adSoyad: "Kamil UĞUR",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "16274": {
+    adSoyad: "Muhammed ELŞAVİ",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "75824": {
+    adSoyad: "Muhammet Mustafa KÜÇÜK",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "75318": {
+    adSoyad: "Mustafa Mert USKAN",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "16110": {
+    adSoyad: "Umran ELŞAVİ",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "12270": {
+    adSoyad: "Veysel TAŞKIN",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "48950": {
+    adSoyad: "Yağız DEMİR",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "59590": {
+    adSoyad: "Yasin ALPDEGER",
+    sube: "11 H1 / Otomotiv Gövde"
+  },
+  "8876": {
+    adSoyad: "Abdulsamed ERDEM",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "732": {
+    adSoyad: "Ahmed İSMAİL",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "40080": {
+    adSoyad: "Ahmet Hilmi VURAL",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "64792": {
+    adSoyad: "Ahmet Yasin SEL",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "43878": {
+    adSoyad: "Alperen ÖZDEN",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "16228": {
+    adSoyad: "Altay YALÇINKAYA",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "25344": {
+    adSoyad: "Aykut BOYRAZ",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "13888": {
+    adSoyad: "Aytuğ MÜCEHEZ",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "29594": {
+    adSoyAd: "Baran TURAN",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "6942": {
+    adSoyad: "Batuhan ÖZMEN",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "48614": {
+    adSoyad: "Bayram İYİGÖR",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "61716": {
+    adSoyad: "Berat Efe GÜNEŞ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "89964": {
+    adSoyad: "Burak YENİLMEZ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "33128": {
+    adSoyad: "Burhan GENEŞ",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "19186": {
+    adSoyad: "Cihan UĞUROĞLU",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "40348": {
+    adSoyad: "Efecan HOŞAFCI",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "58516": {
+    adSoyad: "Emirhan Bilal KALFA",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "35360": {
+    adSoyad: "Emre ÇOBAN",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "17522": {
+    adSoyad: "Eyüb Cihan ATEŞ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "52494": {
+    adSoyad: "Fırat Efe MUMCU",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "33018": {
+    adSoyad: "Furkan ARSLAN",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "62728": {
+    adSoyad: "Furkan KURT",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "42292": {
+    adSoyad: "Göktuğ YÖRÜBAŞ",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "81232": {
+    adSoyad: "Hasan BİNGÖL",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "76296": {
+    adSoyad: "Hasan Sefa KARACA",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "22236": {
+    adSoyad: "Hüseyin SOSYAL",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "52620": {
+    adSoyad: "İbrahim Davut KURT",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "77682": {
+    adSoyad: "İsa KIRMIZIYILDIZ",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "17892": {
+    adSoyad: "İsmail UĞUZ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "20420": {
+    adSoyad: "Kerem EPÇAÇAN",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "98004": {
+    adSoyad: "Melih ÇAPİN",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "21396": {
+    adSoyad: "Mert BEŞİKÇİ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "64194": {
+    adSoyad: "Mert Veli TONBUL",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "26064": {
+    adSoyad: "Muhammed AYDIN",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "25278": {
+    adSoyad: "Muhammed İZSİZ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "57262": {
+    adSoyad: "Mustafa DEMİR",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "91548": {
+    adSoyad: "Mustafa Yavuz BALCI",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "16912": {
+    adSoyad: "Nurullah YILMAZ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "1428": {
+    adSoyad: "Oruç Can KARABOĞA",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "22694": {
+    adSoyad: "Poyraz AYDINLI",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "6506": {
+    adSoyad: "Rüzgar ATEŞSAÇAN",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "17178": {
+    adSoyad: "Samed Alperen SELVİ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "53368": {
+    adSoyad: "Samet ÇOLAKER",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "17420": {
+    adSoyad: "Samet Ege ÇELİKLER",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "31432": {
+    adSoyad: "Siraç Emin GÜVEN",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "77364": {
+    adSoyad: "Süleyman GÜNEŞ",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "72330": {
+    adSoyad: "Şervan ERBULUN",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "72032": {
+    adSoyad: "Toprak KOÇDAĞ",
+    sube: "11 H / Otomotiv Mekanikerliği"
+  },
+  "93520": {
+    adSoyad: "Ufuk ELÇİ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "42480": {
+    adSoyad: "Utku Yiğit ÖZLÜ",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "69404": {
+    adSoyad: "Ümit KAYA",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "79458": {
+    adSoyad: "Yunus Emre BÜLBÜLER",
+    sube: "11 G / Otomotiv Mekanikerliği"
+  },
+  "4466": {
+    adSoyad: "Burak TOPÇU",
+    sube: "11 G2 / Otomotiv Motor Yenileştirmeciliği"
+  },
+  "88340": {
+    adSoyad: "Efe Hamza BAKACAK",
+    sube: "11 G2 / Otomotiv Motor Yenileştirmeciliği"
+  },
+  "89072": {
+    adSoyad: "Yiğit ŞENER",
+    sube: "11 G2 / Otomotiv Motor Yenileştirmeciliği"
+  },
+  "52704": {
+    adSoyad: "Ahmet Efe ÇOBANOĞLU",
+    sube: "11 F2 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "33150": {
+    adSoyad: "Mehmet KARA",
+    sube: "11 F2 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "88130": {
+    adSoyad: "Nadi Can BAKICI",
+    sube: "11 F2 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "59884": {
+    adSoyad: "Okan ÖZDOĞAN",
+    sube: "11 F2 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "62260": {
+    adSoyad: "Taha ÖZER",
+    sube: "11 F2 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "48560": {
+    adSoyad: "Umut Baran AKIN",
+    sube: "11 F2 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "6378": {
+    adSoyad: "Yiğit Ramazan OLUŞAN",
+    sube: "11 F2 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "57248": {
+    adSoyad: "Eylül OKUR",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "60296": {
+    adSoyad: "Furkan KINIK",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "3572": {
+    adSoyad: "Hiranur ÇABEK",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "21624": {
+    adSoyad: "Medine GEZER",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "94092": {
+    adSoyad: "Melek ÇABEK",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "39110": {
+    adSoyad: "Muhammed ARSLAN",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "91558": {
+    adSoyad: "Nisa Nur AYDOĞAN",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "2632": {
+    adSoyad: "Sude DEMİR",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "6980": {
+    adSoyad: "Uğur BOZBOĞA",
+    sube: "11 / Pasta Ve Tatlı Yapımı"
+  },
+  "14182": {
+    adSoyad: "Yağmur TEKİN",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "87270": {
+    adSoyad: "Yunus Emre AFŞAR",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "29232": {
+    adSoyad: "Yusuf ALADAĞ",
+    sube: "11 D1 / Pasta Ve Tatlı Yapımı"
+  },
+  "29046": {
+    adSoyad: "Ali GÜLTEKİN",
+    sube: "11 K1 / Sac İşleri"
+  },
+  "54478": {
+    adSoyad: "Eren HÜLÜR",
+    sube: "11 K1 / Sac İşleri"
+  },
+  "37854": {
+    adSoyad: "Hüseyin ÇOLAK",
+    sube: "11 K1 / Sac İşleri"
+  },
+  "21162": {
+    adSoyad: "Kerem ALTAYLI",
+    sube: "11 / Sac İşleri"
+  },
+  "36536": {
+    adSoyad: "Yiğit CANLI",
+    sube: "11 / Sac İşleri"
+  },
+  "29636": {
+    adSoyad: "Hikmet Anıl LAÇIN",
+    sube: "11 D3 / Satış Elemanlığı"
+  },
+  "69156": {
+    adSoyad: "Yasin AKİCİ",
+    sube: "11 D3 / Satış Elemanlığı"
+  },
+  "78332": {
+    adSoyad: "Hira Nur BAYGIN",
+    sube: "11 D4 / Sigortacılık"
+  },
+  "1360": {
+    adSoyad: "Abdulkadir DEMİRCİ",
+    sube: "11 İ6 / Soğutma Sistemleri"
+  },
+  "88706": {
+    adSoyad: "Hamit HAMİTOĞLU",
+    sube: "11 K11 / Vitrin Kuyumculuğu"
+  },
+  "97992": {
+    adSoyad: "Kaan DEMİRPERÇİN",
+    sube: "11 K11 / Vitrin Kuyumculuğu"
+  },
+  "64268": {
+    adSoyad: "Altan Selim BAŞAR",
+    sube: "11 K5 / Yazılım Geliştirme"
+  },
+
+  "67976": {
+    adSoyad: "Kaan AKGÜN",
+    sube: "12 B2 / Ahşap Doğrama Teknolojisi"
+  },
+  "87976": {
+    adSoyad: "Muhammed Eren ATALAY",
+    sube: "12 B2 / Ahşap Doğrama Teknolojisi"
+  },
+  "42104": {
+    adSoyad: "Kadir EMİNOĞLU",
+    sube: "12 E4 / Aşçılık"
+  },
+  "24826": {
+    adSoyad: "Muhammed MAVİŞ",
+    sube: "12 E4 / Aşçılık"
+  },
+  "55532": {
+    adSoyad: "Nilay DEMİRAL",
+    sube: "12 E4 / Aşçılık"
+  },
+  "28494": {
+    adSoyad: "Uğur SAMAR",
+    sube: "12 E4 / Aşçılık"
+  },
+  "36262": {
+    adSoyad: "Yağmur ŞİRİN",
+    sube: "12 E4 / Aşçılık"
+  },
+  "1902": {
+    adSoyad: "Can DEMİRKAYNAK",
+    sube: "12 F5 / Bilgisayar Destekli Makine Ressamlığı"
+  },
+  "78378": {
+    adSoyad: "Yağız Efe ÖZMEN",
+    sube: "12 F6 / Bilgisayar Teknik Servisi"
+  },
+  "88426": {
+    adSoyad: "Adem Yakup ÖZDEMİR",
+    sube: "12 F3 / Bilgisayarlı Makine İmalatı"
+  },
+  "71598": {
+    adSoyad: "Ahmetcan CANTÜRK",
+    sube: "12 F3 / Bilgisayarlı Makine İmalatı"
+  },
+  "39886": {
+    adSoyad: "Berat BUL",
+    sube: "12 F3 / Bilgisayarlı Makine İmalatı"
+  },
+  "74600": {
+    adSoyad: "Davut AKTEKİN",
+    sube: "12 F3 / Bilgisayarlı Makine İmalatı"
+  },
+  "5340": {
+    adSoyad: "Hasan AKMAN",
+    sube: "12 F3 / Bilgisayarlı Makine İmalatı"
+  },
+  "72856": {
+    adSoyad: "Timuçin YEŞİLTEPE",
+    sube: "12 F3 / Bilgisayarlı Makine İmalatı"
+  },
+  "52196": {
+    adSoyad: "Ahmet Taha KOÇ",
+    sube: "12 C1 / Bobinaj"
+  },
+  "32964": {
+    adSoyad: "Burhan Can YILMAZ",
+    sube: "12 C1 / Bobinaj"
+  },
+  "27516": {
+    adSoyad: "Kemalettin KABAY",
+    sube: "12 C1 / Bobinaj"
+  },
+  "22442": {
+    adSoyad: "Muhammed Emin DEMİREL",
+    sube: "12 C1 / Bobinaj"
+  },
+  "99856": {
+    adSoyad: "Nurettin DAĞBAŞI",
+    sube: "12 C1 / Bobinaj"
+  },
+  "55992": {
+    adSoyad: "Açelya Şule ERGENE",
+    sube: "12 A1 / Cilt Bakımı Ve Makyaj"
+  },
+  "9186": {
+    adSoyad: "Beyza ÇAKIR",
+    sube: "12 A1 / Cilt Bakımı Ve Makyaj"
+  },
+  "77900": {
+    adSoyad: "Kübra ÇELİK",
+    sube: "12 A1 / Cilt Bakımı Ve Makyaj"
+  },
+  "36980": {
+    adSoyad: "Naz KAYALAR",
+    sube: "12 A1 / Cilt Bakımı Ve Makyaj"
+  },
+  "69514": {
+    adSoyad: "Sıla Nazlı KARAMAN",
+    sube: "12 A1 / Cilt Bakımı Ve Makyaj"
+  },
+  "46924": {
+    adSoyad: "Yağmur Sude AYKUT",
+    sube: "12 A1 / Cilt Bakımı Ve Makyaj"
+  },
+  "80910": {
+    adSoyad: "Yaren ZEYBEKOĞLU",
+    sube: "12 A1 / Cilt Bakımı Ve Makyaj"
+  },
+  "24766": {
+    adSoyad: "Oğuzcan EKMEKCİ",
+    sube: "12 D1 / Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı"
+  },
+  "69616": {
+    adSoyad: "Abdullah UÇAN",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "34788": {
+    adSoyad: "Alim GÜL",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "33432": {
+    adSoyad: "Alp DURMAZ",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "54530": {
+    adSoyad: "Alperen ÇAVGA",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "51750": {
+    adSoyad: "Arda BELLİ",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "26510": {
+    adSoyad: "Arda TUNCA",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "27312": {
+    adSoyad: "Çağrı TUĞLU",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "41010": {
+    adSoyad: "Emir PINAR",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "20750": {
+    adSoyad: "Habir OK",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "85556": {
+    adSoyad: "İbrahim Efe KÖLEMEN",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "61870": {
+    adSoyad: "Nurullah KÜL",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "67874": {
+    adSoyad: "Sametcan BAYANDUR",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "99138": {
+    adSoyad: "Uğur Efe DURDABAK",
+    sube: "12 C / Elektrik Tesisatları Ve Pano Montörlüğü"
+  },
+  "40426": {
+    adSoyad: "Arda ÖREN",
+    sube: "12 C2 / Elektrikli Ev Aletleri Teknik Servisi"
+  },
+  "31604": {
+    adSoyad: "Melih BEKDEMİR",
+    sube: "12 C2 / Elektrikli Ev Aletleri Teknik Servisi"
+  },
+  "38612": {
+    adSoyad: "Eren BİLGİÇ",
+    sube: "12 C3 / Endüstriyel Bakım Onarım"
+  },
+  "37982": {
+    adSoyad: "Muhammet Taha ÇELİK",
+    sube: "12 C3 / Endüstriyel Bakım Onarım"
+  },
+  "86596": {
+    adSoyad: "Turgut TOPAL",
+    sube: "12 C3 / Endüstriyel Bakım Onarım"
+  },
+  "15522": {
+    adSoyad: "Abdullah IRMAK",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "17214": {
+    adSoyad: "Ahmet YİĞİT",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "20096": {
+    adSoyad: "Arif KAPLAN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "59380": {
+    adSoyad: "Baran Efe BİTİRGİÇ",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "8078": {
+    adSoyad: "Barış POLAT",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "14094": {
+    adSoyad: "Berat TURAN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "40060": {
+    adSoyad: "Boran SAVAŞ",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "64802": {
+    adSoyad: "Emir ŞENKAL",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "3496": {
+    adSoyad: "Emrullah BİLECEN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "49590": {
+    adSoyad: "Eyüp YALIN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "40444": {
+    adSoyad: "Furkan ÖZER",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "82770": {
+    adSoyad: "Hüseyin ÇOBAN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "61036": {
+    adSoyad: "Kayra KUĞUMCU",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "19734": {
+    adSoyad: "Mert SUÇİN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "22758": {
+    adSoyad: "Muhammed Mustafa ALTUNTAŞ",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "88460": {
+    adSoyad: "Muhammet Furkan AYDOĞAN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "47510": {
+    adSoyad: "Musa ÇETİN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "80578": {
+    adSoyad: "Osman KOCA",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "75526": {
+    adSoyad: "Ömür OCAK",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "2478": {
+    adSoyad: "Ramazan GÜRCÜ",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "78334": {
+    adSoyad: "Recep Can TAYLAN",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "14588": {
+    adSoyad: "Salih Can TOPAL",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "3638": {
+    adSoyad: "Sedat İPEK",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "47258": {
+    adSoyad: "Serkan CORUK",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "25428": {
+    adSoyad: "Tayfun DEVELİ",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "54650": {
+    adSoyad: "Veli Melih SAKA",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "29042": {
+    adSoyad: "Yezen ABDULLAH",
+    sube: "12 B / Erkek Kuaförlüğü"
+  },
+  "20400": {
+    adSoyad: "Umut BORAL",
+    sube: "12 F8 / Fotoğraf"
+  },
+  "83752": {
+    adSoyad: "Bekir GÜLGEN",
+    sube: "12 F1 / Gaz Yakıcı Cihazlar Ve Servis"
+  },
+  "17466": {
+    adSoyad: "Abdulkadir YAŞAR",
+    sube: "12 C4 / Görüntü Ve Ses Sistemleri"
+  },
+  "22330": {
+    adSoyad: "Fazıl ARSLAN",
+    sube: "12 C4 / Görüntü Ve Ses Sistemleri"
+  },
+  "26080": {
+    adSoyad: "Zeynep DEMİR",
+    sube: "12 F9 / Grafik"
+  },
+  "20972": {
+    adSoyad: "Arda Kerem ERDEM",
+    sube: "12 F / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "14902": {
+    adSoyad: "Arif Buğra YALÇIN",
+    sube: "12 F / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "74350": {
+    adSoyad: "Batuhan ŞEN",
+    sube: "12 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "6512": {
+    adSoyad: "Berat USLUER",
+    sube: "12 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "32462": {
+    adSoyad: "Berk DEMİR",
+    sube: "12 F / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "42662": {
+    adSoyad: "Botan EREN",
+    sube: "12 F / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "53046": {
+    adSoyad: "Eyyüp Ensar KILIÇ",
+    sube: "12 F / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "55528": {
+    adSoyad: "İsa KIRLI",
+    sube: "12 F / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "17304": {
+    adSoyad: "Mert ÖZDEN",
+    sube: "12 / Isıtma Ve Sıhhi Tesisat Sistemleri"
+  },
+  "24070": {
+    adSoyad: "Efe GÜÇLÜ",
+    sube: "12 B3 / İç Mekân Ve Mobilya Teknolojisi"
+  },
+  "40442": {
+    adSoyad: "Yusuf Can EZER",
+    sube: "12 F2 / İklimlendirme Sistemleri"
+  },
+  "62128": {
+    adSoyad: "Emirhan DİLEK",
+    sube: "12 D2 / İş Makineleri"
+  },
+  "50324": {
+    adSoyad: "Aynur Seda DERENBİK",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "38336": {
+    adSoyad: "Berat AKTİKEN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "71576": {
+    adSoyad: "Berranur ÖZLÜ",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "33156": {
+    adSoyad: "Ceren BAYTAR",
+    sube: "12 / Kadın Kuaförlüğü"
+  },
+  "23862": {
+    adSoyad: "Duru TAŞCI",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "70764": {
+    adSoyad: "Ecrin Nisa DENİZ",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "18868": {
+    adSoyad: "Efe Can CANDAN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "18866": {
+    adSoyad: "Ege ÇELİK",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "57364": {
+    adSoyad: "Elanur TUTAR",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "48488": {
+    adSoyad: "Eren GÜLEN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "47228": {
+    adSoyad: "Esra SEÇGİN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "36434": {
+    adSoyad: "Eylül ELİEYİOĞLU",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "21644": {
+    adSoyad: "Fadime DELİCE",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "66432": {
+    adSoyad: "Hafize Nur TÜRKSOY",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "42968": {
+    adSoyad: "Hasret UZUN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "92008": {
+    adSoyad: "Hatice AYDIN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "62904": {
+    adSoyad: "Hivvanur OCAKHAN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "53872": {
+    adSoyad: "Irmak ÖZER",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "11868": {
+    adSoyad: "Minel ÇAĞLAR",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "40032": {
+    adSoyad: "Nisa Nur CEYLAN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "94150": {
+    adSoyad: "Pınar GÖKSEL",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "19370": {
+    adSoyad: "Sahabe Hazal ARSLAN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "20388": {
+    adSoyad: "Simge YAYIN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "29690": {
+    adSoyad: "Sude Naz FAZLIOĞLU",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "17560": {
+    adSoyad: "Uğur GÜRCAN",
+    sube: "12 / Kadın Kuaförlüğü"
+  },
+  "61620": {
+    adSoyad: "Yaren ARSLAN",
+    sube: "12 A / Kadın Kuaförlüğü"
+  },
+  "94008": {
+    adSoyad: "Zeynep AKINCI",
+    sube: "12 F10 / Kadın Terziliği"
+  },
+  "59446": {
+    adSoyad: "Naz AKPOLAT",
+    sube: "12 F11 / Kantin İşletmeciliği"
+  },
+  "32928": {
+    adSoyad: "Ali BARAN",
+    sube: "12 F4 / Makine Bakım Onarım"
+  },
+  "49470": {
+    adSoyad: "Berkcan ÇELİK",
+    sube: "12 F4 / Makine Bakım Onarım"
+  },
+  "38492": {
+    adSoyad: "Resulcan ONAY",
+    sube: "12 F4 / Makine Bakım Onarım"
+  },
+  "70392": {
+    adSoyad: "Burak YİĞİT",
+    sube: "12 B4 / Mobilya İskeleti Ve Döşemesi"
+  },
+  "24680": {
+    adSoyad: "Ayşe Nur İLHAN",
+    sube: "12 / Modelistlik"
+  },
+  "10762": {
+    adSoyad: "Yusuf AKGÜL",
+    sube: "12 F7 / Muhasebe"
+  },
+  "44538": {
+    adSoyad: "Zubeyt SAPİL",
+    sube: "12 F7 / Muhasebe"
+  },
+  "71916": {
+    adSoyad: "Demir ALTUNOLUK",
+    sube: "12 / Otomotiv Boya"
+  },
+  "44180": {
+    adSoyad: "Furkan Enver KAYA",
+    sube: "12 E1 / Otomotiv Elektrikçiliği"
+  },
+  "56592": {
+    adSoyad: "Seyit Ömer TÜMER",
+    sube: "12 E1 / Otomotiv Elektrikçiliği"
+  },
+  "42130": {
+    adSoyad: "Tekin Tolga DENİZ",
+    sube: "12 E1 / Otomotiv Elektrikçiliği"
+  },
+  "23748": {
+    adSoyad: "Yakup SEÇMEN",
+    sube: "12 E1 / Otomotiv Elektrikçiliği"
+  },
+  "35332": {
+    adSoyad: "Anıl ARICAN",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "35128": {
+    adSoyad: "Arda ELLER",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "10578": {
+    adSoyad: "Batuhan Efe OZAN",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "75352": {
+    adSoyad: "Bedirhan ARINÇ",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "8960": {
+    adSoyad: "Berat YILDIZ",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "29536": {
+    adSoyad: "Bilal Emre ÇAPRAZ",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "29754": {
+    adSoyad: "Boran GÖNÜLTAŞ",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "32842": {
+    adSoyad: "Cihan NARİN",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "83230": {
+    adSoyad: "Deniz İĞCİ",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "88874": {
+    adSoyad: "Ege KURALAY",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "98354": {
+    adSoyad: "Emre KIRGİT",
+    sube: "12 / Otomotiv Elektromekanik"
+  },
+  "95696": {
+    adSoyad: "Furkan GEZER",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "25836": {
+    adSoyad: "Hasan ESEN",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "24458": {
+    adSoyad: "Hüseyin Mert KÜÇÜKER",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "29946": {
+    adSoyad: "İsmail ÇANKAYA",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "95920": {
+    adSoyad: "Kaan DEMİR",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "71706": {
+    adSoyad: "Kaan SARAÇ",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "51470": {
+    adSoyad: "Mehmet Ali KOCA",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "19530": {
+    adSoyad: "Mehmethan TARI",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "78678": {
+    adSoyad: "Mert Can ATICI",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "9168": {
+    adSoyad: "Miraç Metin Can YAMAN",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "94566": {
+    adSoyad: "Mücahit SEÇGİN",
+    sube: "12 / Otomotiv Elektromekanik"
+  },
+  "83028": {
+    adSoyad: "Semih YAŞAR",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "6582": {
+    adSoyad: "Umut OKÇU",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "98392": {
+    adSoyad: "Yasin AKPINAR",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "54414": {
+    adSoyad: "Yiğit SARAÇLI",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "64910": {
+    adSoyad: "Yusuf Taha ÖZBAKIR",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "24316": {
+    adSoyad: "Yusuf Talha UĞUR",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "73750": {
+    adSoyad: "Yusufcan YILDIRIM",
+    sube: "12 D / Otomotiv Elektromekanik"
+  },
+  "81890": {
+    adSoyad: "Arif Can GÖKTEPE",
+    sube: "12 E2 / Otomotiv Gövde"
+  },
+  "78768": {
+    adSoyad: "Batuhan TUNA",
+    sube: "12 E2 / Otomotiv Gövde"
+  },
+  "67912": {
+    adSoyad: "Kadir YILDIRIM",
+    sube: "12 E2 / Otomotiv Gövde"
+  },
+  "8124": {
+    adSoyad: "Miraç KARADAĞ",
+    sube: "12 E2 / Otomotiv Gövde"
+  },
+  "15246": {
+    adSoyad: "Abdulhalim ESEN",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "86180": {
+    adSoyad: "Ahmet ASLAN",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "37552": {
+    adSoyad: "Alkan ARSLAN",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "68134": {
+    adSoyad: "Burak SAĞLAM",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "46498": {
+    adSoyad: "Eyüp Can KIRMIZIYILDIZ",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "26490": {
+    adSoyad: "Hüseyin ESEN",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "14894": {
+    adSoyad: "Hüseyin KARAOĞLU",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "22640": {
+    adSoyad: "Mehmet Sait YEGİN",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "52836": {
+    adSoyad: "Muhammed Baran KAYA",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "71978": {
+    adSoyad: "Mustafa SEZİKLİ",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "35328": {
+    adSoyad: "Orçun SEVGİ",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "96592": {
+    adSoyad: "Recep AKYÜREK",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "81590": {
+    adSoyad: "Taner ESEN",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "13964": {
+    adSoyad: "Yıldıray SADIÇ",
+    sube: "12 E / Otomotiv Mekanikerliği"
+  },
+  "24590": {
+    adSoyad: "Furkan KARAMAN",
+    sube: "12 D3 / Otomotiv Motor Yenileştirmeciliği"
+  },
+  "10410": {
+    adSoyad: "Ali DEMİREL",
+    sube: "12 E3 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "36214": {
+    adSoyad: "Cengizhan GÜMÜŞTAŞ",
+    sube: "12 E3 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "83226": {
+    adSoyad: "İslam YALİN",
+    sube: "12 E3 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "144": {
+    adSoyad: "Osman Dijvar ÇAYIN",
+    sube: "12 E3 / Ön Düzen Ayarcılığı Ve Lastikçilik"
+  },
+  "21488": {
+    adSoyad: "Efe Yusuf TANIR",
+    sube: "12 E5 / Pasta Ve Tatlı Yapımı"
+  },
+  "58232": {
+    adSoyad: "Elif Tuğçe ÇELİK",
+    sube: "12 E5 / Pasta Ve Tatlı Yapımı"
+  },
+  "72302": {
+    adSoyad: "Sude ŞAHİN",
+    sube: "12 E5 / Pasta Ve Tatlı Yapımı"
+  },
+  "19914": {
+    adSoyad: "Beytullah GÜLTEKİN",
+    sube: "12 / Sac İşleri"
+  },
+  "78826": {
+    adSoyad: "Ebuzer PEKMEZ",
+    sube: "12 B1 / Sac İşleri"
+  },
+  "61928": {
+    adSoyad: "Emir Can GÜLMEZ",
+    sube: "12 B1 / Sac İşleri"
+  },
+  "74440": {
+    adSoyad: "Mehmet Emin PEKMEZ",
+    sube: "12 B1 / Sac İşleri"
+  },
+  "9708": {
+    adSoyad: "Mücahit BAYKAN",
+    sube: "12 B1 / Sac İşleri"
+  }
+
         };
 
         function subeSorgula() {
@@ -99,8 +5311,8 @@
             sonucAlani.style.display = "none";
 
             // T.C. Kontrolü
-            if (tcInput.length !== 11 || isNaN(tcInput)) {
-                hataMesaji.textContent = "Lütfen geçerli 11 haneli bir T.C. Kimlik numarası giriniz.";
+            if (tcInput.length !== 5 || isNaN(tcInput)) {
+                hataMesaji.textContent = "Lütfen T.C. Kimlik numaranızın son 5 hanesini giriniz.";
                 hataMesaji.style.display = "block";
                 return;
             }
