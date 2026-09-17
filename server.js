@@ -4,6 +4,15 @@ const cors = require('cors');
 require('dotenv').config();
 
 const app = express();
+const path = require('path');
+
+// Statik dosyaları (index.html, css vb.) sunmak için:
+app.use(express.static(__dirname));
+
+// Ana dizine (/) girildiğinde index.html'i göndermek için:
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'index.html'));
+});
 
 app.use(cors());
 app.use(express.json());
