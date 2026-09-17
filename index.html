@@ -226,7 +226,7 @@
             <!-- Hata Mesajı -->
             <div id="hataMesaji" class="error-message"></div>
 
-            <!-- Sonuç Alanı (İçeriği tamamen JS dinamik oluşturacak) -->
+            <!-- Sonuç Alanı -->
             <div id="sonucAlani"></div>
         </div>
     </div>
@@ -251,21 +251,21 @@
             }
 
             try {
-                const response = await fetch(`/api/ogrenci/${tcNo}`);
+                // tcNo yerine tcInput olarak düzeltildi
+                const response = await fetch(`/api/ogrenci/${tcInput}`);
                 const data = await response.json();
 
                 if (response.ok && data.success) {
-                    // Gelen tüm öğrencileri sırayla oluşturup kart ekler
                     data.ogrenciler.forEach((ogrenci) => {
                         const ogrenciKart = `
-                  <div class="ogrenci-kart">
-                    <h3>Öğrenci: ${ogrenci.adSoyad}</h3>
-                    <div style="font-weight: 600; color: #475569; margin-top: 0.75rem;">Ait Olduğu Şube / Bölüm:</div>
-                    <div class="sube-adi">${ogrenci.sube}</div>
-                    <div style="font-weight: 600; color: #475569; margin-top: 0.75rem;">Okula Geleceği Gün:</div>
-                    <div class="gun-kutusu">${ogrenci.okulGunu}</div>
-                  </div>
-                `;
+                      <div class="ogrenci-kart">
+                        <h3>Öğrenci: ${ogrenci.adSoyad}</h3>
+                        <div style="font-weight: 600; color: #475569; margin-top: 0.75rem;">Ait Olduğu Şube / Bölüm:</div>
+                        <div class="sube-adi">${ogrenci.sube}</div>
+                        <div style="font-weight: 600; color: #475569; margin-top: 0.75rem;">Okula Geleceği Gün:</div>
+                        <div class="gun-kutusu">${ogrenci.okulGunu}</div>
+                      </div>
+                    `;
                         sonucAlani.innerHTML += ogrenciKart;
                     });
 
