@@ -1,10 +1,13 @@
 const express = require('express');
 const mysql = require('mysql2');
 const cors = require('cors');
+const path = require('path');
 require('dotenv').config();
 
 const app = express();
-const path = require('path');
+
+app.use(cors());
+app.use(express.json());
 
 // Statik dosyaları (index.html, css vb.) sunmak için:
 app.use(express.static(__dirname));
@@ -14,16 +17,13 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'index.html'));
 });
 
-app.use(cors());
-app.use(express.json());
-
-// MySQL Bağlantı Havuzu
+// MySQL Bağlantı Havuzu (Environment Variables Üzerinden)
 const db = mysql.createPool({
-    host: process.env.DB_HOST || 'mysql-225371da-mesemcorlu-a45d.e.aivencloud.com',
+    host: process.env.DB_HOST,
     port: Number(process.env.DB_PORT) || 16272,
-    user: 'avnadmin', // Doğrudan Aiven kullanıcı adı tanımlandı
+    user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
-    database: process.env.DB_NAME || 'defaultdb',
+    database: process.env.DB_NAME,
     waitForConnections: true,
     connectionLimit: 10,
     queueLimit: 0,
@@ -32,7 +32,7 @@ const db = mysql.createPool({
     }
 });
 
-// Şube - Okul Günü Eşleşme Haritası (Saf Şube Kodları)
+// Şube - Okul Günü Eşleşme Haritası
 const subeGunHaritasi = {
     // PAZARTESİ
     '9A': 'Pazartesi', '10B': 'Pazartesi', '10G': 'Pazartesi', '10M': 'Pazartesi',
@@ -55,16 +55,12 @@ const subeGunHaritasi = {
     '11E': 'Cuma', '11İ': 'Cuma', '11I': 'Cuma', '12D': 'Cuma'
 };
 
-// "10-B Kadın Kuaförlüğü" gibi metinlerden "10B" kısmını ayıklayıp günü bulan fonksiyon
 function okulGununuBul(subeMetni) {
     if (!subeMetni) return 'Belirtilmedi';
 
-    // Metinden tire (-), boşluk ve alan adlarını temizleyip sadece Sınıf/Şube kısmına odaklanır
-    // Örn: "10-B Kadın Kuaförlüğü" -> "10B"
     const temizSube = subeMetni.toUpperCase().replace(/[^A-Z0-9İĞÜŞÖÇ]/g, '');
 
     for (const [kod, gun] of Object.entries(subeGunHaritasi)) {
-        // "10BKADINKUAFORLUGU" metni "10B" ile başlıyorsa veya içeriyorsa eşleştirir
         if (temizSube.startsWith(kod) || temizSube.includes(kod)) {
             return gun;
         }
@@ -88,15 +84,14 @@ app.get('/api/ogrenci/:tc', (req, res) => {
 
     db.query(sql, [tcSon5], (err, results) => {
         if (err) {
-            console.error('Sorgu hatası:', err);
+            console.error('Veritabanı Sorgu Hatası:', err);
             return res.status(500).json({
                 success: false,
-                message: 'Veritabanı sorgu hatası.'
+                message: 'Veritabanı bağlantı hatası oluştu.'
             });
         }
 
-        if (results.length > 0) {
-            // Eşleşen tüm öğrencileri dizi olarak dönüştür
+        if (results && results.length > 0) {
             const ogrenciler = results.map(ogrenci => ({
                 adSoyad: ogrenci.ad_soyad,
                 sube: ogrenci.sube,
@@ -105,7 +100,7 @@ app.get('/api/ogrenci/:tc', (req, res) => {
 
             return res.json({
                 success: true,
-                ogrenciler: ogrenciler // Tüm liste gönderiliyor
+                ogrenciler: ogrenciler
             });
         } else {
             return res.status(404).json({
