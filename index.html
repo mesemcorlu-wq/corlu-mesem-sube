@@ -251,7 +251,7 @@
             }
 
             try {
-                const response = await fetch(`http://localhost:3000/api/ogrenci/${tcInput}`);
+                const response = await fetch(`/api/ogrenci/${tcNo}`);
                 const data = await response.json();
 
                 if (response.ok && data.success) {
