@@ -1,1363 +1,1393 @@
-﻿tc_son5;ad_soyad;sube
-85610;Umut KAYA;9D Asansör Sistemleri
-87170;Ahmet Emin KAYA;9G1 Aşçılık
-19092;Bahruz ALIZADA;9G1 Aşçılık
-52934;Elifnur ŞENGÜL;9G1 Aşçılık
-75728;Gül Deniz BİLECEN;9G1 Aşçılık
-44094;Levent Eymen BAŞKÖYLÜ;9G1 Aşçılık
-60558;Merve RENÇBER;9G1 Aşçılık
-17570;Nisanur SUSUR;9G1 Aşçılık
-99468;Ömer ÖZBEK;9G1 Aşçılık
-19616;Selman Musab YEŞİL;9G1 Aşçılık
-49600;Enes BİLİBEY;9A2 Bilgisayar Teknik Servisi
-79552;Yiğit Efe SEVİM;9A2 Bilgisayar Teknik Servisi
-91520;Arda ÇAYLI;9E1 Bilgisayarlı Makine İmalatı
-00468;Arda TUNÇEL;9E1 Bilgisayarlı Makine İmalatı
-69300;Berkant Can AKÇAY;9E1 Bilgisayarlı Makine İmalatı
-47896;Bilal ERBULUN;9E1 Bilgisayarlı Makine İmalatı
-63748;Eyüp YÜMÜN;9E1 Bilgisayarlı Makine İmalatı
-49768;Furkan SEÇKİN;9E1 Bilgisayarlı Makine İmalatı
-43240;Kubilay ÖZDİNÇ;9E1 Bilgisayarlı Makine İmalatı
-96652;Mehmet ESEN;9E1 Bilgisayarlı Makine İmalatı
-76602;Muhammed Yakup BARAN;9E1 Bilgisayarlı Makine İmalatı
-13026;Muhammet ÇALKAN;9E1 Bilgisayarlı Makine İmalatı
-64276;Muhammet Umut ERİK;9E1 Bilgisayarlı Makine İmalatı
-55994;Musap ARSLAN;9E1 Bilgisayarlı Makine İmalatı
-78906;Mustafa ÖNCEL;9E1 Bilgisayarlı Makine İmalatı
-65648;Nurullah KAYA;9E1 Bilgisayarlı Makine İmalatı
-75404;Ramazan ÜLEZ;9E1 Bilgisayarlı Makine İmalatı
-89072;Serkan MEŞE;9E1 Bilgisayarlı Makine İmalatı
-78098;Yusuf Ayaz ÇETİNKAYA;9E1 Bilgisayarlı Makine İmalatı
-55522;Berk OK;9D Bobinaj
-95394;Erdem DEMİRBÜKEN;9D Bobinaj
-16238;Aleyna TERZİ;9 Cilt Bakımı Ve Makyaj
-25784;Esma DEMİR;9G Cilt Bakımı Ve Makyaj
-79828;Yiğithan KARAASLAN;9B Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
-73642;Ayaz BULUT;9D Elektrik Tesisatları Ve Pano Montörlüğü
-57308;Bedirhan Eren BÜLBÜL;9D Elektrik Tesisatları Ve Pano Montörlüğü
-36138;Berat Can PEKMEZCİ;9D Elektrik Tesisatları Ve Pano Montörlüğü
-37186;Doğukan KEMİKSİZ;9D Elektrik Tesisatları Ve Pano Montörlüğü
-28190;Efe Can KAYA;9D Elektrik Tesisatları Ve Pano Montörlüğü
-19192;Efe ÖZDİNÇ;9D Elektrik Tesisatları Ve Pano Montörlüğü
-33706;Enes TEKE;9D Elektrik Tesisatları Ve Pano Montörlüğü
-21170;İsmail EREN;9D Elektrik Tesisatları Ve Pano Montörlüğü
-79118;Melik Özkan FİDAN;9D Elektrik Tesisatları Ve Pano Montörlüğü
-66778;Mert Doruk DEMİR;9D Elektrik Tesisatları Ve Pano Montörlüğü
-12136;Mete TOPRAK;9D Elektrik Tesisatları Ve Pano Montörlüğü
-89364;Nur Muhammed ADIYAMAN;9D Elektrik Tesisatları Ve Pano Montörlüğü
-72322;Ömer Faruk ALABAŞ;9D Elektrik Tesisatları Ve Pano Montörlüğü
-46318;Ömer Faruk KAYİ;9D Elektrik Tesisatları Ve Pano Montörlüğü
-63024;Poyraz TEZCAN;9D Elektrik Tesisatları Ve Pano Montörlüğü
-24886;Tutku YILMAZLAR;9D Elektrik Tesisatları Ve Pano Montörlüğü
-75282;Yiğit Efe DİNLER;9 Elektrik Tesisatları Ve Pano Montörlüğü
-61944;Yusuf Eren GÜRCÜ;9D Elektrik Tesisatları Ve Pano Montörlüğü
-78742;Arda UZUN;9D Elektrikli Ev Aletleri Teknik Servisi
-55584;Hasan Erdoğan DEMİR;9D Elektrikli Ev Aletleri Teknik Servisi
-04130;Recep Emin GÜNEY;9D Elektrikli Ev Aletleri Teknik Servisi
-18008;Berat Muhammet ÖZCİRİT;9D Endüstriyel Bakım Onarım
-79188;Kayra Ege ÇOBANOĞLU;9D Endüstriyel Bakım Onarım
-39372;Emircan FIRAT;9A3(KARMA) Endüstriyel Kontrol
-82510;Ömer KARATEPE;9A3(KARMA) Endüstriyel Kontrol
-49178;Yunus Emre BETİ;9A3(KARMA) Endüstriyel Kontrol
-20680;Abdulkadir ELİK;9E Erkek Kuaförlüğü
-12444;Ahmet Hakan DUMAN;9A Erkek Kuaförlüğü
-09828;Ali YARAR;9G Erkek Kuaförlüğü
-59330;Alper ÇELİK;9A Erkek Kuaförlüğü
-39764;Arda ALTUN;9E Erkek Kuaförlüğü
-23926;Arda ÇAKIRKAYA;9E Erkek Kuaförlüğü
-43942;Barış KÖMÜR;9E Erkek Kuaförlüğü
-17262;Baver Aran ŞAHİN;9E Erkek Kuaförlüğü
-08074;Berat KAYA;9A Erkek Kuaförlüğü
-44092;Berat Osman YÜKSEKDAĞ;9A Erkek Kuaförlüğü
-54838;Berkay KAHRAMAN;9E Erkek Kuaförlüğü
-45862;Bilal AVCI;9G Erkek Kuaförlüğü
-50918;Bilal KAÇAN;9G Erkek Kuaförlüğü
-66134;Doğukan Burak ALPAY;9E Erkek Kuaförlüğü
-88776;Efe Can ŞENEL;9G Erkek Kuaförlüğü
-26792;Efe KUŞLU;9G Erkek Kuaförlüğü
-06568;Efe TOPRAK;9G Erkek Kuaförlüğü
-62212;Enes KURT;9E Erkek Kuaförlüğü
-12264;Eren ÖZER;9E Erkek Kuaförlüğü
-92216;Eyüp Taha ÖZLÜ;9E Erkek Kuaförlüğü
-42220;Faruk TOSUN;9G Erkek Kuaförlüğü
-79750;Fatih Kerem FERHAT;9E Erkek Kuaförlüğü
-89874;Hasan ÇÜRÜK;9G Erkek Kuaförlüğü
-69180;Kayra ŞEKER;9A Erkek Kuaförlüğü
-87618;Kerem DEMİROĞLU;9E Erkek Kuaförlüğü
-19058;Kuzey KAYLI;9A Erkek Kuaförlüğü
-58146;Kuzey SORBİL;9A Erkek Kuaförlüğü
-20860;Mehmet Can ÖZDEMİR;9A Erkek Kuaförlüğü
-92670;Mehmet ÇINAR;9G Erkek Kuaförlüğü
-75972;Mekin ALTAY;9E Erkek Kuaförlüğü
-22822;Muhammed Baver EKİN;9E Erkek Kuaförlüğü
-48312;Muhammet Eren DEMİREL;9E Erkek Kuaförlüğü
-32860;Okay ÖNER;9E Erkek Kuaförlüğü
-56106;Rüstem Efe GÜLAL;9E Erkek Kuaförlüğü
-35210;Serkan GÜNÜLDES;9G Erkek Kuaförlüğü
-44812;Şafak Ege TÜZÜN;9G Erkek Kuaförlüğü
-62120;Umut Can ŞENGÜL;9E Erkek Kuaförlüğü
-33404;Yağız CİVAN;9G Erkek Kuaförlüğü
-22390;Yiğit ÜNAL;9E Erkek Kuaförlüğü
-58518;Yunus EREN;9E Erkek Kuaförlüğü
-77802;Yusuf Efe KARACA;9A Erkek Kuaförlüğü
-65498;Yusuf GÖKÇELİ;9E Erkek Kuaförlüğü
-04988;Yusuf İslam SARI;9E Erkek Kuaförlüğü
-37644;Yusuf Reşit ÇAKAR;9E Erkek Kuaförlüğü
-63308;Aybüke BAKİ;9A3(KARMA) Fotoğraf
-07156;Pınar ÖZER;9A3(KARMA) Fotoğraf
-81726;İshak İsmail ÖZLÜ;9D2 Gaz Tesisat Sistemleri
-71484;İbrahim KAÇAR;9D Güvenlik Sistemleri
-37132;Muhammed Ferzende ÖZTÜRK;9D Güvenlik Sistemleri
-76642;Elif Beren SEKENDİZ;9A3(KARMA) Hazır Giyim Model Makineciliği
-85722;Şevval NALCI;9A3(KARMA) Hazır Giyim Model Makineciliği
-54690;Zülal AKYÜZ;9A3(KARMA) Hazır Giyim Model Makineciliği
-84074;Ali Berkay BAYDAR;9D2 Isıtma Ve Sıhhi Tesisat Sistemleri
-01054;Beytülşefa DENİZ;9D2 Isıtma Ve Sıhhi Tesisat Sistemleri
-33002;Muhammed Emin MANDACI;9D2 Isıtma Ve Sıhhi Tesisat Sistemleri
-80362;Samet DENİZ;9D2 Isıtma Ve Sıhhi Tesisat Sistemleri
-65602;Hasan Hüseyin YÜKSEL;9D4 İç Mekân Ve Mobilya Teknolojisi
-02310;Ahmet Taha YILDIZ;9D2 İklimlendirme Sistemleri
-68768;Mustafa Mete AKYILDIZ;9D2 İklimlendirme Sistemleri
-21902;Hamza TEKÇE;9B İş Makineleri
-46638;Muhammed Furkan KARADAĞ;9C İş Makineleri
-30224;Mustafa Efe KARADEMİR;9F İş Makineleri
-76924;Ahmet Tuğra SEYHAN;9A Kadın Kuaförlüğü
-56676;Asel Bermal YILDIZ;9A Kadın Kuaförlüğü
-23896;Aysu GÜNDÜZ;9G Kadın Kuaförlüğü
-29770;Azra ERKAN;9A Kadın Kuaförlüğü
-54800;Beren HEKİMOĞULLARI;9A Kadın Kuaförlüğü
-55688;Berinnaz ONUK;9A Kadın Kuaförlüğü
-01496;Berra Sude ÜLKER;9A Kadın Kuaförlüğü
-32846;Buğlem ÇAKMAK;9G Kadın Kuaförlüğü
-80916;Duygu KARAKAŞ;9G Kadın Kuaförlüğü
-48406;Ecrin Naz KARABULUT;9A Kadın Kuaförlüğü
-11610;Ela Gül ALTAN;9G Kadın Kuaförlüğü
-80440;Elif GEZER;9A Kadın Kuaförlüğü
-43922;Elif Naz AYYILDIZ;9A Kadın Kuaförlüğü
-14348;Elvan SAMAR;9A Kadın Kuaförlüğü
-14138;Esmanur SARSILMAZ;9G Kadın Kuaförlüğü
-37022;Ezel Su SÖYLEMEZ;9A Kadın Kuaförlüğü
-15774;Gülsüm DAĞIDIR;9A Kadın Kuaförlüğü
-39456;Hakkı Soner TOPUZ;9A Kadın Kuaförlüğü
-14718;Hira BEBE;9G Kadın Kuaförlüğü
-35372;İlayda TARDU;9A Kadın Kuaförlüğü
-79366;Medine TANÇ;9G Kadın Kuaförlüğü
-05964;Medine YILDIRIM;9 Kadın Kuaförlüğü
-09766;Miray KAHRAMAN;9A Kadın Kuaförlüğü
-65194;Muhammed Kerim YAMAN;9G Kadın Kuaförlüğü
-75566;Nisa Nur BAYRAKTAR;9A Kadın Kuaförlüğü
-95968;Nisa Nur GÖKKAYA;9A Kadın Kuaförlüğü
-86162;Nisa TAŞTEKİN;9G Kadın Kuaförlüğü
-80514;Serap ÖZ;9G Kadın Kuaförlüğü
-70618;Sıla Naz AKYİĞİT;9G Kadın Kuaförlüğü
-19234;Tuana ARAT;9A Kadın Kuaförlüğü
-23102;Utku ESEN;9A Kadın Kuaförlüğü
-23912;Ümran KARTAL;9G Kadın Kuaförlüğü
-14290;Zeynep DEMİR;9G Kadın Kuaförlüğü
-74618;Zeynep DÜLGAR;9A Kadın Kuaförlüğü
-17508;Zeynep KOÇ;9G Kadın Kuaförlüğü
-08064;Beyzanur ERGÜN;9A3(KARMA) Kadın Terziliği
-57708;Mehmet KURT;9G1 Kasaplık
-88448;Muhammet Kadir PÜSKÜLLÜ;9D3 Kaynakçılık
-57966;Yusuf AVCI;9D3 Kaynakçılık
-33978;Emir ÇEVİK;9E1 Makine Bakım Onarım
-16340;Eren GAYRET;9E1 Makine Bakım Onarım
-55694;Habib ÇOĞUN;9E1 Makine Bakım Onarım
-21076;Muhammed Ensar DİŞCİ;9D3 Metal Doğrama
-69866;Ahmet Eyüp YALIM;9A1 Muhasebe
-25476;İlayda PALA;9A1 Muhasebe
-09178;Mesut YAMAN;9A1 Muhasebe
-95162;Nazlı PİYAL;9A1 Muhasebe
-14230;Kuzey METE;9D4 Oto Döşemeciliği
-07016;Azat ALTINDEN;9C Otomotiv Boya
-94690;Miraç Emre TAĞ;9C Otomotiv Boya
-85150;Muhammed Ali SERTBEL;9F Otomotiv Boya
-64484;Yusuf KOYUN;9B Otomotiv Boya
-89790;Berat Rüzgar KİÇÇİ;9F Otomotiv Elektrikçiliği
-42312;Efehan ŞAHİN;9C Otomotiv Elektrikçiliği
-32098;Fırat SUNAR;9C Otomotiv Elektrikçiliği
-31092;Furkan SERİN;9C Otomotiv Elektrikçiliği
-72046;Miraç TAŞKIN;9F Otomotiv Elektrikçiliği
-75108;Özgür YILMAZ;9C Otomotiv Elektrikçiliği
-34186;Selim ÇELİKER;9B Otomotiv Elektrikçiliği
-61612;Yunus Emre GÜRCAN;9F Otomotiv Elektrikçiliği
-13992;Abdulmütalip TUNCEL;9C Otomotiv Elektromekanik
-17734;Ahmet Faruk BAĞCIOĞLU;9B Otomotiv Elektromekanik
-51168;Ahmet TATAK;9F Otomotiv Elektromekanik
-76462;Ahmet YILMAZ;9B Otomotiv Elektromekanik
-94004;Arazdurdy VELIYEV;9C Otomotiv Elektromekanik
-74082;Arda ÖZDEMİR;9F Otomotiv Elektromekanik
-47452;Atlas YILMAZ;9F Otomotiv Elektromekanik
-31448;Batuhan YAŞA;9C Otomotiv Elektromekanik
-31042;Berat AYDIN;9C Otomotiv Elektromekanik
-37938;Berat ÇİFTÇİ;9B Otomotiv Elektromekanik
-79250;Berat SAMAR;9F Otomotiv Elektromekanik
-49884;Berat YAŞAR;9B Otomotiv Elektromekanik
-45402;Bertuğ KOCAARSLAN;9C Otomotiv Elektromekanik
-64374;Bilal APOHAN;9B Otomotiv Elektromekanik
-47532;Bünyamin ÇANKAYA;9F Otomotiv Elektromekanik
-21432;Can Ahmed ALİŞAN;9B Otomotiv Elektromekanik
-21254;Çınar Arslan TOPALOĞLU;9F Otomotiv Elektromekanik
-13988;Doğukan TÜRE;9B Otomotiv Elektromekanik
-77386;Doğuş UÇARYILMAZ;9C Otomotiv Elektromekanik
-61900;Emir UĞUR;9F Otomotiv Elektromekanik
-12882;Emirhan AKKAYA;9C Otomotiv Elektromekanik
-28336;Enes ÇATALKAYA;9B Otomotiv Elektromekanik
-17538;Enes Kaan GEDİK;9F Otomotiv Elektromekanik
-30150;Enis KORKUT;9C Otomotiv Elektromekanik
-14200;Eray GÜNERİ;9B Otomotiv Elektromekanik
-23108;Eyüp KAYA;9C Otomotiv Elektromekanik
-69110;Eyüpcan ÇİFTÇİ;9F Otomotiv Elektromekanik
-13458;Eyyüp ÇOBAN;9F Otomotiv Elektromekanik
-82402;Feim AYBAN;9B Otomotiv Elektromekanik
-53918;Fırat GEÇER;9B Otomotiv Elektromekanik
-27446;Hamza ŞENGÜL;9F Otomotiv Elektromekanik
-70926;Hamza TUNCEL;9B Otomotiv Elektromekanik
-25674;Hasan GÜNEL;9F Otomotiv Elektromekanik
-78488;İbrahim AKTÜRK;9 Otomotiv Elektromekanik
-72998;İbrahim TÜRKDOĞAN;9F Otomotiv Elektromekanik
-32102;Kamil Can ŞEN;9C Otomotiv Elektromekanik
-11458;Mehmet ASLAN;9C Otomotiv Elektromekanik
-48516;Mehmet Sami ÇAĞLAR;9B Otomotiv Elektromekanik
-83482;Mehmet SÖYLEMEZ;9C Otomotiv Elektromekanik
-48730;Mert DİKMEN;9B Otomotiv Elektromekanik
-78684;Metin ŞAHİN;9B Otomotiv Elektromekanik
-19722;Muhammed AKPINAR;9B Otomotiv Elektromekanik
-35106;Muhammed Ali ÖZGÜVEN;9B Otomotiv Elektromekanik
-34228;Muhammed AYDIN;9C Otomotiv Elektromekanik
-26204;Muhammed Üveys EŞUT;9B Otomotiv Elektromekanik
-42762;Muhammet Ali TUNÇ;9F Otomotiv Elektromekanik
-18828;Muhammet Emir ATAY;9F Otomotiv Elektromekanik
-87502;Mustafa ÇİNAR;9F Otomotiv Elektromekanik
-01974;Nur Muhammed BAYCUR;9B Otomotiv Elektromekanik
-83544;Nurullah DENİZ;9F Otomotiv Elektromekanik
-64700;Poyraz ALPEREN;9C Otomotiv Elektromekanik
-36592;Serhat GEÇER;9B Otomotiv Elektromekanik
-83272;Tarık DOĞAN;9F Otomotiv Elektromekanik
-67750;Yakup Buğra BALAKÇI;9B Otomotiv Elektromekanik
-80362;Yasin KARABUT;9B Otomotiv Elektromekanik
-58146;Yiğit ÖZDEN;9C Otomotiv Elektromekanik
-20948;Yiğitcan ÇEKİÇ;9C Otomotiv Elektromekanik
-23620;Yunus ATLI;9B Otomotiv Elektromekanik
-72992;Yusuf DEMİR;9F Otomotiv Elektromekanik
-00272;Yusuf Emir KURNAZ;9F Otomotiv Elektromekanik
-62340;Yusuf GÖK;9C Otomotiv Elektromekanik
-43288;Zeki KARAKELLE;9B Otomotiv Elektromekanik
-21464;Zeynel Tibet YOLCU;9B Otomotiv Elektromekanik
-51250;Arda Kaan KURTULUŞ;9C Otomotiv Gövde
-24688;Aziz Berzan OGUR;9F Otomotiv Gövde
-36996;Çınar GÜLLER;9F Otomotiv Gövde
-51800;Eren KARA;9F Otomotiv Gövde
-58616;Muhammet Ali AYDIN;9F Otomotiv Gövde
-04208;Salih ORAL;9F Otomotiv Gövde
-75786;Sertaç Emir GÜVEN;9F Otomotiv Gövde
-00338;Yağız Efe DEMİRCİ;9F Otomotiv Gövde
-86176;Yunus Emre KAYA;9C Otomotiv Gövde
-35536;Adem AKBABA;9F Otomotiv Mekanikerliği
-76858;Berkay ÇÜRÜKOĞLU;9C Otomotiv Mekanikerliği
-18768;Burak YILDIZ;9C Otomotiv Mekanikerliği
-03476;Bünyamin Talha ÖRSEL;9F Otomotiv Mekanikerliği
-37378;Canberk KAVAK;9C Otomotiv Mekanikerliği
-34494;Devran BEKDAŞ;9B Otomotiv Mekanikerliği
-52482;Doruk BAKRAÇ;9F Otomotiv Mekanikerliği
-51454;Doruk KAYNA;9B Otomotiv Mekanikerliği
-06932;Emirhan OCAK;9C Otomotiv Mekanikerliği
-02846;Enes İLHAN;9B Otomotiv Mekanikerliği
-17098;Ferhat KOYUN;9B Otomotiv Mekanikerliği
-95168;Fırat DOĞAN;9C Otomotiv Mekanikerliği
-20110;Göktürk KAHRAMAN;9B Otomotiv Mekanikerliği
-38902;Hamza GÜNEY;9C Otomotiv Mekanikerliği
-09274;Hüseyin Efe AKINCI;9B Otomotiv Mekanikerliği
-23894;Kenan EGE;9B Otomotiv Mekanikerliği
-73542;Kerem Efe KARAGÖZ;9F Otomotiv Mekanikerliği
-38380;Kuzey Can ERKILIÇ;9F Otomotiv Mekanikerliği
-88280;Mehmet Reya DENİZ;9C Otomotiv Mekanikerliği
-44216;Mert KADIOĞLU;9C Otomotiv Mekanikerliği
-21324;Mustafa Berk GENÇOĞLU;9F Otomotiv Mekanikerliği
-96972;Özgür ÖZKARAMAN;9 Otomotiv Mekanikerliği
-34804;Semih GÖBEKLİ;9B Otomotiv Mekanikerliği
-83458;Taha TOZUN;9B Otomotiv Mekanikerliği
-17654;Yakup KAÇAR;9C Otomotiv Mekanikerliği
-06626;Yakup ÖZCAN;9B Otomotiv Mekanikerliği
-21888;Yiğitcan CİVİRCİ;9F Otomotiv Mekanikerliği
-07916;Yusuf KABAY;9B Otomotiv Mekanikerliği
-35972;Yusuf ÖZSARI;9C Otomotiv Mekanikerliği
-37572;Yusuf Sami TORUN;9C Otomotiv Mekanikerliği
-08462;Enes Malik TOPCU;9C Otomotiv Motor Yenileştirmeciliği
-41456;Muhammed ALAKAZ;9C Otomotiv Motor Yenileştirmeciliği
-45512;Emirhan ÇOLAKER;9F Ön Düzen Ayarcılığı Ve Lastikçilik
-01418;Emrah DAĞBAŞI;9F Ön Düzen Ayarcılığı Ve Lastikçilik
-00416;Fatih GÜNER;9B Ön Düzen Ayarcılığı Ve Lastikçilik
-19940;Umut AYDIN;9C Ön Düzen Ayarcılığı Ve Lastikçilik
-89604;Yakup ATABEK;9C Ön Düzen Ayarcılığı Ve Lastikçilik
-36126;Edanur KELEŞ;9G1 Pasta Ve Tatlı Yapımı
-39658;Esilasu KOZAN;9G1 Pasta Ve Tatlı Yapımı
-98290;Melisa DÜNDAR;9G1 Pasta Ve Tatlı Yapımı
-46896;Muhammet KURU;9G1 Pasta Ve Tatlı Yapımı
-43460;Rumeysa ŞAHİN;9G1 Pasta Ve Tatlı Yapımı
-78058;Battal HAMİTOĞLU;9A3(KARMA) Vitrin Kuyumculuğu
-77720;Hamza TOPÇU;10D1 Ahşap Doğrama Teknolojisi
-60544;Muhammet Duran AKBULUT;10D1 Ahşap Doğrama Teknolojisi
-90526;Yunus Emre SEVİNÇ;10D1 Ahşap Doğrama Teknolojisi
-92132;Alper AYGIN;10E Asansör Sistemleri
-20336;Berat TAŞKIN;10E Asansör Sistemleri
-96454;Beytullah ZENBİLLİ;10D Asansör Sistemleri
-02224;Efe Can KALINLAR;10E Asansör Sistemleri
-59406;Emir DEMİRKAN;10E Asansör Sistemleri
-78334;Ömer VARLI;10D Asansör Sistemleri
-33436;Seyfullah Kasım VAROL;10D Asansör Sistemleri
-41342;Ayaz Ali SÖZEN;10M Aşçılık
-35280;Can AKGÜN;10M Aşçılık
-29638;Efenuh KÖSEOĞLU;10M Aşçılık
-78672;Emir ÇELİK;10M Aşçılık
-57286;Habibe BAYKARA;10M Aşçılık
-06512;Hanzade KERİMOĞLU;10M Aşçılık
-38416;Havva KARAŞAHİN;10M Aşçılık
-87028;Ledeyna ÇATALBAŞ;10M Aşçılık
-51156;Mahmut KARATAŞ;10M Aşçılık
-25700;Muhammed Abdülhamid TANIK;10M Aşçılık
-05044;Muhammed Emin GÖKÇELİ;10M Aşçılık
-13124;Nisanur ANNAÇ;10M Aşçılık
-24704;Okan ÖZGÖR;10M Aşçılık
-01692;Ömer Faruk OCAK;10M Aşçılık
-19168;Samet Efe YILMAZ;10M Aşçılık
-36316;Seyfi OĞUZ;10M Aşçılık
-70974;Sinan GUBAT;10M Aşçılık
-60448;Tuğba CANPOLAT;10M Aşçılık
-23782;Yağmur GÜZELGÜL;10M Aşçılık
-50416;Yiğit GADİŞ;10M Aşçılık
-36100;Önder DOĞRU;10A2 Ayakkabı Üretimi
-60576;Abdülkerim AKIN;10E1 Bilgisayar Teknik Servisi
-63094;Arslan Fatih YOĞURTÇU;10E1 Bilgisayar Teknik Servisi
-99528;Belinay Havva TAŞPINAR;10E1 Bilgisayar Teknik Servisi
-59790;Beren TÜRKOĞLU;10E1 Bilgisayar Teknik Servisi
-47792;Furkan YÜCEMAN;10E1 Bilgisayar Teknik Servisi
-66132;Ali Enes KAZIK;10L Bilgisayarlı Makine İmalatı
-27482;Arda GÖKDEMİR;10L Bilgisayarlı Makine İmalatı
-00010;Bedirhan SOYLU;10L Bilgisayarlı Makine İmalatı
-38218;Berat Kaan KURTULDU;10L Bilgisayarlı Makine İmalatı
-19464;Ensar DEDE;10L Bilgisayarlı Makine İmalatı
-57366;Eray BATTAL;10L Bilgisayarlı Makine İmalatı
-76146;Eren Deniz DİNÇ;10L Bilgisayarlı Makine İmalatı
-12416;Halil İbrahim KARA;10L Bilgisayarlı Makine İmalatı
-16142;Mert GÜREL;10L Bilgisayarlı Makine İmalatı
-46868;Muhammet KAÇAR;10L Bilgisayarlı Makine İmalatı
-47230;Rezak Çınar DENİZ;10L Bilgisayarlı Makine İmalatı
-83404;Serkan ÇETİNKAYA;10L Bilgisayarlı Makine İmalatı
-40350;Yakup ÇAMCI;10L Bilgisayarlı Makine İmalatı
-93458;Yakup KAYA;10L Bilgisayarlı Makine İmalatı
-72114;Yiğit AKGÜL;10L Bilgisayarlı Makine İmalatı
-50828;Berat BOYRAZ;10E Bobinaj
-93016;Eren TOKCAN;10D Bobinaj
-14736;Harun ÇAKIR;10D Bobinaj
-87504;Hüsnü MERÇ;10E Bobinaj
-31298;İbrahim KILIÇ;10E Bobinaj
-31508;İzzet Buğra AKAY;10E Bobinaj
-41104;Mikail Mustafa DERİN;10D Bobinaj
-56280;Mustafa KURT;10D Bobinaj
-14044;Yaver ERBULUN;10D Bobinaj
-28792;Arzu TOK;10A Cilt Bakımı Ve Makyaj
-50296;Dilara NAYCI;10B Cilt Bakımı Ve Makyaj
-21066;Doğa DURAK;10B Cilt Bakımı Ve Makyaj
-03752;Ela MALKOÇ;10 Cilt Bakımı Ve Makyaj
-84086;Elif Minel BERÇİN;10B Cilt Bakımı Ve Makyaj
-82594;Ferah ELNASEN;10A Cilt Bakımı Ve Makyaj
-88240;Zeynep Ilgın AKPOLAT;10A Cilt Bakımı Ve Makyaj
-73982;Berkay TAŞKIN;10K Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
-61246;İbrahim ZENGİN;10F Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
-99084;Özkan ÖZKAN;10K Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
-05538;Polat DÜZENLİ;10H Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
-67470;Ahmet Can KÖLEMENOĞLU;10E Elektrik Tesisatları Ve Pano Montörlüğü
-33420;Ahmetcan EROL;10D Elektrik Tesisatları Ve Pano Montörlüğü
-50744;Ali Fırat ATLI;10E Elektrik Tesisatları Ve Pano Montörlüğü
-75554;Aslan AĞRAŞ;10D Elektrik Tesisatları Ve Pano Montörlüğü
-09610;Bekir KAYAHAN;10E Elektrik Tesisatları Ve Pano Montörlüğü
-08534;Burak ÇETİNKAYA;10D Elektrik Tesisatları Ve Pano Montörlüğü
-20314;Ege Doruk CANFER;10D Elektrik Tesisatları Ve Pano Montörlüğü
-02346;Emirhan ARTAN;10D Elektrik Tesisatları Ve Pano Montörlüğü
-40120;Emirhan İZSİZ;10D Elektrik Tesisatları Ve Pano Montörlüğü
-92256;Emirhan MEMİŞ;10D Elektrik Tesisatları Ve Pano Montörlüğü
-40684;Emirhan VERİM;10D Elektrik Tesisatları Ve Pano Montörlüğü
-61594;Enver Efe KARATAŞ;10D Elektrik Tesisatları Ve Pano Montörlüğü
-36206;Erdem Utku OĞUZ;10E Elektrik Tesisatları Ve Pano Montörlüğü
-31528;Ertuğrul ÇATALKAYA;10E Elektrik Tesisatları Ve Pano Montörlüğü
-34258;Eyüp KARATAŞ;10D Elektrik Tesisatları Ve Pano Montörlüğü
-82810;Gökay DEMİR;10E Elektrik Tesisatları Ve Pano Montörlüğü
-59436;Hüseyin Kerem KARAKAYA;10E Elektrik Tesisatları Ve Pano Montörlüğü
-66816;Levent ÖZER;10D Elektrik Tesisatları Ve Pano Montörlüğü
-06636;Muhammed Emir ALKANAT;10D Elektrik Tesisatları Ve Pano Montörlüğü
-89078;Muhammet Emir BUĞU;10E Elektrik Tesisatları Ve Pano Montörlüğü
-17086;Musa EREN;10E Elektrik Tesisatları Ve Pano Montörlüğü
-19576;Mustafa KELEŞ;10D Elektrik Tesisatları Ve Pano Montörlüğü
-70150;Ömer Rafet COŞKUN;10D Elektrik Tesisatları Ve Pano Montörlüğü
-08526;Resul ÖZTÜRK;10E Elektrik Tesisatları Ve Pano Montörlüğü
-26532;Rıdvan TEMEL;10E Elektrik Tesisatları Ve Pano Montörlüğü
-07136;Sabri Enes KARATAŞ;10E Elektrik Tesisatları Ve Pano Montörlüğü
-77006;Serhat YUCA;10E Elektrik Tesisatları Ve Pano Montörlüğü
-20750;Veysi AKTEKİN;10D Elektrik Tesisatları Ve Pano Montörlüğü
-86536;Yemlihan Berken ABDUKAYA;10D Elektrik Tesisatları Ve Pano Montörlüğü
-86770;Yusuf Ali BALKAYA;10D Elektrik Tesisatları Ve Pano Montörlüğü
-04646;Alparslan BARAN;10D Elektrikli Ev Aletleri Teknik Servisi
-93124;Baran ÇETİN;10D Elektrikli Ev Aletleri Teknik Servisi
-75272;Ege MANAVOĞLU;10E Elektrikli Ev Aletleri Teknik Servisi
-41924;Kayra Berke AKINCI;10E Elektrikli Ev Aletleri Teknik Servisi
-39256;Kerem KAMAR;10D Elektrikli Ev Aletleri Teknik Servisi
-85076;Kerimcan AÇIKGÖZ;10E Elektrikli Ev Aletleri Teknik Servisi
-04560;Mustafa Bekir AKAR;10D Elektrikli Ev Aletleri Teknik Servisi
-82924;Mustafa Efe ÇETİZ;10D Elektrikli Ev Aletleri Teknik Servisi
-21750;Ogün SAĞDIÇ;10E Elektrikli Ev Aletleri Teknik Servisi
-44304;Olgun Can YILMAZ;10E Elektrikli Ev Aletleri Teknik Servisi
-66580;Yusuf Salih ATMAN;10E Elektrikli Ev Aletleri Teknik Servisi
-87396;Ata Can SILDIR;10E Endüstriyel Bakım Onarım
-86590;Göktuğ Zülkar ZÜLKEROĞLU;10E Endüstriyel Bakım Onarım
-62032;Bedirhan BAKAR;10L Endüstriyel Kalıp
-74558;Ali TAŞGIN;10E2 Endüstriyel Kontrol
-00916;Muhammet Mustafa BAŞ;10E2 Endüstriyel Kontrol
-04846;Abdülbaki ARSLAN;10B Erkek Kuaförlüğü
-97736;Abdüssamed ÇUKADAR;10 Erkek Kuaförlüğü
-31406;Alperen TAKIM;10C Erkek Kuaförlüğü
-65124;Arda YILMAZ;10C Erkek Kuaförlüğü
-91374;Azad AYNA;10C Erkek Kuaförlüğü
-52440;Azat Ensar KORDAĞLI;10C Erkek Kuaförlüğü
-40820;Barış AKGÜN;10C Erkek Kuaförlüğü
-66908;Barış Özgür SEVGİOĞLU;10C Erkek Kuaförlüğü
-30098;Batın Mert GÜNDOĞDU;10C Erkek Kuaförlüğü
-77560;Batuhan TEKİN;10C Erkek Kuaförlüğü
-43700;Berat YAMAN;10B Erkek Kuaförlüğü
-96044;Bilal KAYA;10C Erkek Kuaförlüğü
-30790;Bilal TAHTALI;10A Erkek Kuaförlüğü
-36656;Bünyamin ÇOLAK;10C Erkek Kuaförlüğü
-43734;Celil ÖZKAN;10B Erkek Kuaförlüğü
-52450;Cihangir BULUR;10C Erkek Kuaförlüğü
-61638;Devrim TAŞ;10A Erkek Kuaförlüğü
-66552;Durdu Eren ŞAHİN;10C Erkek Kuaförlüğü
-34132;Efe GENÇ;10C Erkek Kuaförlüğü
-52570;Ege KARAÇOBAN;10C Erkek Kuaförlüğü
-94462;Emir YADIŞ;10C Erkek Kuaförlüğü
-17382;Emirhan AKCAL;10B Erkek Kuaförlüğü
-17526;Emirhan GÜNGÖR;10A Erkek Kuaförlüğü
-50892;Eren Can AKKAYA;10C Erkek Kuaförlüğü
-27664;Eser YENİYILDIZ;10B Erkek Kuaförlüğü
-16090;Fatih ÇETİNKAYA;10B Erkek Kuaförlüğü
-30424;Göktuğ Okan GİZİR;10C Erkek Kuaförlüğü
-85284;Görkem Yiğit YALDIZ;10C Erkek Kuaförlüğü
-49538;Halis YILMAZ;10B Erkek Kuaförlüğü
-58918;Harun DOĞRU;10C Erkek Kuaförlüğü
-63506;Hüseyin Berk KORKMAZ;10C Erkek Kuaförlüğü
-96158;İdris Efe TORUN;10C Erkek Kuaförlüğü
-85268;Kaan UZUN;10A Erkek Kuaförlüğü
-48236;Muhammed Orhan KAYMAK;10B Erkek Kuaförlüğü
-78140;Muhammet Alperen SÜRBAHANLI;10C Erkek Kuaförlüğü
-46326;Mustafa KARATAŞ;10C Erkek Kuaförlüğü
-71518;Mustafa SADE;10C Erkek Kuaförlüğü
-46696;Nurullah CAZIR;10C Erkek Kuaförlüğü
-64344;Ozan AKDOĞAN;10C Erkek Kuaförlüğü
-73638;Özer DEMİR;10C Erkek Kuaförlüğü
-77796;Ramazan Talha MUSLU;10A Erkek Kuaförlüğü
-41464;Samet ÇELİK;10C Erkek Kuaförlüğü
-17784;Selami AKBIYIK;10A Erkek Kuaförlüğü
-10050;Serhat ÖRS;10C Erkek Kuaförlüğü
-68154;Sinan DAĞCI;10B Erkek Kuaförlüğü
-48036;Soykan KARADENİZ;10C Erkek Kuaförlüğü
-39992;Taner LAÇIN;10A Erkek Kuaförlüğü
-67896;Utku Miraç AKÇA;10C Erkek Kuaförlüğü
-43446;Utku SARIKAYA;10C Erkek Kuaförlüğü
-65560;Yiğit Efe TUFAN;10C Erkek Kuaförlüğü
-29554;Yiğit Kaan ÇANDAR;10C Erkek Kuaförlüğü
-37382;Yiğit ŞAHİN;10C Erkek Kuaförlüğü
-54566;Yunus Emre TEKİN;10B Erkek Kuaförlüğü
-44732;Yunus Emre UÇAK;10C Erkek Kuaförlüğü
-81542;Yusuf Ziya AKÇİL;10A Erkek Kuaförlüğü
-53816;Yüksel ET;10C Erkek Kuaförlüğü
-44294;İlker SEÇGİN;10A1 Fotoğraf
-91328;İpek YILDIZ;10A1 Fotoğraf
-23808;Meryem EŞLİK;10A1 Fotoğraf
-14162;Polat GÜNDÜZ;10A1 Fotoğraf
-55882;Sümeyye UZUN;10A1 Fotoğraf
-79292;Yaren AKÇA;10A1 Fotoğraf
-59662;Yiğit PEKMEZ;10A1 Fotoğraf
-70050;Baran ÇETİN;10D Görüntü Ve Ses Sistemleri
-74726;Beytullah AYKUT;10D Görüntü Ve Ses Sistemleri
-06408;Erdem ÖGEDAY;10E Görüntü Ve Ses Sistemleri
-07310;Hamza EKİN;10A1 Grafik
-14530;Murat KAÇMAZ;10E Haberleşme Sistemleri
-87614;Abdulrezak AKTEKİN;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-80434;Ahmet ÇAKIRKAYA;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-82092;Ali Talha ASLAN;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-34526;Ebubekir EROL;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-37954;Eren DEMİR;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-73276;Fehim ŞAŞMAZ;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-80096;Ömer Fırat KIVRAK;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-16154;Özgür Can AFŞAR;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-71558;Şerzan Hasan EREN;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-57492;Umut KIRCA;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-01298;Yiğit YORULMAZ;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-22928;Yoldaş GEDİK;10L1 Isıtma Ve Sıhhi Tesisat Sistemleri
-75456;Abdülsamet GÜLTEKİN;10D1 İç Mekân Ve Mobilya Teknolojisi
-20386;Berat KARAMAN;10D1 İç Mekân Ve Mobilya Teknolojisi
-46272;Muhammed Ali İZSİZ;10D1 İç Mekân Ve Mobilya Teknolojisi
-62602;Gökhan BAYDAR;10L1 İklimlendirme Sistemleri
-79340;Uğur UÇAR;10G İş Makineleri
-39018;Ali Eren UYGUR;10B Kadın Kuaförlüğü
-85512;Aras KEPEKLİ;10A Kadın Kuaförlüğü
-03988;Asya Melin TEKİNALP;10A Kadın Kuaförlüğü
-41240;Aysun Ecrin BOZKURT;10B Kadın Kuaförlüğü
-79064;Bahadır AKKUL;10B Kadın Kuaförlüğü
-73816;Berra KOÇ;10A Kadın Kuaförlüğü
-77828;Berru Hira KÖKSAL;10A Kadın Kuaförlüğü
-96072;Cansu VURAL;10B Kadın Kuaförlüğü
-31810;Cemile PEKTAŞ;10B Kadın Kuaförlüğü
-54970;Duru KAYA;10B Kadın Kuaförlüğü
-24378;Edam MUHARREM;10B Kadın Kuaförlüğü
-11446;Elifnur PEKER;10A Kadın Kuaförlüğü
-13046;Emine Berna TAŞ;10B Kadın Kuaförlüğü
-49618;Emine KORKMAZ;10B Kadın Kuaförlüğü
-49246;Eslem Nisa BAYCAN;10B Kadın Kuaförlüğü
-26806;Eylem AYDOĞDU;10A Kadın Kuaförlüğü
-35532;Eylül Esra NURDOĞAN;10A Kadın Kuaförlüğü
-24826;Gizem ÖZTÜRK;10B Kadın Kuaförlüğü
-97198;Gözde MANGIRCI;10A Kadın Kuaförlüğü
-37318;Gül Suna BALCI;10B Kadın Kuaförlüğü
-60420;Hacer KAYA;10B Kadın Kuaförlüğü
-07384;Haktan AKKUŞ;10B Kadın Kuaförlüğü
-96484;Havvanur BEDELOV;10A Kadın Kuaförlüğü
-86234;Hira KILIÇ;10B Kadın Kuaförlüğü
-50562;Hiranur SİRİ;10B Kadın Kuaförlüğü
-02764;Hüseyin Kadir KARABULUT;10A Kadın Kuaförlüğü
-09334;Irmak ERYILMAZ;10A Kadın Kuaförlüğü
-75514;İlayda DEMİRÖZ;10B Kadın Kuaförlüğü
-03790;İlke Ebrar ERGÜL;10B Kadın Kuaförlüğü
-08176;Kardelen KARTUN;10A Kadın Kuaförlüğü
-35490;Kübra SARISU;10B Kadın Kuaförlüğü
-81152;Mehmet Ufuk KARAARSLAN;10A Kadın Kuaförlüğü
-37860;Melisa KARABIYIK;10A Kadın Kuaförlüğü
-89798;Merve ÜNLÜ;10B Kadın Kuaförlüğü
-57606;Merve YILMAZ;10B Kadın Kuaförlüğü
-78820;Muhammed Öner KAYA;10A Kadın Kuaförlüğü
-99084;Nisa Nur BAYCAN;10B Kadın Kuaförlüğü
-80082;Nisagül Şehri KALAYCI;10B Kadın Kuaförlüğü
-84082;Nisanur ÇOLAK;10B Kadın Kuaförlüğü
-53552;Pınar YENİYURT;10B Kadın Kuaförlüğü
-51592;Ramis HACIOĞLU;10B Kadın Kuaförlüğü
-75240;Sena ERDAL;10A Kadın Kuaförlüğü
-70576;Sıla ÜNSAL;10B Kadın Kuaförlüğü
-91740;Suden ERGİNSOY;10B Kadın Kuaförlüğü
-54708;Sudenaz KAVAK;10B Kadın Kuaförlüğü
-30424;Şevval AYBEK;10B Kadın Kuaförlüğü
-24772;Tuğba HAN;10A Kadın Kuaförlüğü
-39830;Yaprak Ahu AKIN;10B Kadın Kuaförlüğü
-63862;Yıldız ÇEVİK;10A Kadın Kuaförlüğü
-28838;Emir ERTÜRK;10C1 Kaynakçılık
-66418;Göktuğ ARICI;10C1 Kaynakçılık
-42418;Mustafa Efe MERAL;10C1 Kaynakçılık
-90832;Okan MEŞE;10C1 Kaynakçılık
-51132;Ataberk İLERİ;10L Makine Bakım Onarım
-86440;Hasan Hüseyin KAYA;10L Makine Bakım Onarım
-22538;Kasım ÇAKMAKÇI;10L Makine Bakım Onarım
-56914;Ömer ŞİMŞEK;10L Makine Bakım Onarım
-36234;Özgür ERGÜN;10L Makine Bakım Onarım
-16926;Serdar TEKDOĞAN;10L Makine Bakım Onarım
-43656;Yiğit KÜÇÜKBATUR;10L Makine Bakım Onarım
-03606;Defne Ela VARLAR;10C2 Muhasebe
-37486;Melisa ARSLAN;10C2 Muhasebe
-53272;Muhammed Ali SARIBUĞA;10C2 Muhasebe
-22070;Ali Furkan LEVENT;10F Otomotiv Boya
-12440;Aliyar YAVRUTÜRK;10İ Otomotiv Boya
-17742;Arda TOPÇU;10K Otomotiv Boya
-59440;Bulut KARA;10K Otomotiv Boya
-54658;Diyar Amed TOPRAK;10G Otomotiv Boya
-21320;Kudret BAKADUR;10G Otomotiv Boya
-24438;Salih SÖYÜNCÜ;10İ Otomotiv Boya
-86760;Tugay KARAMAN;10İ Otomotiv Boya
-95374;Yusuf ELNASEN;10G Otomotiv Boya
-16338;Abdulbasit ELŞAVİ;10İ Otomotiv Elektrikçiliği
-55332;Abdulkerim GÜÇLÜGİL;10F Otomotiv Elektrikçiliği
-19034;Bayram Ali TOPCU;10F Otomotiv Elektrikçiliği
-43268;Emirhan DANACIOĞLU;10F Otomotiv Elektrikçiliği
-30044;Eyüp KARTAL;10H Otomotiv Elektrikçiliği
-29778;Mehmet Fatih GÜMÜŞ;10H Otomotiv Elektrikçiliği
-05148;Volkan BOZOĞLU;10H Otomotiv Elektrikçiliği
-74256;Yağız Kemal UĞUN;10F Otomotiv Elektrikçiliği
-69982;Yusuf KÖYSÜ;10G Otomotiv Elektrikçiliği
-32038;Abdulsamet TEMEL;10F Otomotiv Elektromekanik
-43226;Abdurrahim KAYA;10K Otomotiv Elektromekanik
-83772;Abdül Samet ZORAVALİ;10K Otomotiv Elektromekanik
-75464;Ahmet YÜKSEL;10G Otomotiv Elektromekanik
-20268;Akın AYAN;10G Otomotiv Elektromekanik
-94822;Ali Haydar ALİBAY;10F Otomotiv Elektromekanik
-34136;Ali Osman KARADENİZ;10İ Otomotiv Elektromekanik
-65284;Arda ÇELEBİ;10İ Otomotiv Elektromekanik
-63756;Arif Hasan KARAOĞLU;10F Otomotiv Elektromekanik
-89622;Atakan SEVGİ;10G Otomotiv Elektromekanik
-12222;Aytuğ ÇETİN;10K Otomotiv Elektromekanik
-36304;Baran YILDIRIM;10İ Otomotiv Elektromekanik
-67020;Berat GÖKÇE;10G Otomotiv Elektromekanik
-24646;Berat YEGİN;10H Otomotiv Elektromekanik
-61916;Bünyamin YAĞIZ;10K Otomotiv Elektromekanik
-93410;Çınar ŞAHİN;10G Otomotiv Elektromekanik
-50154;Efe ARSLAN;10K Otomotiv Elektromekanik
-67854;Efecan ERMİŞ;10İ Otomotiv Elektromekanik
-53542;Ege MUTLU;10H Otomotiv Elektromekanik
-20798;Elyesa KILIÇ;10H Otomotiv Elektromekanik
-52326;Emir Efe ERDOĞMUŞ;10İ Otomotiv Elektromekanik
-70248;Emir Nevzat ŞENKAN;10İ Otomotiv Elektromekanik
-39350;Enes TÜRKAY;10İ Otomotiv Elektromekanik
-29402;Eren AKBULUT;10G Otomotiv Elektromekanik
-78042;Eren KÖYLÜ;10H Otomotiv Elektromekanik
-30512;Eren ÖZTÜRK;10F Otomotiv Elektromekanik
-22290;Fatih ÇAKIR;10F Otomotiv Elektromekanik
-05282;Halil Burak KARA;10G Otomotiv Elektromekanik
-78308;Hüsamettin KILIÇ;10G Otomotiv Elektromekanik
-25838;Hüzeyfe GÖKKAYA;10G Otomotiv Elektromekanik
-55168;İbrahim Halil SEZİKLİ;10F Otomotiv Elektromekanik
-48010;İshak UĞUZ;10F Otomotiv Elektromekanik
-90320;Kaan TEZEL;10H Otomotiv Elektromekanik
-47786;Kaancan BAŞARAN;10İ Otomotiv Elektromekanik
-37986;Kadir YAVUZ;10H Otomotiv Elektromekanik
-29794;Kenan KURT;10İ Otomotiv Elektromekanik
-73694;Kerem KUĞUMCU;10G Otomotiv Elektromekanik
-46014;Kuzey BAYAR;10G Otomotiv Elektromekanik
-28118;Mehmet Can ŞAYIP;10F Otomotiv Elektromekanik
-30262;Mert Ali BAYLAN;10F Otomotiv Elektromekanik
-72052;Mert TAŞKIN;10F Otomotiv Elektromekanik
-60076;Metehan ÇİÇEK;10İ Otomotiv Elektromekanik
-37552;Muhammed Berat EŞUT;10F Otomotiv Elektromekanik
-81348;Muhammed Emin BABAN;10K Otomotiv Elektromekanik
-67638;Muhammed Sait KAYA;10F Otomotiv Elektromekanik
-86810;Muhammed SIRÇANCI;10H Otomotiv Elektromekanik
-21148;Muhammet Emin GÖREN;10G Otomotiv Elektromekanik
-21532;Muhammet Hüseyin DEMİR;10H Otomotiv Elektromekanik
-83562;Muhammet İNAN;10K Otomotiv Elektromekanik
-28254;Muhammet Mustafa YILDIZ;10G Otomotiv Elektromekanik
-99904;Muharrem TEKE;10G Otomotiv Elektromekanik
-51374;Murat YOLDAŞ;10F Otomotiv Elektromekanik
-80284;Mustafa Cesur NARİN;10F Otomotiv Elektromekanik
-48450;Müslüm ÇOBAN;10K Otomotiv Elektromekanik
-93996;Ömer ALTAY;10İ Otomotiv Elektromekanik
-07840;Ömer BENLİ;10K Otomotiv Elektromekanik
-40416;Ömer Efe FİLİZ;10F Otomotiv Elektromekanik
-11690;Ömer Kerem YAKIN;10N Otomotiv Elektromekanik
-41676;Ömer TAŞ;10K Otomotiv Elektromekanik
-22058;Ömer TUNÇ;10K Otomotiv Elektromekanik
-99612;Polat ÇINAR;10H Otomotiv Elektromekanik
-92236;Poyraz Ali ÇAĞLAK;10H Otomotiv Elektromekanik
-18206;Ramazan TAŞGIN;10İ Otomotiv Elektromekanik
-05154;Recep Tayyip KAYA;10İ Otomotiv Elektromekanik
-67670;Recep TÜRKKAN;10H Otomotiv Elektromekanik
-82744;Rojhat GÜNGÜR;10H Otomotiv Elektromekanik
-72476;Rüzgar ATAÇ;10F Otomotiv Elektromekanik
-37770;Salih SAGIŞ;10F Otomotiv Elektromekanik
-00760;Salih YILMAZ;10G Otomotiv Elektromekanik
-62682;Samet BEYDOĞAN;10K Otomotiv Elektromekanik
-31170;Sefa Eren CAN;10F Otomotiv Elektromekanik
-57010;Süheyl TATAK;10H Otomotiv Elektromekanik
-71178;Şenol EMEK;10İ Otomotiv Elektromekanik
-75252;Şiyar KARADAĞ;10K Otomotiv Elektromekanik
-52220;Talha Ensar BOLAT;10H Otomotiv Elektromekanik
-77026;Tunahan DİLEK;10N Otomotiv Elektromekanik
-44898;Umut Arslan KAYALAR;10F Otomotiv Elektromekanik
-29826;Utku KUŞKU;10İ Otomotiv Elektromekanik
-96494;Yağız Efe GÜNER;10İ Otomotiv Elektromekanik
-63384;Yasin CİSA;10K Otomotiv Elektromekanik
-36608;Yasin ÇELİK;10İ Otomotiv Elektromekanik
-31892;Yasin EROL;10İ Otomotiv Elektromekanik
-40882;Yasin ESEN;10H Otomotiv Elektromekanik
-07626;Yiğit GEMİCİ;10F Otomotiv Elektromekanik
-38376;Yiğit GÜLEN;10İ Otomotiv Elektromekanik
-46728;Yiğit ÖVÜT;10H Otomotiv Elektromekanik
-15114;Yunus Can ALTINTAŞ;10İ Otomotiv Elektromekanik
-94206;Yunus Emre GÜZELYURT;10K Otomotiv Elektromekanik
-58484;Yunus Emre SAYGI;10H Otomotiv Elektromekanik
-57096;Yusuf TOKUR;10F Otomotiv Elektromekanik
-81290;Yusufcan CENGİZ;10K Otomotiv Elektromekanik
-95456;Abdullah GÖK;10G Otomotiv Gövde
-50060;Ahmet Talha KARTAL;10H Otomotiv Gövde
-68268;Arda SERTTAŞ;10F Otomotiv Gövde
-77952;Berat BABACAN;10F Otomotiv Gövde
-85780;Berkay TATAR;10İ Otomotiv Gövde
-06808;Berke SOVAN;10G Otomotiv Gövde
-24402;Cesim ERGÜN;10F Otomotiv Gövde
-53234;Egehan DOĞRU;10H Otomotiv Gövde
-98738;Emir ALTUNOLUK;10G Otomotiv Gövde
-97444;Emre SAKA;10F Otomotiv Gövde
-86644;İsmail Efe YENİYURT;10G Otomotiv Gövde
-34304;Kuzey BOSTANCI;10K Otomotiv Gövde
-79654;Mert Can ÖZTATAR;10K Otomotiv Gövde
-30832;Mikail Yalçın KAYA;10K Otomotiv Gövde
-03394;Muhammed Can ALPASLAN;10H Otomotiv Gövde
-62080;Muhammed Can OLGUN;10İ Otomotiv Gövde
-21032;Mustafa Emir AKYILDIZ;10İ Otomotiv Gövde
-93430;Serkan GÜNDOĞDU;10G Otomotiv Gövde
-62884;Seyit Ahmet EROL;10İ Otomotiv Gövde
-05578;Umut KARTAL;10K Otomotiv Gövde
-03224;Yiğit Can ERMİŞ;10K Otomotiv Gövde
-31088;Yusuf KURU;10H Otomotiv Gövde
-03054;Ahmet Hasan KAYA;10G Otomotiv Mekanikerliği
-24110;Ali ÖZDEMİR;10H Otomotiv Mekanikerliği
-90808;Barış Enes HORZUM;10H Otomotiv Mekanikerliği
-50026;Batuhan SEVGİ;10İ Otomotiv Mekanikerliği
-95076;Berat AKKUL;10K Otomotiv Mekanikerliği
-75788;Berat ATEŞ;10K Otomotiv Mekanikerliği
-02642;Berat BİLGİN;10G Otomotiv Mekanikerliği
-58258;Berat KABA;10İ Otomotiv Mekanikerliği
-50192;Berke BASAR;10G Otomotiv Mekanikerliği
-87498;Bilal Can KARASAKAL;10K Otomotiv Mekanikerliği
-99222;Bünyamin BAŞ;10F Otomotiv Mekanikerliği
-85740;Cesur ARMUT;10H Otomotiv Mekanikerliği
-96666;Demir Kaan DUMAN;10K Otomotiv Mekanikerliği
-49182;Efe DÖNMEZ;10K Otomotiv Mekanikerliği
-86664;Efe GÖKBULUT;10K Otomotiv Mekanikerliği
-14630;Efe ÖZCAN;10İ Otomotiv Mekanikerliği
-11516;Efe TAŞTEKİN;10İ Otomotiv Mekanikerliği
-17940;Ege ALGUR;10F Otomotiv Mekanikerliği
-06528;Ege EROL;10G Otomotiv Mekanikerliği
-99086;Emir GÜREŞİR;10İ Otomotiv Mekanikerliği
-41066;Enes AKAY;10H Otomotiv Mekanikerliği
-63764;Ezel Berk ŞEN;10F Otomotiv Mekanikerliği
-34430;Faik KAYA;10K Otomotiv Mekanikerliği
-87324;Furkan TEKİN;10G Otomotiv Mekanikerliği
-70266;Hakan ARIK;10K Otomotiv Mekanikerliği
-44338;Haluk Melik ÇAKAN;10K Otomotiv Mekanikerliği
-08306;Hasan AKDENİZ;10İ Otomotiv Mekanikerliği
-19416;Hüseyin Kayra ÖZER;10H Otomotiv Mekanikerliği
-32898;İbrahim Emre ASLAN;10F Otomotiv Mekanikerliği
-22528;İlker Kağan ÖZER;10H Otomotiv Mekanikerliği
-30288;Kaan DAL;10K Otomotiv Mekanikerliği
-87844;Kaan İNAN;10İ Otomotiv Mekanikerliği
-15570;Kemal ATAK;10İ Otomotiv Mekanikerliği
-57872;Lokman Efe ŞENGÜL;10H Otomotiv Mekanikerliği
-14496;Mahmut ÇETİNKAYA;10İ Otomotiv Mekanikerliği
-05788;Mehmet Ali GÜNEY;10K Otomotiv Mekanikerliği
-43506;Mehmet Emir SOYLU;10G Otomotiv Mekanikerliği
-60132;Muarrem BAYDAR;10F Otomotiv Mekanikerliği
-24700;Muhammed Emin ZORAVALİ;10İ Otomotiv Mekanikerliği
-57060;Muhammed Furkan KÖSE;10İ Otomotiv Mekanikerliği
-21268;Muhammed Mustafa GILIÇ;10G Otomotiv Mekanikerliği
-55294;Muhammed Yasir GÖK;10F Otomotiv Mekanikerliği
-67854;Muhammet Can IŞIK;10K Otomotiv Mekanikerliği
-57130;Muhammet Efe ÖZÇELİK;10G Otomotiv Mekanikerliği
-43172;Muhammet Hasan ALTIN;10H Otomotiv Mekanikerliği
-22150;Murat Efe KOÇDAĞ;10İ Otomotiv Mekanikerliği
-81640;Mustafa Eren ŞİMŞEK;10G Otomotiv Mekanikerliği
-90872;Onur ÖNCEL;10İ Otomotiv Mekanikerliği
-57656;Poyraz DEMİR;10H Otomotiv Mekanikerliği
-27280;Ramazan GELİYOR;10H Otomotiv Mekanikerliği
-09300;Rasim KİLİTÇİ;10G Otomotiv Mekanikerliği
-35068;Remzi GÖKÇE;10K Otomotiv Mekanikerliği
-54410;Said Mansur ELBAHADIR;10F Otomotiv Mekanikerliği
-03888;Serhat ADIGÜZEL;10İ Otomotiv Mekanikerliği
-19932;Taha GÖZCÜ;10N Otomotiv Mekanikerliği
-14526;Talha Muhammet ÇAPCI;10H Otomotiv Mekanikerliği
-94122;Tuğrul SEVGİ;10K Otomotiv Mekanikerliği
-23480;Tunahan EKER;10H Otomotiv Mekanikerliği
-31816;Uğur KUŞCU;10G Otomotiv Mekanikerliği
-56448;Umut YILDIZLI;10F Otomotiv Mekanikerliği
-30138;Umutcan AYAZ;10K Otomotiv Mekanikerliği
-55900;Utku SANCAR;10G Otomotiv Mekanikerliği
-84860;Veysel ALİŞAN;10H Otomotiv Mekanikerliği
-76126;Veysel GÖKÇE;10H Otomotiv Mekanikerliği
-07320;Veysel YILDIRIM;10F Otomotiv Mekanikerliği
-98112;Yiğit Can SEVİM;10G Otomotiv Mekanikerliği
-54630;Yiğit KAHRAMAN;10İ Otomotiv Mekanikerliği
-02332;Yiğit PEKMEZCİ;10G Otomotiv Mekanikerliği
-22498;Yunus Emre YILDIZ;10K Otomotiv Mekanikerliği
-43998;Yusuf Yiğit ARPACI;10G Otomotiv Mekanikerliği
-10656;Berat YAVUZ;10F Otomotiv Motor Yenileştirmeciliği
-55808;Ümit YILMAZ;10K Otomotiv Motor Yenileştirmeciliği
-58410;Abdulservet ŞAHİN;10F Ön Düzen Ayarcılığı Ve Lastikçilik
-55876;Ali Can YANIKCI;10K Ön Düzen Ayarcılığı Ve Lastikçilik
-10946;Ata İŞLER;10G Ön Düzen Ayarcılığı Ve Lastikçilik
-71886;Batuhan ÖZBURUN;10K Ön Düzen Ayarcılığı Ve Lastikçilik
-83636;Bedirhan KOÇ;10G Ön Düzen Ayarcılığı Ve Lastikçilik
-54532;Beytullah AKYÜZ;10İ Ön Düzen Ayarcılığı Ve Lastikçilik
-21864;Bilal ÖZBEK;10H Ön Düzen Ayarcılığı Ve Lastikçilik
-60210;Burak ACAR;10G Ön Düzen Ayarcılığı Ve Lastikçilik
-84422;Enver ÜNAL;10G Ön Düzen Ayarcılığı Ve Lastikçilik
-54258;Mahmut YILDIRIM;10İ Ön Düzen Ayarcılığı Ve Lastikçilik
-57980;Mert Can TEKDOĞAN;10H Ön Düzen Ayarcılığı Ve Lastikçilik
-52486;Muhammed Eren KAR;10F Ön Düzen Ayarcılığı Ve Lastikçilik
-18952;Muhammed KOÇ;10H Ön Düzen Ayarcılığı Ve Lastikçilik
-70160;Ramazan GÜNEŞ;10H Ön Düzen Ayarcılığı Ve Lastikçilik
-73826;Samet BEBE;10K Ön Düzen Ayarcılığı Ve Lastikçilik
-37038;Sefa YILMAZ;10H Ön Düzen Ayarcılığı Ve Lastikçilik
-80150;Soner ÖZMENTEŞ;10F Ön Düzen Ayarcılığı Ve Lastikçilik
-99666;Yakup Mehmet YÜKSEL;10İ Ön Düzen Ayarcılığı Ve Lastikçilik
-42284;Yusuf ÇİFTÇİ;10İ Ön Düzen Ayarcılığı Ve Lastikçilik
-49632;Yusuf Eren ÇUKADAR;10G Ön Düzen Ayarcılığı Ve Lastikçilik
-58706;Yusuf Ziya BAYRAM;10K Ön Düzen Ayarcılığı Ve Lastikçilik
-91976;Ahmed GÜNEŞ;10M Pasta Ve Tatlı Yapımı
-92898;Avesta Damla OKŞAK;10M Pasta Ve Tatlı Yapımı
-23228;Beyzanur KARATAŞ;10M Pasta Ve Tatlı Yapımı
-99374;Ceren Betül DURMUŞ;10M Pasta Ve Tatlı Yapımı
-39576;Ceylin ÖKSÜZ;10M Pasta Ve Tatlı Yapımı
-36042;Delil SÖYLEMEZ;10M Pasta Ve Tatlı Yapımı
-96794;Ecrin Naz KARAMAN;10M Pasta Ve Tatlı Yapımı
-52558;Enes ERDEM;10M Pasta Ve Tatlı Yapımı
-80132;Kardelen İLTER;10M Pasta Ve Tatlı Yapımı
-01756;Nesrin KINIK;10M Pasta Ve Tatlı Yapımı
-67052;Poyraz COŞKUN;10M Pasta Ve Tatlı Yapımı
-72408;Sahra Saliha SARIGÜL;10M Pasta Ve Tatlı Yapımı
-64820;Sümeyye SIRDAŞ;10M Pasta Ve Tatlı Yapımı
-22852;Şüheda GÖNÜL;10M Pasta Ve Tatlı Yapımı
-09972;Yasin Erdinç AKINCI;10M Pasta Ve Tatlı Yapımı
-40056;Yeşim BALANDI;10M Pasta Ve Tatlı Yapımı
-30130;Yunus ALADAĞ;10M Pasta Ve Tatlı Yapımı
-31140;Yusuf Sami ÖZEL;10M Pasta Ve Tatlı Yapımı
-18468;Zeynep AYNA;10 Pasta Ve Tatlı Yapımı
-00434;Mustafa TAŞHAN;10C1 Sac İşleri
-37654;Muhammed Muaz ÇAVUŞOĞLU;10A3 Satış Elemanlığı
-55726;Enes NAZLIGÜL;10L1 Soğutma Sistemleri
-91366;Alperen ÖZDEMİR;10E1 Yazılım Geliştirme
-77486;Ömer Fatih CENGİZ;10E1 Yazılım Geliştirme
-30084;Ercan YILMAZ;11K7 Ahşap Doğrama Teknolojisi
-10488;Kemal Tuna BAŞARAN;11K9 Asansör Sistemleri
-55898;Asya YAMAN;11D Aşçılık
-09864;Azra SÖYLEMEZ;11D Aşçılık
-15940;Bulut DEMİR;11D Aşçılık
-89482;Elif BAGIRAN;11D Aşçılık
-50240;Emirhan BAYDEDE;11D Aşçılık
-56120;Fatmanur AYDIN;11D Aşçılık
-28662;Huriye ŞEYHAHMED;11D Aşçılık
-14166;Muhammet Batuhan AYDIN;11D Aşçılık
-66616;Musa TÜRKAY;11D Aşçılık
-42946;Mustafa Efe DEMİR;11D Aşçılık
-17426;Necati Levent HEBEBCİ;11D Aşçılık
-71460;Oğuzhan SAPİL;11D Aşçılık
-24390;Sinem BİLECEN;11D Aşçılık
-27250;Şeref DÜZENLİ;11D Aşçılık
-27260;Taha ÇAKMAK;11D Aşçılık
-22000;Yiğit AŞCI;11D Aşçılık
-17900;Fatih BUDAK;11K4 Bilgisayar Teknik Servisi
-98726;Yunus Emre KURT;11K4 Bilgisayar Teknik Servisi
-91792;Yusuf Aybars ÇELİK;11K4 Bilgisayar Teknik Servisi
-02858;Arda DİŞLİ;11İ Bilgisayarlı Makine İmalatı
-13668;Barış ATTİLLA;11İ Bilgisayarlı Makine İmalatı
-86192;Batuhan GÜNDOĞAN;11İ Bilgisayarlı Makine İmalatı
-41628;Doğukan ÖZMEN;11İ Bilgisayarlı Makine İmalatı
-57796;Efe ÇAMURCU;11İ Bilgisayarlı Makine İmalatı
-57824;Kaan TELLİ;11İ Bilgisayarlı Makine İmalatı
-70586;Kemal ÇETİNKAYA;11İ Bilgisayarlı Makine İmalatı
-22290;Muhammed Mümtaz AŞIROĞLU;11İ Bilgisayarlı Makine İmalatı
-27800;Mustafa AKBABA;11İ Bilgisayarlı Makine İmalatı
-99220;Oğuz ÇOKDER;11İ Bilgisayarlı Makine İmalatı
-07966;Ömer Emin Can ATEŞ;11İ Bilgisayarlı Makine İmalatı
-04346;Serhat ÇETİNKAYA;11İ Bilgisayarlı Makine İmalatı
-93936;Yasin TATAR;11İ Bilgisayarlı Makine İmalatı
-78124;Caner ÇOMAK;11C1 Bobinaj
-59936;Emirhan DEĞERLİ;11C1 Bobinaj
-15428;Samet TONBUL;11C1 Bobinaj
-14760;Yasin ÖZKAYA;11C1 Bobinaj
-17572;Çisem Berna ÖNDARÖ;11A1 Cilt Bakımı Ve Makyaj
-76706;Elif MACAR;11A1 Cilt Bakımı Ve Makyaj
-73630;Fatma Zehra DEMİREL;11A1 Cilt Bakımı Ve Makyaj
-99696;Nisanur ATICI;11A1 Cilt Bakımı Ve Makyaj
-28806;Nisanur KOCAR;11A1 Cilt Bakımı Ve Makyaj
-86246;Yağmur ÇETİNKAYA;11A1 Cilt Bakımı Ve Makyaj
-50670;Yasmin YALIM;11A1 Cilt Bakımı Ve Makyaj
-27306;Yunus Emre KORCAN;11E1 Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
-13036;Yusuf Ali DAĞ;11E Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
-36446;Alperen ÜNLÜ;11C Elektrik Tesisatları Ve Pano Montörlüğü
-42738;Arda HAS;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-36498;Barış OK;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-26118;Batuhan ÇALIŞKAN;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-63748;Egemen BİRYAN;11C Elektrik Tesisatları Ve Pano Montörlüğü
-07746;Emirhan ELİTAŞ;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-67420;Enes KARAMAN;11C Elektrik Tesisatları Ve Pano Montörlüğü
-18464;Ercan EREN;11C Elektrik Tesisatları Ve Pano Montörlüğü
-37098;Hüseyin YAMAN;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-45062;Kadim AĞRAŞ;11C Elektrik Tesisatları Ve Pano Montörlüğü
-58654;Mehmet UZUN;11C Elektrik Tesisatları Ve Pano Montörlüğü
-33590;Mert ÇETİNKAYA;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-72574;Mert DERENBİK;11C Elektrik Tesisatları Ve Pano Montörlüğü
-22384;Samet İNCİ;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-42838;Şaban ÜNLÜ;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-11116;Taha DEMİR;11C Elektrik Tesisatları Ve Pano Montörlüğü
-20508;Yakup EREN;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-65394;Yiğit KIRCAOĞLU;11K8 Elektrik Tesisatları Ve Pano Montörlüğü
-76998;Yunus Bilal AKYÜZ;11C Elektrik Tesisatları Ve Pano Montörlüğü
-42862;Yunus Emre KALAYCI;11C Elektrik Tesisatları Ve Pano Montörlüğü
-05130;Baran AKINCI;11C2 Elektrikli Ev Aletleri Teknik Servisi
-03182;Metin Can TAŞKIRAN;11C2 Elektrikli Ev Aletleri Teknik Servisi
-48436;Uğur GÜLER;11C2 Elektrikli Ev Aletleri Teknik Servisi
-38688;Eyüp TEKTAŞ;11C3 Endüstriyel Bakım Onarım
-13282;Taha KARAER;11K12 Endüstriyel Reklamcı (Tabelacı)
-46582;Ahmet AYDOĞAN;11B Erkek Kuaförlüğü
-53726;Arda ÖZAYDIN;11B Erkek Kuaförlüğü
-56992;Arda YÜKSEL;11B Erkek Kuaförlüğü
-10024;Batuhan ÖZEN;11B Erkek Kuaförlüğü
-98074;Berat Kaan TATAR;11B Erkek Kuaförlüğü
-05946;Berat ÖZLÜ;11B Erkek Kuaförlüğü
-30984;Berkay ÇAMCI;11B Erkek Kuaförlüğü
-15792;Efe DOĞAN;11B Erkek Kuaförlüğü
-87248;Emre TÜRK;11B Erkek Kuaförlüğü
-89608;Erdem Eren BİLİCİ;11B Erkek Kuaförlüğü
-36224;Eren GÜRAY;11B Erkek Kuaförlüğü
-78898;Fırat YARIM;11B Erkek Kuaförlüğü
-37336;Fuat Efe EĞRİYOL;11B Erkek Kuaförlüğü
-49746;Hacı Mustafa TEKNE;11B Erkek Kuaförlüğü
-09330;Hüseyin Erdem AKSEL;11B Erkek Kuaförlüğü
-75354;İbrahim DEMİR;11B Erkek Kuaförlüğü
-07904;İbrahim DEMİR;11B Erkek Kuaförlüğü
-05912;İlker KARAASLAN;11B Erkek Kuaförlüğü
-92538;İsmail DEMİR;11B Erkek Kuaförlüğü
-31158;İsmet SİVRİ;11B Erkek Kuaförlüğü
-59776;Kadir TEKDOĞAN;11B Erkek Kuaförlüğü
-56816;Mehmet Ali ERYİĞİT;11B Erkek Kuaförlüğü
-53580;Mehmet Emre YEŞİLYURT;11B Erkek Kuaförlüğü
-87622;Melih SARAÇLI;11B Erkek Kuaförlüğü
-56512;Mert TÜRK;11B Erkek Kuaförlüğü
-82540;Miraç AKYÜZ;11B Erkek Kuaförlüğü
-42300;Muhammed CANLI;11B Erkek Kuaförlüğü
-29162;Mustafa YANIKCI;11B Erkek Kuaförlüğü
-36876;Nurettin ÇOLAK;11B Erkek Kuaförlüğü
-30532;Umut Arda ÇELİK;11B Erkek Kuaförlüğü
-02092;Umut ŞAHİN;11B Erkek Kuaförlüğü
-88520;Umutcan YURTSEVEN;11B Erkek Kuaförlüğü
-80350;Veysel Aras SAVCI;11B Erkek Kuaförlüğü
-32466;Volkan Ahmet KILIÇ;11B Erkek Kuaförlüğü
-71130;Yasin BOZKURT;11B Erkek Kuaförlüğü
-25750;Yasin GÜNDÜZ;11B Erkek Kuaförlüğü
-05538;Ysmayyl MYRATNAZAROV;11B Erkek Kuaförlüğü
-68942;Yunus Emre KAHRAMAN;11B Erkek Kuaförlüğü
-77606;Enes BARAN;11H2 Fırıncılık
-85182;Enes Buğra CEYLAN;11D2 Fotoğraf
-02122;Ferhat YILDIRIM;11D2 Fotoğraf
-63372;Göknur ATLI;11D2 Fotoğraf
-28134;Hasan KARTAL;11İ4 Gaz Yakıcı Cihazlar Ve Servis
-74272;Mehmet Uğur DÖNER;11İ4 Gaz Yakıcı Cihazlar Ve Servis
-61490;Murat KARTAL;11İ4 Gaz Yakıcı Cihazlar Ve Servis
-75140;Tarık ÇELİK;11İ4 Gaz Yakıcı Cihazlar Ve Servis
-12502;Erdoğan YEŞİLDAĞ;11K10 Görüntü Ve Ses Sistemleri
-14672;Mustafa Burak TARHAN;11K10 Görüntü Ve Ses Sistemleri
-87422;Yakup DÖMBEK;11K10 Görüntü Ve Ses Sistemleri
-87326;Yakup Efe DOĞMUŞ;11K10 Görüntü Ve Ses Sistemleri
-19706;Berat CİVELEK;11C4 Haberleşme Sistemleri
-01862;Yiğit Can KAÇMAZ;11C4 Haberleşme Sistemleri
-31272;Yusuf BAYRAM;11C4 Haberleşme Sistemleri
-69306;Delil EREN;11İ3 Isıtma Ve Sıhhi Tesisat Sistemleri
-48092;Muhammet EREN;11İ3 Isıtma Ve Sıhhi Tesisat Sistemleri
-89580;Sidar EREN;11İ3 Isıtma Ve Sıhhi Tesisat Sistemleri
-17506;Vedat AKTEKİN;11İ3 Isıtma Ve Sıhhi Tesisat Sistemleri
-80908;Yusuf AKTEKİN;11İ3 Isıtma Ve Sıhhi Tesisat Sistemleri
-43164;Emre ZENBİLLİ;11K6 İç Mekân Ve Mobilya Teknolojisi
-20822;Eymen ÖNAL;11K6 İç Mekân Ve Mobilya Teknolojisi
-68654;Muhammet Emin KAYA;11K6 İç Mekân Ve Mobilya Teknolojisi
-68502;Burak YAVUZ;11İ5 İklimlendirme Sistemleri
-93702;Demir YILDIRAN;11İ5 İklimlendirme Sistemleri
-53558;Emircan SAATCI;11F1 İş Makineleri
-20800;Hikmet Eren SERTOĞLU;11F1 İş Makineleri
-46062;İbrahim Ersan TOZUN;11F1 İş Makineleri
-42344;Aysu DEMİRKIR;11A Kadın Kuaförlüğü
-45418;Azra ÇAĞAN;11A Kadın Kuaförlüğü
-28092;Azra KENT;11A Kadın Kuaförlüğü
-07146;Berfin ERYİĞİT;11A Kadın Kuaförlüğü
-11798;Beril ŞENTÜRK;11A Kadın Kuaförlüğü
-29312;Beyzanur MERĞEN;11A Kadın Kuaförlüğü
-95950;Burak BALKIZ;11A Kadın Kuaförlüğü
-43604;Damla CANER;11A Kadın Kuaförlüğü
-92870;Ecenur ÇAMCI;11A Kadın Kuaförlüğü
-72116;Ecrin Havin AKDOĞAN;11A Kadın Kuaförlüğü
-23012;Ecrin KALAY;11A Kadın Kuaförlüğü
-11146;Ecrin Kamile AĞIR;11A Kadın Kuaförlüğü
-40350;Efe Tuğra URAL;11A Kadın Kuaförlüğü
-82016;Ela Seray SEVİM;11A Kadın Kuaförlüğü
-83602;Emine DENİZ;11A Kadın Kuaförlüğü
-78942;Esra TÜRKDOĞAN;11A Kadın Kuaförlüğü
-87104;Eylül Yasmin TEMİZKAN;11A Kadın Kuaförlüğü
-10102;Fatma TOSUN;11A Kadın Kuaförlüğü
-20346;Gizem YURTSEVER;11A Kadın Kuaförlüğü
-46844;Halil Suat PABUÇÇU;11A Kadın Kuaförlüğü
-36164;Hüseyin Eymen DUMANOVA;11A Kadın Kuaförlüğü
-28944;İrem YURTSEVER;11A Kadın Kuaförlüğü
-03192;İremnaz DEMİRDÖVEN;11A Kadın Kuaförlüğü
-48796;Mediha Naz ALTUNAY;11A Kadın Kuaförlüğü
-00502;Mert KIZILKAYA;11A Kadın Kuaförlüğü
-45850;Merve GÜNEŞ;11A Kadın Kuaförlüğü
-47696;Rengin ÇAKIN;11A Kadın Kuaförlüğü
-66284;Rojbin ÇELEBİ;11A Kadın Kuaförlüğü
-08528;Rosida DEMİRHAN;11A Kadın Kuaförlüğü
-76468;Selen YALÇIN;11A Kadın Kuaförlüğü
-76126;Selin BOZKURT;11A Kadın Kuaförlüğü
-92786;Songül GÜRCÜ;11A Kadın Kuaförlüğü
-73252;Sudenaz TANIK;11A Kadın Kuaförlüğü
-87824;Sumaya OLIMOVA;11A Kadın Kuaförlüğü
-27210;Tunç KESER;11A Kadın Kuaförlüğü
-01008;Umut GÜRCÜ;11A Kadın Kuaförlüğü
-42236;Yaren KARADENİZ;11A Kadın Kuaförlüğü
-21942;Yiğit Efe KÖKSAL;11A Kadın Kuaförlüğü
-00652;Yunus Emre ÇİÇEK;11A Kadın Kuaförlüğü
-15192;Yunus Emre GÜNDÜZ;11A Kadın Kuaförlüğü
-65982;Zerrin ÖZER;11A Kadın Kuaförlüğü
-33090;Alper BALCI;11K Kaynakçılık
-99504;Caner KUYU;11K Kaynakçılık
-52256;Faruk KOÇYİĞİT;11K Kaynakçılık
-46776;Mert ATTİLLA;11K Kaynakçılık
-84600;Muhammet Ali KAYA;11K Kaynakçılık
-11236;Yunus ULUSOY;11K Kaynakçılık
-30916;Enes SAMANCI;11İ1 Makine Bakım Onarım
-55964;Kaan Deniz İLGÜN;11İ1 Makine Bakım Onarım
-80996;Oğuzhan Kayra DEMİR;11İ1 Makine Bakım Onarım
-68046;Ömer Sait TOPCU;11İ2 Mermer İşleme
-82664;Efe BABUR;11K2 Metal Doğrama
-79540;Açelya BAYEZİT;11K3 Muhasebe
-45152;Duru KÜÇÜK;11K3 Muhasebe
-93028;Sevim Yaren TEZCAN;11K3 Muhasebe
-94422;Ahmet Serkan ÖZYÜRÜK;11E2 Otomotiv Boya
-67478;Baran AKÇAKOCA;11E2 Otomotiv Boya
-41566;Delil EREN;11E2 Otomotiv Boya
-49090;İlyas AYDIN;11E2 Otomotiv Boya
-44906;Jiyan AY;11E2 Otomotiv Boya
-44400;Mehmet EKİCİ;11E2 Otomotiv Boya
-02270;Ahmet Can YILMAZ;11G1 Otomotiv Elektrikçiliği
-12594;Ayberk YAŞLI;11G1 Otomotiv Elektrikçiliği
-85200;Berat Emin BİNGÖL;11G1 Otomotiv Elektrikçiliği
-00114;Hüseyin KUŞCU;11G1 Otomotiv Elektrikçiliği
-21962;Olcay PAKSOY;11G1 Otomotiv Elektrikçiliği
-27494;Ramazan ATICI;11G1 Otomotiv Elektrikçiliği
-14728;Abdulkadir YAĞIZ;11E Otomotiv Elektromekanik
-02554;Abdullah Samet BEKDAŞ;11E Otomotiv Elektromekanik
-30792;Adnan GÖKÇEBAŞ;11E Otomotiv Elektromekanik
-11014;Ahmet KELEŞ;11F Otomotiv Elektromekanik
-26386;Ahmet Şafak KANAT;11F Otomotiv Elektromekanik
-93376;Ahmet YİĞİT;11E Otomotiv Elektromekanik
-27944;Ahmetcan BAYAR;11E Otomotiv Elektromekanik
-10382;Ali Erkut GÜZEL;11E Otomotiv Elektromekanik
-31906;Alperen YAMAN;11F Otomotiv Elektromekanik
-37724;Arda ALTUN;11F Otomotiv Elektromekanik
-69562;Azat ÇETİNKAYA;11F Otomotiv Elektromekanik
-87084;Baki GÜNDOĞDU;11E Otomotiv Elektromekanik
-32114;Baran BAYTAR;11F Otomotiv Elektromekanik
-99054;Batın KILIÇ;11F Otomotiv Elektromekanik
-34284;Bedirhan HACIOĞLU;11F Otomotiv Elektromekanik
-06434;Bedirhan KARAKAYA;11E Otomotiv Elektromekanik
-22878;Bedirhan SEVGİ;11F Otomotiv Elektromekanik
-31488;Bıhışt BOZKURT;11E Otomotiv Elektromekanik
-08348;Bilal Rojhat AKİNCİ;11F Otomotiv Elektromekanik
-56974;Bora ÖZ;11E Otomotiv Elektromekanik
-45512;Burak KUBUR;11E Otomotiv Elektromekanik
-39952;Bünyamin BÜTÜN;11F Otomotiv Elektromekanik
-79292;Cem GÜLEÇ;11F Otomotiv Elektromekanik
-70872;Çağrı SAKİNAK;11E Otomotiv Elektromekanik
-28324;Devran Ege ELİBOL;11E Otomotiv Elektromekanik
-72962;Devrim DÜNDAR;11E Otomotiv Elektromekanik
-99598;Duhan ÜNLÜTÜRK;11E Otomotiv Elektromekanik
-80080;Egemen ERSEVEN;11F Otomotiv Elektromekanik
-24474;Emirhan AKAY;11E Otomotiv Elektromekanik
-52972;Emirhan ATAŞ;11E Otomotiv Elektromekanik
-14092;Emre DEMİR;11F Otomotiv Elektromekanik
-65202;Emre KIRCA;11F Otomotiv Elektromekanik
-23710;Enes TEKDEMİR;11E Otomotiv Elektromekanik
-65748;Furkan Emin ÖZDERE;11E Otomotiv Elektromekanik
-82678;Harun KAYALIK;11E Otomotiv Elektromekanik
-20524;Hasan ASLAN;11E Otomotiv Elektromekanik
-53176;Hasan Efe CİCİOĞLU;11F Otomotiv Elektromekanik
-50402;İsmail Buğra YÜREKLİ;11F Otomotiv Elektromekanik
-52794;Kaan Altay ÇOLAK;11F Otomotiv Elektromekanik
-34860;Kaan ENGES;11E Otomotiv Elektromekanik
-51002;Kadir GERÇEKER;11E Otomotiv Elektromekanik
-72926;Kadir YILDIZ;11E Otomotiv Elektromekanik
-19980;Mehmet Arda ELÇİ;11E Otomotiv Elektromekanik
-54422;Metin Eren DEMİRCİ;11F Otomotiv Elektromekanik
-73954;Muhammed Yasin PEKTEZEL;11F Otomotiv Elektromekanik
-76284;Murat Can AKYILDIZ;11F Otomotiv Elektromekanik
-64602;Mustafa Samet KOCA;11E Otomotiv Elektromekanik
-60536;Muzaffer KELEŞ;11E Otomotiv Elektromekanik
-51560;Osman Kaan KÜSKÜ;11E Otomotiv Elektromekanik
-22486;Ömer Faruk ALTUN;11F Otomotiv Elektromekanik
-41472;Özbek SARIALTUN;11F Otomotiv Elektromekanik
-82932;Polat BOYRAZ;11E Otomotiv Elektromekanik
-06460;Samet AYDIN;11E Otomotiv Elektromekanik
-88290;Sami YAMAN;11E Otomotiv Elektromekanik
-43412;Selman KELLE;11F Otomotiv Elektromekanik
-52922;Serkan GÜNDOĞDU;11F Otomotiv Elektromekanik
-76500;Vecih HARZUM;11F Otomotiv Elektromekanik
-33408;Veysel Üveys YILDIZ;11F Otomotiv Elektromekanik
-19968;Yağız Efe AYDEMİR;11F Otomotiv Elektromekanik
-35640;Yiğit HAZER;11E Otomotiv Elektromekanik
-69926;Yiğit ÖZGÜN;11F Otomotiv Elektromekanik
-18768;Yusuf Erdem DELER;11E Otomotiv Elektromekanik
-00364;Yusuf Eren İNAN;11F Otomotiv Elektromekanik
-21304;Yusuf ÖZBEK;11E Otomotiv Elektromekanik
-59944;Ahmet AYDOĞAN;11H1 Otomotiv Gövde
-26062;Arda NARŞAP;11H1 Otomotiv Gövde
-82964;Eray BACİN;11H1 Otomotiv Gövde
-07614;Kadir ÇEKİM;11H1 Otomotiv Gövde
-78488;Kamil UĞUR;11H1 Otomotiv Gövde
-16274;Muhammed ELŞAVİ;11H1 Otomotiv Gövde
-75824;Muhammet Mustafa KÜÇÜK;11H1 Otomotiv Gövde
-75318;Mustafa Mert USKAN;11H1 Otomotiv Gövde
-16110;Umran ELŞAVİ;11H1 Otomotiv Gövde
-95848;Umut MARAL;11H1 Otomotiv Gövde
-12270;Veysel TAŞKIN;11H1 Otomotiv Gövde
-48950;Yağız DEMİR;11H1 Otomotiv Gövde
-59590;Yasin ALPDEGER;11H1 Otomotiv Gövde
-08876;Abdulsamed ERDEM;11H Otomotiv Mekanikerliği
-00732;Ahmed İSMAİL;11H Otomotiv Mekanikerliği
-40080;Ahmet Hilmi VURAL;11H Otomotiv Mekanikerliği
-64792;Ahmet Yasin SEL;11H Otomotiv Mekanikerliği
-43878;Alperen ÖZDEN;11G Otomotiv Mekanikerliği
-16228;Altay YALÇINKAYA;11G Otomotiv Mekanikerliği
-25344;Aykut BOYRAZ;11H Otomotiv Mekanikerliği
-13888;Aytuğ MÜCEHEZ;11H Otomotiv Mekanikerliği
-29594;Baran TURAN;11H Otomotiv Mekanikerliği
-06942;Batuhan ÖZMEN;11G Otomotiv Mekanikerliği
-48614;Bayram İYİGÖR;11G Otomotiv Mekanikerliği
-61716;Berat Efe GÜNEŞ;11G Otomotiv Mekanikerliği
-89964;Burak YENİLMEZ;11G Otomotiv Mekanikerliği
-33128;Burhan GENEŞ;11H Otomotiv Mekanikerliği
-19186;Cihan UĞUROĞLU;11H Otomotiv Mekanikerliği
-40348;Efecan HOŞAFCI;11G Otomotiv Mekanikerliği
-58516;Emirhan Bilal KALFA;11H Otomotiv Mekanikerliği
-35360;Emre ÇOBAN;11G Otomotiv Mekanikerliği
-17522;Eyüb Cihan ATEŞ;11G Otomotiv Mekanikerliği
-52494;Fırat Efe MUMCU;11G Otomotiv Mekanikerliği
-33018;Furkan ARSLAN;11H Otomotiv Mekanikerliği
-62728;Furkan KURT;11H Otomotiv Mekanikerliği
-42292;Göktuğ YÖRÜBAŞ;11H Otomotiv Mekanikerliği
-81232;Hasan BİNGÖL;11H Otomotiv Mekanikerliği
-76296;Hasan Sefa KARACA;11H Otomotiv Mekanikerliği
-22236;Hüseyin SOSYAL;11G Otomotiv Mekanikerliği
-52620;İbrahim Davut KURT;11H Otomotiv Mekanikerliği
-77682;İsa KIRMIZIYILDIZ;11H Otomotiv Mekanikerliği
-17892;İsmail UĞUZ;11G Otomotiv Mekanikerliği
-20420;Kerem EPÇAÇAN;11H Otomotiv Mekanikerliği
-98004;Melih ÇAPİN;11G Otomotiv Mekanikerliği
-21396;Mert BEŞİKÇİ;11G Otomotiv Mekanikerliği
-64194;Mert Veli TONBUL;11G Otomotiv Mekanikerliği
-26064;Muhammed AYDIN;11H Otomotiv Mekanikerliği
-25278;Muhammed İZSİZ;11G Otomotiv Mekanikerliği
-57262;Mustafa DEMİR;11G Otomotiv Mekanikerliği
-91548;Mustafa Yavuz BALCI;11G Otomotiv Mekanikerliği
-16912;Nurullah YILMAZ;11G Otomotiv Mekanikerliği
-01428;Oruç Can KARABOĞA;11H Otomotiv Mekanikerliği
-22694;Poyraz AYDINLI;11H Otomotiv Mekanikerliği
-06506;Rüzgar ATEŞSAÇAN;11G Otomotiv Mekanikerliği
-17178;Samed Alperen SELVİ;11G Otomotiv Mekanikerliği
-53368;Samet ÇOLAKER;11G Otomotiv Mekanikerliği
-17420;Samet Ege ÇELİKLER;11H Otomotiv Mekanikerliği
-31432;Siraç Emin GÜVEN;11H Otomotiv Mekanikerliği
-77364;Süleyman GÜNEŞ;11H Otomotiv Mekanikerliği
-72330;Şervan ERBULUN;11G Otomotiv Mekanikerliği
-72032;Toprak KOÇDAĞ;11H Otomotiv Mekanikerliği
-93520;Ufuk ELÇİ;11G Otomotiv Mekanikerliği
-42480;Utku Yiğit ÖZLÜ;11G Otomotiv Mekanikerliği
-69404;Ümit KAYA;11G Otomotiv Mekanikerliği
-79458;Yunus Emre BÜLBÜLER;11G Otomotiv Mekanikerliği
-04466;Burak TOPÇU;11G2 Otomotiv Motor Yenileştirmeciliği
-88340;Efe Hamza BAKACAK;11G2 Otomotiv Motor Yenileştirmeciliği
-89072;Yiğit ŞENER;11G2 Otomotiv Motor Yenileştirmeciliği
-52704;Ahmet Efe ÇOBANOĞLU;11F2 Ön Düzen Ayarcılığı Ve Lastikçilik
-33150;Mehmet KARA;11F2 Ön Düzen Ayarcılığı Ve Lastikçilik
-88130;Nadi Can BAKICI;11F2 Ön Düzen Ayarcılığı Ve Lastikçilik
-59884;Okan ÖZDOĞAN;11F2 Ön Düzen Ayarcılığı Ve Lastikçilik
-62260;Taha ÖZER;11F2 Ön Düzen Ayarcılığı Ve Lastikçilik
-48560;Umut Baran AKIN;11F2 Ön Düzen Ayarcılığı Ve Lastikçilik
-06378;Yiğit Ramazan OLUŞAN;11F2 Ön Düzen Ayarcılığı Ve Lastikçilik
-57248;Eylül OKUR;11D1 Pasta Ve Tatlı Yapımı
-60296;Furkan KINIK;11D1 Pasta Ve Tatlı Yapımı
-03572;Hiranur ÇABEK;11D1 Pasta Ve Tatlı Yapımı
-21624;Medine GEZER;11D1 Pasta Ve Tatlı Yapımı
-94092;Melek ÇABEK;11D1 Pasta Ve Tatlı Yapımı
-39110;Muhammed ARSLAN;11D1 Pasta Ve Tatlı Yapımı
-91558;Nisa Nur AYDOĞAN;11D1 Pasta Ve Tatlı Yapımı
-02632;Sude DEMİR;11D1 Pasta Ve Tatlı Yapımı
-14182;Yağmur TEKİN;11D1 Pasta Ve Tatlı Yapımı
-87270;Yunus Emre AFŞAR;11D1 Pasta Ve Tatlı Yapımı
-29232;Yusuf ALADAĞ;11D1 Pasta Ve Tatlı Yapımı
-29046;Ali GÜLTEKİN;11K1 Sac İşleri
-54478;Eren HÜLÜR;11K1 Sac İşleri
-37854;Hüseyin ÇOLAK;11K1 Sac İşleri
-29636;Hikmet Anıl LAÇIN;11D3 Satış Elemanlığı
-69156;Yasin AKİCİ;11D3 Satış Elemanlığı
-78332;Hira Nur BAYGIN;11D4 Sigortacılık
-01360;Abdulkadir DEMİRCİ;11İ6 Soğutma Sistemleri
-88706;Hamit HAMİTOĞLU;11K11 Vitrin Kuyumculuğu
-97992;Kaan DEMİRPERÇİN;11K11 Vitrin Kuyumculuğu
-64268;Altan Selim BAŞAR;11K5 Yazılım Geliştirme
-95372;Ege ÇOBAN;11K5 Yazılım Geliştirme
-67976;Kaan AKGÜN;12B2 Ahşap Doğrama Teknolojisi
-87976;Muhammed Eren ATALAY;12B2 Ahşap Doğrama Teknolojisi
-42104;Kadir EMİNOĞLU;12E4 Aşçılık
-24826;Muhammed MAVİŞ;12E4 Aşçılık
-55532;Nilay DEMİRAL;12E4 Aşçılık
-66542;Şevin Dar TÜRKAY;12E4 Aşçılık
-28494;Uğur SAMAR;12E4 Aşçılık
-36262;Yağmur ŞİRİN;12E4 Aşçılık
-01902;Can DEMİRKAYNAK;12F5 Bilgisayar Destekli Makine Ressamlığı
-78378;Yağız Efe ÖZMEN;12F6 Bilgisayar Teknik Servisi
-88426;Adem Yakup ÖZDEMİR;12F3 Bilgisayarlı Makine İmalatı
-71598;Ahmetcan CANTÜRK;12F3 Bilgisayarlı Makine İmalatı
-39886;Berat BUL;12F3 Bilgisayarlı Makine İmalatı
-74600;Davut AKTEKİN;12F3 Bilgisayarlı Makine İmalatı
-05340;Hasan AKMAN;12F3 Bilgisayarlı Makine İmalatı
-72856;Timuçin YEŞİLTEPE;12F3 Bilgisayarlı Makine İmalatı
-52196;Ahmet Taha KOÇ;12C1 Bobinaj
-32964;Burhan Can YILMAZ;12C1 Bobinaj
-27516;Kemalettin KABAY;12C1 Bobinaj
-22442;Muhammed Emin DEMİREL;12C1 Bobinaj
-99856;Nurettin DAĞBAŞI;12C1 Bobinaj
-55992;Açelya Şule ERGENE;12A1 Cilt Bakımı Ve Makyaj
-09186;Beyza ÇAKIR;12A1 Cilt Bakımı Ve Makyaj
-77900;Kübra ÇELİK;12A1 Cilt Bakımı Ve Makyaj
-36980;Naz KAYALAR;12A1 Cilt Bakımı Ve Makyaj
-69514;Sıla Nazlı KARAMAN;12A1 Cilt Bakımı Ve Makyaj
-46924;Yağmur Sude AYKUT;12A1 Cilt Bakımı Ve Makyaj
-80910;Yaren ZEYBEKOĞLU;12A1 Cilt Bakımı Ve Makyaj
-24766;Oğuzcan EKMEKCİ;12D1 Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
-69616;Abdullah UÇAN;12C Elektrik Tesisatları Ve Pano Montörlüğü
-33432;Alp DURMAZ;12C Elektrik Tesisatları Ve Pano Montörlüğü
-54530;Alperen ÇAVGA;12C Elektrik Tesisatları Ve Pano Montörlüğü
-51750;Arda BELLİ;12C Elektrik Tesisatları Ve Pano Montörlüğü
-26510;Arda TUNCA;12C Elektrik Tesisatları Ve Pano Montörlüğü
-27312;Çağrı TUĞLU;12C Elektrik Tesisatları Ve Pano Montörlüğü
-41010;Emir PINAR;12C Elektrik Tesisatları Ve Pano Montörlüğü
-20750;Habir OK;12C Elektrik Tesisatları Ve Pano Montörlüğü
-85556;İbrahim Efe KÖLEMEN;12C Elektrik Tesisatları Ve Pano Montörlüğü
-61870;Nurullah KÜL;12C Elektrik Tesisatları Ve Pano Montörlüğü
-67874;Sametcan BAYANDUR;12C Elektrik Tesisatları Ve Pano Montörlüğü
-99138;Uğur Efe DURDABAK;12C Elektrik Tesisatları Ve Pano Montörlüğü
-40426;Arda ÖREN;12C2 Elektrikli Ev Aletleri Teknik Servisi
-31604;Melih BEKDEMİR;12C2 Elektrikli Ev Aletleri Teknik Servisi
-38612;Eren BİLGİÇ;12C3 Endüstriyel Bakım Onarım
-37982;Muhammet Taha ÇELİK;12C3 Endüstriyel Bakım Onarım
-86596;Turgut TOPAL;12C3 Endüstriyel Bakım Onarım
-15522;Abdullah IRMAK;12B Erkek Kuaförlüğü
-17214;Ahmet YİĞİT;12B Erkek Kuaförlüğü
-20096;Arif KAPLAN;12B Erkek Kuaförlüğü
-59380;Baran Efe BİTİRGİÇ;12B Erkek Kuaförlüğü
-08078;Barış POLAT;12B Erkek Kuaförlüğü
-14094;Berat TURAN;12B Erkek Kuaförlüğü
-40060;Boran SAVAŞ;12B Erkek Kuaförlüğü
-64802;Emir ŞENKAL;12B Erkek Kuaförlüğü
-03496;Emrullah BİLECEN;12B Erkek Kuaförlüğü
-49590;Eyüp YALIN;12B Erkek Kuaförlüğü
-40444;Furkan ÖZER;12B Erkek Kuaförlüğü
-82770;Hüseyin ÇOBAN;12B Erkek Kuaförlüğü
-61036;Kayra KUĞUMCU;12B Erkek Kuaförlüğü
-19734;Mert SUÇİN;12B Erkek Kuaförlüğü
-22758;Muhammed Mustafa ALTUNTAŞ;12B Erkek Kuaförlüğü
-88460;Muhammet Furkan AYDOĞAN;12B Erkek Kuaförlüğü
-47510;Musa ÇETİN;12B Erkek Kuaförlüğü
-80578;Osman KOCA;12B Erkek Kuaförlüğü
-75526;Ömür OCAK;12B Erkek Kuaförlüğü
-02478;Ramazan GÜRCÜ;12B Erkek Kuaförlüğü
-78334;Recep Can TAYLAN;12B Erkek Kuaförlüğü
-14588;Salih Can TOPAL;12B Erkek Kuaförlüğü
-03638;Sedat İPEK;12B Erkek Kuaförlüğü
-47258;Serkan CORUK;12B Erkek Kuaförlüğü
-25428;Tayfun DEVELİ;12B Erkek Kuaförlüğü
-54650;Veli Melih SAKA;12B Erkek Kuaförlüğü
-29042;Yezen ABDULLAH;12B Erkek Kuaförlüğü
-20400;Umut BORAL;12F8 Fotoğraf
-83752;Bekir GÜLGEN;12F1 Gaz Yakıcı Cihazlar Ve Servis
-17466;Abdulkadir YAŞAR;12C4 Görüntü Ve Ses Sistemleri
-22330;Fazıl ARSLAN;12C4 Görüntü Ve Ses Sistemleri
-26080;Zeynep DEMİR;12F9 Grafik
-20972;Arda Kerem ERDEM;12F Isıtma Ve Sıhhi Tesisat Sistemleri
-14902;Arif Buğra YALÇIN;12F Isıtma Ve Sıhhi Tesisat Sistemleri
-74350;Batuhan ŞEN;12 Isıtma Ve Sıhhi Tesisat Sistemleri
-06512;Berat USLUER;12 Isıtma Ve Sıhhi Tesisat Sistemleri
-32462;Berk DEMİR;12F Isıtma Ve Sıhhi Tesisat Sistemleri
-42662;Botan EREN;12F Isıtma Ve Sıhhi Tesisat Sistemleri
-53046;Eyyüp Ensar KILIÇ;12F Isıtma Ve Sıhhi Tesisat Sistemleri
-55528;İsa KIRLI;12F Isıtma Ve Sıhhi Tesisat Sistemleri
-17304;Mert ÖZDEN;12F Isıtma Ve Sıhhi Tesisat Sistemleri
-24070;Efe GÜÇLÜ;12B3 İç Mekân Ve Mobilya Teknolojisi
-40442;Yusuf Can EZER;12F2 İklimlendirme Sistemleri
-62128;Emirhan DİLEK;12D2 İş Makineleri
-50324;Aynur Seda DERENBİK;12A Kadın Kuaförlüğü
-38336;Berat AKTİKEN;12A Kadın Kuaförlüğü
-71576;Berranur ÖZLÜ;12A Kadın Kuaförlüğü
-23862;Duru TAŞCI;12A Kadın Kuaförlüğü
-70764;Ecrin Nisa DENİZ;12A Kadın Kuaförlüğü
-18868;Efe Can CANDAN;12A Kadın Kuaförlüğü
-18866;Ege ÇELİK;12A Kadın Kuaförlüğü
-57364;Elanur TUTAR;12A Kadın Kuaförlüğü
-48488;Eren GÜLEN;12A Kadın Kuaförlüğü
-47228;Esra SEÇGİN;12A Kadın Kuaförlüğü
-36434;Eylül ELİEYİOĞLU;12A Kadın Kuaförlüğü
-21644;Fadime DELİCE;12A Kadın Kuaförlüğü
-66432;Hafize Nur TÜRKSOY;12A Kadın Kuaförlüğü
-42968;Hasret UZUN;12A Kadın Kuaförlüğü
-92008;Hatice AYDIN;12A Kadın Kuaförlüğü
-62904;Hivvanur OCAKHAN;12A Kadın Kuaförlüğü
-53872;Irmak ÖZER;12A Kadın Kuaförlüğü
-11868;Minel ÇAĞLAR;12A Kadın Kuaförlüğü
-40032;Nisa Nur CEYLAN;12A Kadın Kuaförlüğü
-94150;Pınar GÖKSEL;12A Kadın Kuaförlüğü
-19370;Sahabe Hazal ARSLAN;12A Kadın Kuaförlüğü
-20388;Simge YAYIN;12A Kadın Kuaförlüğü
-29690;Sude Naz FAZLIOĞLU;12A Kadın Kuaförlüğü
-61620;Yaren ARSLAN;12A Kadın Kuaförlüğü
-94008;Zeynep AKINCI;12F10 Kadın Terziliği
-59446;Naz AKPOLAT;12F11 Kantin İşletmeciliği
-32928;Ali BARAN;12F4 Makine Bakım Onarım
-49470;Berkcan ÇELİK;12F4 Makine Bakım Onarım
-38492;Resulcan ONAY;12F4 Makine Bakım Onarım
-70392;Burak YİĞİT;12B4 Mobilya İskeleti Ve Döşemesi
-10762;Yusuf AKGÜL;12F7 Muhasebe
-44538;Zubeyt SAPİL;12F7 Muhasebe
-44180;Furkan Enver KAYA;12E1 Otomotiv Elektrikçiliği
-56592;Seyit Ömer TÜMER;12E1 Otomotiv Elektrikçiliği
-42130;Tekin Tolga DENİZ;12E1 Otomotiv Elektrikçiliği
-23748;Yakup SEÇMEN;12E1 Otomotiv Elektrikçiliği
-35332;Anıl ARICAN;12D Otomotiv Elektromekanik
-35128;Arda ELLER;12D Otomotiv Elektromekanik
-10578;Batuhan Efe OZAN;12D Otomotiv Elektromekanik
-75352;Bedirhan ARINÇ;12D Otomotiv Elektromekanik
-08960;Berat YILDIZ;12D Otomotiv Elektromekanik
-29536;Bilal Emre ÇAPRAZ;12D Otomotiv Elektromekanik
-29754;Boran GÖNÜLTAŞ;12D Otomotiv Elektromekanik
-32842;Cihan NARİN;12D Otomotiv Elektromekanik
-83230;Deniz İĞCİ;12D Otomotiv Elektromekanik
-88874;Ege KURALAY;12D Otomotiv Elektromekanik
-95696;Furkan GEZER;12D Otomotiv Elektromekanik
-25836;Hasan ESEN;12D Otomotiv Elektromekanik
-24458;Hüseyin Mert KÜÇÜKER;12D Otomotiv Elektromekanik
-29946;İsmail ÇANKAYA;12D Otomotiv Elektromekanik
-95920;Kaan DEMİR;12D Otomotiv Elektromekanik
-71706;Kaan SARAÇ;12D Otomotiv Elektromekanik
-51470;Mehmet Ali KOCA;12D Otomotiv Elektromekanik
-19530;Mehmethan TARI;12D Otomotiv Elektromekanik
-78678;Mert Can ATICI;12D Otomotiv Elektromekanik
-09168;Miraç Metin Can YAMAN;12D Otomotiv Elektromekanik
-94566;Mücahit SEÇGİN;12 Otomotiv Elektromekanik
-83028;Semih YAŞAR;12D Otomotiv Elektromekanik
-06582;Umut OKÇU;12D Otomotiv Elektromekanik
-98392;Yasin AKPINAR;12D Otomotiv Elektromekanik
-54414;Yiğit SARAÇLI;12D Otomotiv Elektromekanik
-64910;Yusuf Taha ÖZBAKIR;12D Otomotiv Elektromekanik
-24316;Yusuf Talha UĞUR;12D Otomotiv Elektromekanik
-73750;Yusufcan YILDIRIM;12D Otomotiv Elektromekanik
-81890;Arif Can GÖKTEPE;12E2 Otomotiv Gövde
-78768;Batuhan TUNA;12E2 Otomotiv Gövde
-15566;İsa TENEKECİ;12E2 Otomotiv Gövde
-67912;Kadir YILDIRIM;12E2 Otomotiv Gövde
-08124;Miraç KARADAĞ;12E2 Otomotiv Gövde
-15246;Abdulhalim ESEN;12E Otomotiv Mekanikerliği
-86180;Ahmet ASLAN;12E Otomotiv Mekanikerliği
-37552;Alkan ARSLAN;12E Otomotiv Mekanikerliği
-68134;Burak SAĞLAM;12E Otomotiv Mekanikerliği
-46498;Eyüp Can KIRMIZIYILDIZ;12E Otomotiv Mekanikerliği
-26490;Hüseyin ESEN;12E Otomotiv Mekanikerliği
-14894;Hüseyin KARAOĞLU;12E Otomotiv Mekanikerliği
-22640;Mehmet Sait YEGİN;12E Otomotiv Mekanikerliği
-52836;Muhammed Baran KAYA;12E Otomotiv Mekanikerliği
-71978;Mustafa SEZİKLİ;12E Otomotiv Mekanikerliği
-35328;Orçun SEVGİ;12E Otomotiv Mekanikerliği
-96592;Recep AKYÜREK;12E Otomotiv Mekanikerliği
-81590;Taner ESEN;12E Otomotiv Mekanikerliği
-78014;Tayyip Erdoğan KAHRAMANOĞLU;12E Otomotiv Mekanikerliği
-13964;Yıldıray SADIÇ;12E Otomotiv Mekanikerliği
-24590;Furkan KARAMAN;12D3 Otomotiv Motor Yenileştirmeciliği
-10410;Ali DEMİREL;12E3 Ön Düzen Ayarcılığı Ve Lastikçilik
-36214;Cengizhan GÜMÜŞTAŞ;12E3 Ön Düzen Ayarcılığı Ve Lastikçilik
-83226;İslam YALİN;12E3 Ön Düzen Ayarcılığı Ve Lastikçilik
-00144;Osman Dijvar ÇAYIN;12E3 Ön Düzen Ayarcılığı Ve Lastikçilik
-21488;Efe Yusuf TANIR;12E5 Pasta Ve Tatlı Yapımı
-58232;Elif Tuğçe ÇELİK;12E5 Pasta Ve Tatlı Yapımı
-72302;Sude ŞAHİN;12E5 Pasta Ve Tatlı Yapımı
-78826;Ebuzer PEKMEZ;12B1 Sac İşleri
-61928;Emir Can GÜLMEZ;12B1 Sac İşleri
-74440;Mehmet Emin PEKMEZ;12B1 Sac İşleri
-09708;Mücahit BAYKAN;12B1 Sac İşleri
+tc_son5,ad_soyad,sube
+74704,Aras BİLTEKİN,9D Asansör Sistemleri
+85610,Umut KAYA,9D Asansör Sistemleri
+87170,Ahmet Emin KAYA,9G Aşçılık
+19092,Bahruz ALIZADA,9G Aşçılık
+52934,Elifnur ŞENGÜL,9G Aşçılık
+75728,Gül Deniz BİLECEN,9G Aşçılık
+44094,Levent Eymen BAŞKÖYLÜ,9G Aşçılık
+60558,Merve RENÇBER,9G Aşçılık
+17570,Nisanur SUSUR,9G Aşçılık
+99468,Ömer ÖZBEK,9G Aşçılık
+32530,Remzi Poyraz YILDIRIM,9G Aşçılık
+19616,Selman Musab YEŞİL,9G Aşçılık
+12902,Doruk Ege SOY,9A Bilgisayar Teknik Servisi
+49600,Enes BİLİBEY,9A Bilgisayar Teknik Servisi
+79552,Yiğit Efe SEVİM,9A Bilgisayar Teknik Servisi
+91520,Arda ÇAYLI,9E Bilgisayarlı Makine İmalatı
+00468,Arda TUNÇEL,9E Bilgisayarlı Makine İmalatı
+69300,Berkant Can AKÇAY,9E Bilgisayarlı Makine İmalatı
+47896,Bilal ERBULUN,9E Bilgisayarlı Makine İmalatı
+63748,Eyüp YÜMÜN,9E Bilgisayarlı Makine İmalatı
+49768,Furkan SEÇKİN,9E Bilgisayarlı Makine İmalatı
+43240,Kubilay ÖZDİNÇ,9E Bilgisayarlı Makine İmalatı
+96652,Mehmet ESEN,9E Bilgisayarlı Makine İmalatı
+76602,Muhammed Yakup BARAN,9E Bilgisayarlı Makine İmalatı
+13026,Muhammet ÇALKAN,9E Bilgisayarlı Makine İmalatı
+64276,Muhammet Umut ERİK,9E Bilgisayarlı Makine İmalatı
+55994,Musap ARSLAN,9E Bilgisayarlı Makine İmalatı
+78906,Mustafa ÖNCEL,9E Bilgisayarlı Makine İmalatı
+65648,Nurullah KAYA,9E Bilgisayarlı Makine İmalatı
+75404,Ramazan ÜLEZ,9E Bilgisayarlı Makine İmalatı
+89072,Serkan MEŞE,9E Bilgisayarlı Makine İmalatı
+78098,Yusuf Ayaz ÇETİNKAYA,9E Bilgisayarlı Makine İmalatı
+55522,Berk OK,9D Bobinaj
+95394,Erdem DEMİRBÜKEN,9D Bobinaj
+25784,Esma DEMİR,9G Cilt Bakımı Ve Makyaj
+17538,Enes Kaan GEDİK,9F Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+79828,Yiğithan KARAASLAN,9B Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+73642,Ayaz BULUT,9D Elektrik Tesisatları Ve Pano Montörlüğü
+57308,Bedirhan Eren BÜLBÜL,9D Elektrik Tesisatları Ve Pano Montörlüğü
+36138,Berat Can PEKMEZCİ,9D Elektrik Tesisatları Ve Pano Montörlüğü
+37186,Doğukan KEMİKSİZ,9D Elektrik Tesisatları Ve Pano Montörlüğü
+28190,Efe Can KAYA,9D Elektrik Tesisatları Ve Pano Montörlüğü
+19192,Efe ÖZDİNÇ,9D Elektrik Tesisatları Ve Pano Montörlüğü
+33706,Enes TEKE,9D Elektrik Tesisatları Ve Pano Montörlüğü
+21170,İsmail EREN,9D Elektrik Tesisatları Ve Pano Montörlüğü
+79118,Melik Özkan FİDAN,9D Elektrik Tesisatları Ve Pano Montörlüğü
+66778,Mert Doruk DEMİR,9D Elektrik Tesisatları Ve Pano Montörlüğü
+12136,Mete TOPRAK,9D Elektrik Tesisatları Ve Pano Montörlüğü
+89364,Nur Muhammed ADIYAMAN,9D Elektrik Tesisatları Ve Pano Montörlüğü
+72322,Ömer Faruk ALABAŞ,9D Elektrik Tesisatları Ve Pano Montörlüğü
+46318,Ömer Faruk KAYİ,9D Elektrik Tesisatları Ve Pano Montörlüğü
+63024,Poyraz TEZCAN,9D Elektrik Tesisatları Ve Pano Montörlüğü
+24886,Tutku YILMAZLAR,9D Elektrik Tesisatları Ve Pano Montörlüğü
+75282,Yiğit Efe DİNLER,9D Elektrik Tesisatları Ve Pano Montörlüğü
+61944,Yusuf Eren GÜRCÜ,9D Elektrik Tesisatları Ve Pano Montörlüğü
+78742,Arda UZUN,9D Elektrikli Ev Aletleri Teknik Servisi
+55584,Hasan Erdoğan DEMİR,9D Elektrikli Ev Aletleri Teknik Servisi
+04130,Recep Emin GÜNEY,9D Elektrikli Ev Aletleri Teknik Servisi
+18008,Berat Muhammet ÖZCİRİT,9D Endüstriyel Bakım Onarım
+79188,Kayra Ege ÇOBANOĞLU,9D Endüstriyel Bakım Onarım
+39372,Emircan FIRAT,9A Endüstriyel Kontrol
+82510,Ömer KARATEPE,9A Endüstriyel Kontrol
+49178,Yunus Emre BETİ,9A Endüstriyel Kontrol
+20680,Abdulkadir ELİK,9E Erkek Kuaförlüğü
+12444,Ahmet Hakan DUMAN,9A Erkek Kuaförlüğü
+09828,Ali YARAR,9G Erkek Kuaförlüğü
+59330,Alper ÇELİK,9A Erkek Kuaförlüğü
+39764,Arda ALTUN,9E Erkek Kuaförlüğü
+23926,Arda ÇAKIRKAYA,9E Erkek Kuaförlüğü
+43942,Barış KÖMÜR,9E Erkek Kuaförlüğü
+17262,Baver Aran ŞAHİN,9E Erkek Kuaförlüğü
+08074,Berat KAYA,9A Erkek Kuaförlüğü
+44092,Berat Osman YÜKSEKDAĞ,9A Erkek Kuaförlüğü
+54838,Berkay KAHRAMAN,9E Erkek Kuaförlüğü
+45862,Bilal AVCI,9G Erkek Kuaförlüğü
+50918,Bilal KAÇAN,9G Erkek Kuaförlüğü
+66134,Doğukan Burak ALPAY,9E Erkek Kuaförlüğü
+88776,Efe Can ŞENEL,9G Erkek Kuaförlüğü
+26792,Efe KUŞLU,9G Erkek Kuaförlüğü
+06568,Efe TOPRAK,9G Erkek Kuaförlüğü
+19480,Emirhan DEMİREL,9E Erkek Kuaförlüğü
+62212,Enes KURT,9E Erkek Kuaförlüğü
+12264,Eren ÖZER,9E Erkek Kuaförlüğü
+92216,Eyüp Taha ÖZLÜ,9E Erkek Kuaförlüğü
+42220,Faruk TOSUN,9G Erkek Kuaförlüğü
+79750,Fatih Kerem FERHAT,9E Erkek Kuaförlüğü
+89874,Hasan ÇÜRÜK,9G Erkek Kuaförlüğü
+69180,Kayra ŞEKER,9A Erkek Kuaförlüğü
+87618,Kerem DEMİROĞLU,9E Erkek Kuaförlüğü
+19058,Kuzey KAYLI,9A Erkek Kuaförlüğü
+58146,Kuzey SORBİL,9A Erkek Kuaförlüğü
+20860,Mehmet Can ÖZDEMİR,9A Erkek Kuaförlüğü
+92670,Mehmet ÇINAR,9G Erkek Kuaförlüğü
+75972,Mekin ALTAY,9E Erkek Kuaförlüğü
+22822,Muhammed Baver EKİN,9E Erkek Kuaförlüğü
+48312,Muhammet Eren DEMİREL,9E Erkek Kuaförlüğü
+32860,Okay ÖNER,9E Erkek Kuaförlüğü
+56106,Rüstem Efe GÜLAL,9E Erkek Kuaförlüğü
+35210,Serkan GÜNÜLDES,9G Erkek Kuaförlüğü
+44812,Şafak Ege TÜZÜN,9G Erkek Kuaförlüğü
+62120,Umut Can ŞENGÜL,9E Erkek Kuaförlüğü
+33404,Yağız CİVAN,9G Erkek Kuaförlüğü
+22390,Yiğit ÜNAL,9E Erkek Kuaförlüğü
+58518,Yunus EREN,9E Erkek Kuaförlüğü
+77802,Yusuf Efe KARACA,9A Erkek Kuaförlüğü
+65498,Yusuf GÖKÇELİ,9E Erkek Kuaförlüğü
+04988,Yusuf İslam SARI,9E Erkek Kuaförlüğü
+37644,Yusuf Reşit ÇAKAR,9E Erkek Kuaförlüğü
+63308,Aybüke BAKİ,9A Fotoğraf
+26546,Nisanur ÇAKIR,9A Fotoğraf
+07156,Pınar ÖZER,9A Fotoğraf
+81726,İshak İsmail ÖZLÜ,9D Gaz Tesisat Sistemleri
+71484,İbrahim KAÇAR,9D Güvenlik Sistemleri
+37132,Muhammed Ferzende ÖZTÜRK,9D Güvenlik Sistemleri
+76642,Elif Beren SEKENDİZ,9A Hazır Giyim Model Makineciliği
+85722,Şevval NALCI,9A Hazır Giyim Model Makineciliği
+54690,Zülal AKYÜZ,9A Hazır Giyim Model Makineciliği
+84074,Ali Berkay BAYDAR,9D Isıtma Ve Sıhhi Tesisat Sistemleri
+01054,Beytülşefa DENİZ,9D Isıtma Ve Sıhhi Tesisat Sistemleri
+33002,Muhammed Emin MANDACI,9D Isıtma Ve Sıhhi Tesisat Sistemleri
+80362,Samet DENİZ,9D Isıtma Ve Sıhhi Tesisat Sistemleri
+65602,Hasan Hüseyin YÜKSEL,9D İç Mekân Ve Mobilya Teknolojisi
+02310,Ahmet Taha YILDIZ,9D İklimlendirme Sistemleri
+68768,Mustafa Mete AKYILDIZ,9D İklimlendirme Sistemleri
+21902,Hamza TEKÇE,9B İş Makineleri
+46638,Muhammed Furkan KARADAĞ,9C İş Makineleri
+30224,Mustafa Efe KARADEMİR,9F İş Makineleri
+76924,Ahmet Tuğra SEYHAN,9A Kadın Kuaförlüğü
+56676,Asel Bermal YILDIZ,9A Kadın Kuaförlüğü
+23896,Aysu GÜNDÜZ,9G Kadın Kuaförlüğü
+29770,Azra ERKAN,9A Kadın Kuaförlüğü
+54800,Beren HEKİMOĞULLARI,9A Kadın Kuaförlüğü
+55688,Berinnaz ONUK,9A Kadın Kuaförlüğü
+01496,Berra Sude ÜLKER,9A Kadın Kuaförlüğü
+32846,Buğlem ÇAKMAK,9G Kadın Kuaförlüğü
+80916,Duygu KARAKAŞ,9G Kadın Kuaförlüğü
+48406,Ecrin Naz KARABULUT,9A Kadın Kuaförlüğü
+11610,Ela Gül ALTAN,9G Kadın Kuaförlüğü
+80440,Elif GEZER,9A Kadın Kuaförlüğü
+43922,Elif Naz AYYILDIZ,9A Kadın Kuaförlüğü
+14348,Elvan SAMAR,9A Kadın Kuaförlüğü
+14138,Esmanur SARSILMAZ,9G Kadın Kuaförlüğü
+37022,Ezel Su SÖYLEMEZ,9A Kadın Kuaförlüğü
+15774,Gülsüm DAĞIDIR,9A Kadın Kuaförlüğü
+39456,Hakkı Soner TOPUZ,9A Kadın Kuaförlüğü
+14718,Hira BEBE,9G Kadın Kuaförlüğü
+35372,İlayda TARDU,9A Kadın Kuaförlüğü
+79366,Medine TANÇ,9G Kadın Kuaförlüğü
+05964,Medine YILDIRIM,9A Kadın Kuaförlüğü
+09766,Miray KAHRAMAN,9A Kadın Kuaförlüğü
+65194,Muhammed Kerim YAMAN,9G Kadın Kuaförlüğü
+75566,Nisa Nur BAYRAKTAR,9A Kadın Kuaförlüğü
+95968,Nisa Nur GÖKKAYA,9A Kadın Kuaförlüğü
+86162,Nisa TAŞTEKİN,9G Kadın Kuaförlüğü
+91694,Senanur KUTLU,9G Kadın Kuaförlüğü
+80514,Serap ÖZ,9G Kadın Kuaförlüğü
+70618,Sıla Naz AKYİĞİT,9G Kadın Kuaförlüğü
+19234,Tuana ARAT,9A Kadın Kuaförlüğü
+23102,Utku ESEN,9A Kadın Kuaförlüğü
+23912,Ümran KARTAL,9G Kadın Kuaförlüğü
+14290,Zeynep DEMİR,9G Kadın Kuaförlüğü
+74618,Zeynep DÜLGAR,9A Kadın Kuaförlüğü
+17508,Zeynep KOÇ,9G Kadın Kuaförlüğü
+08064,Beyzanur ERGÜN,9A Kadın Terziliği
+57708,Mehmet KURT,9G Kasaplık
+88448,Muhammet Kadir PÜSKÜLLÜ,9D Kaynakçılık
+57966,Yusuf AVCI,9D Kaynakçılık
+33978,Emir ÇEVİK,9E Makine Bakım Onarım
+16340,Eren GAYRET,9E Makine Bakım Onarım
+55694,Habib ÇOĞUN,9E Makine Bakım Onarım
+21076,Muhammed Ensar DİŞCİ,9D Metal Doğrama
+06828,Furkan MERİÇ,9D Mobilya İskeleti Ve Döşemesi
+69866,Ahmet Eyüp YALIM,9A Muhasebe
+25476,İlayda PALA,9A Muhasebe
+09178,Mesut YAMAN,9A Muhasebe
+95162,Nazlı PİYAL,9A Muhasebe
+14230,Kuzey METE,9D Oto Döşemeciliği
+07016,Azat ALTINDEN,9C Otomotiv Boya
+94690,Miraç Emre TAĞ,9C Otomotiv Boya
+85150,Muhammed Ali SERTBEL,9F Otomotiv Boya
+64484,Yusuf KOYUN,9B Otomotiv Boya
+89790,Berat Rüzgar KİÇÇİ,9F Otomotiv Elektrikçiliği
+42312,Efehan ŞAHİN,9C Otomotiv Elektrikçiliği
+32098,Fırat SUNAR,9C Otomotiv Elektrikçiliği
+31092,Furkan SERİN,9C Otomotiv Elektrikçiliği
+72046,Miraç TAŞKIN,9F Otomotiv Elektrikçiliği
+75108,Özgür YILMAZ,9C Otomotiv Elektrikçiliği
+34186,Selim ÇELİKER,9B Otomotiv Elektrikçiliği
+61612,Yunus Emre GÜRCAN,9F Otomotiv Elektrikçiliği
+13992,Abdulmütalip TUNCEL,9C Otomotiv Elektromekanik
+17734,Ahmet Faruk BAĞCIOĞLU,9B Otomotiv Elektromekanik
+51168,Ahmet TATAK,9F Otomotiv Elektromekanik
+76462,Ahmet YILMAZ,9B Otomotiv Elektromekanik
+94004,Arazdurdy VELIYEV,9C Otomotiv Elektromekanik
+74082,Arda ÖZDEMİR,9F Otomotiv Elektromekanik
+47452,Atlas YILMAZ,9F Otomotiv Elektromekanik
+31448,Batuhan YAŞA,9C Otomotiv Elektromekanik
+31042,Berat AYDIN,9C Otomotiv Elektromekanik
+37938,Berat ÇİFTÇİ,9B Otomotiv Elektromekanik
+79250,Berat SAMAR,9F Otomotiv Elektromekanik
+49884,Berat YAŞAR,9B Otomotiv Elektromekanik
+45402,Bertuğ KOCAARSLAN,9C Otomotiv Elektromekanik
+64374,Bilal APOHAN,9B Otomotiv Elektromekanik
+63712,Botan YILMAZ,9C Otomotiv Elektromekanik
+47532,Bünyamin ÇANKAYA,9F Otomotiv Elektromekanik
+21432,Can Ahmed ALİŞAN,9B Otomotiv Elektromekanik
+21254,Çınar Arslan TOPALOĞLU,9F Otomotiv Elektromekanik
+13988,Doğukan TÜRE,9B Otomotiv Elektromekanik
+77386,Doğuş UÇARYILMAZ,9C Otomotiv Elektromekanik
+61900,Emir UĞUR,9F Otomotiv Elektromekanik
+12882,Emirhan AKKAYA,9C Otomotiv Elektromekanik
+28336,Enes ÇATALKAYA,9B Otomotiv Elektromekanik
+30150,Enis KORKUT,9C Otomotiv Elektromekanik
+14200,Eray GÜNERİ,9B Otomotiv Elektromekanik
+23108,Eyüp KAYA,9C Otomotiv Elektromekanik
+69110,Eyüpcan ÇİFTÇİ,9F Otomotiv Elektromekanik
+13458,Eyyüp ÇOBAN,9F Otomotiv Elektromekanik
+82402,Feim AYBAN,9B Otomotiv Elektromekanik
+53918,Fırat GEÇER,9B Otomotiv Elektromekanik
+27446,Hamza ŞENGÜL,9F Otomotiv Elektromekanik
+70926,Hamza TUNCEL,9B Otomotiv Elektromekanik
+25674,Hasan GÜNEL,9F Otomotiv Elektromekanik
+78488,İbrahim AKTÜRK,9B Otomotiv Elektromekanik
+72998,İbrahim TÜRKDOĞAN,9F Otomotiv Elektromekanik
+32102,Kamil Can ŞEN,9C Otomotiv Elektromekanik
+11458,Mehmet ASLAN,9C Otomotiv Elektromekanik
+48516,Mehmet Sami ÇAĞLAR,9B Otomotiv Elektromekanik
+83482,Mehmet SÖYLEMEZ,9C Otomotiv Elektromekanik
+78684,Metin ŞAHİN,9B Otomotiv Elektromekanik
+19722,Muhammed AKPINAR,9B Otomotiv Elektromekanik
+35106,Muhammed Ali ÖZGÜVEN,9B Otomotiv Elektromekanik
+34228,Muhammed AYDIN,9C Otomotiv Elektromekanik
+26204,Muhammed Üveys EŞUT,9B Otomotiv Elektromekanik
+42762,Muhammet Ali TUNÇ,9F Otomotiv Elektromekanik
+18828,Muhammet Emir ATAY,9F Otomotiv Elektromekanik
+87502,Mustafa ÇİNAR,9F Otomotiv Elektromekanik
+01974,Nur Muhammed BAYCUR,9B Otomotiv Elektromekanik
+83544,Nurullah DENİZ,9F Otomotiv Elektromekanik
+64700,Poyraz ALPEREN,9C Otomotiv Elektromekanik
+36592,Serhat GEÇER,9B Otomotiv Elektromekanik
+83272,Tarık DOĞAN,9F Otomotiv Elektromekanik
+67750,Yakup Buğra BALAKÇI,9B Otomotiv Elektromekanik
+80362,Yasin KARABUT,9B Otomotiv Elektromekanik
+58146,Yiğit ÖZDEN,9C Otomotiv Elektromekanik
+20948,Yiğitcan ÇEKİÇ,9C Otomotiv Elektromekanik
+23620,Yunus ATLI,9B Otomotiv Elektromekanik
+72992,Yusuf DEMİR,9F Otomotiv Elektromekanik
+00272,Yusuf Emir KURNAZ,9F Otomotiv Elektromekanik
+62340,Yusuf GÖK,9C Otomotiv Elektromekanik
+43288,Zeki KARAKELLE,9B Otomotiv Elektromekanik
+21464,Zeynel Tibet YOLCU,9B Otomotiv Elektromekanik
+51250,Arda Kaan KURTULUŞ,9C Otomotiv Gövde
+24688,Aziz Berzan OGUR,9F Otomotiv Gövde
+36996,Çınar GÜLLER,9F Otomotiv Gövde
+51800,Eren KARA,9F Otomotiv Gövde
+58616,Muhammet Ali AYDIN,9F Otomotiv Gövde
+04208,Salih ORAL,9F Otomotiv Gövde
+75786,Sertaç Emir GÜVEN,9F Otomotiv Gövde
+00338,Yağız Efe DEMİRCİ,9F Otomotiv Gövde
+86176,Yunus Emre KAYA,9C Otomotiv Gövde
+35536,Adem AKBABA,9F Otomotiv Mekanikerliği
+14978,Baran Safa GÜNDÜZ,9F Otomotiv Mekanikerliği
+76858,Berkay ÇÜRÜKOĞLU,9C Otomotiv Mekanikerliği
+18768,Burak YILDIZ,9C Otomotiv Mekanikerliği
+03476,Bünyamin Talha ÖRSEL,9F Otomotiv Mekanikerliği
+37378,Canberk KAVAK,9C Otomotiv Mekanikerliği
+34494,Devran BEKDAŞ,9B Otomotiv Mekanikerliği
+52482,Doruk BAKRAÇ,9F Otomotiv Mekanikerliği
+51454,Doruk KAYNA,9B Otomotiv Mekanikerliği
+06932,Emirhan OCAK,9C Otomotiv Mekanikerliği
+02846,Enes İLHAN,9B Otomotiv Mekanikerliği
+17098,Ferhat KOYUN,9B Otomotiv Mekanikerliği
+95168,Fırat DOĞAN,9C Otomotiv Mekanikerliği
+20110,Göktürk KAHRAMAN,9B Otomotiv Mekanikerliği
+38902,Hamza GÜNEY,9C Otomotiv Mekanikerliği
+09274,Hüseyin Efe AKINCI,9B Otomotiv Mekanikerliği
+23894,Kenan EGE,9B Otomotiv Mekanikerliği
+73542,Kerem Efe KARAGÖZ,9F Otomotiv Mekanikerliği
+38380,Kuzey Can ERKILIÇ,9F Otomotiv Mekanikerliği
+88280,Mehmet Reya DENİZ,9C Otomotiv Mekanikerliği
+48730,Mert DİKMEN,9B Otomotiv Mekanikerliği
+44216,Mert KADIOĞLU,9C Otomotiv Mekanikerliği
+21324,Mustafa Berk GENÇOĞLU,9F Otomotiv Mekanikerliği
+96972,Özgür ÖZKARAMAN,9C Otomotiv Mekanikerliği
+34804,Semih GÖBEKLİ,9B Otomotiv Mekanikerliği
+83458,Taha TOZUN,9B Otomotiv Mekanikerliği
+17654,Yakup KAÇAR,9C Otomotiv Mekanikerliği
+06626,Yakup ÖZCAN,9B Otomotiv Mekanikerliği
+21888,Yiğitcan CİVİRCİ,9F Otomotiv Mekanikerliği
+07916,Yusuf KABAY,9B Otomotiv Mekanikerliği
+35972,Yusuf ÖZSARI,9C Otomotiv Mekanikerliği
+37572,Yusuf Sami TORUN,9C Otomotiv Mekanikerliği
+08462,Enes Malik TOPCU,9C Otomotiv Motor Yenileştirmeciliği
+41456,Muhammed ALAKAZ,9C Otomotiv Motor Yenileştirmeciliği
+45512,Emirhan ÇOLAKER,9F Ön Düzen Ayarcılığı Ve Lastikçilik
+01418,Emrah DAĞBAŞI,9F Ön Düzen Ayarcılığı Ve Lastikçilik
+00416,Fatih GÜNER,9B Ön Düzen Ayarcılığı Ve Lastikçilik
+56032,Muhammet Ali SUH,9B Ön Düzen Ayarcılığı Ve Lastikçilik
+19940,Umut AYDIN,9C Ön Düzen Ayarcılığı Ve Lastikçilik
+89604,Yakup ATABEK,9C Ön Düzen Ayarcılığı Ve Lastikçilik
+36126,Edanur KELEŞ,9G Pasta Ve Tatlı Yapımı
+39658,Esilasu KOZAN,9G Pasta Ve Tatlı Yapımı
+98290,Melisa DÜNDAR,9G Pasta Ve Tatlı Yapımı
+46896,Muhammet KURU,9G Pasta Ve Tatlı Yapımı
+,Nisanur ÖZKÖR,9 Pasta Ve Tatlı Yapımı
+,Rumeysa ŞAHİN,9G Pasta Ve Tatlı Yapımı
+,Battal HAMİTOĞLU,9A Vitrin Kuyumculuğu
+,Hamza TOPÇU,10D Ahşap Doğrama Teknolojisi
+,Muhammet Duran AKBULUT,10D Ahşap Doğrama Teknolojisi
+,Yunus Emre SEVİNÇ,10D Ahşap Doğrama Teknolojisi
+,Alper AYGIN,10E Asansör Sistemleri
+,Berat TAŞKIN,10E Asansör Sistemleri
+,Beytullah ZENBİLLİ,10D Asansör Sistemleri
+,Efe Can KALINLAR,10E Asansör Sistemleri
+,Emir DEMİRKAN,10E Asansör Sistemleri
+,Ömer VARLI,10D Asansör Sistemleri
+,Seyfullah Kasım VAROL,10D Asansör Sistemleri
+,Ayaz Ali SÖZEN,10M Aşçılık
+,Can AKGÜN,10M Aşçılık
+,Efenuh KÖSEOĞLU,10M Aşçılık
+,Emir ÇELİK,10M Aşçılık
+,Habibe BAYKARA,10M Aşçılık
+,Hanzade KERİMOĞLU,10M Aşçılık
+,Havva KARAŞAHİN,10M Aşçılık
+,Ledeyna ÇATALBAŞ,10M Aşçılık
+,Mahmut KARATAŞ,10M Aşçılık
+,Muhammed Abdülhamid TANIK,10M Aşçılık
+,Muhammed Emin GÖKÇELİ,10M Aşçılık
+,Nisa GÜNEŞ,10M Aşçılık
+,Nisanur ANNAÇ,10M Aşçılık
+,Okan ÖZGÖR,10M Aşçılık
+,Ömer Faruk OCAK,10M Aşçılık
+,Samet Efe YILMAZ,10M Aşçılık
+,Seyfi OĞUZ,10M Aşçılık
+,Sinan GUBAT,10M Aşçılık
+,Tuğba CANPOLAT,10M Aşçılık
+,Yağmur GÜZELGÜL,10M Aşçılık
+,Yiğit GADİŞ,10M Aşçılık
+,Önder DOĞRU,10A Ayakkabı Üretimi
+,Abdülkerim AKIN,10E Bilgisayar Teknik Servisi
+,Arslan Fatih YOĞURTÇU,10E Bilgisayar Teknik Servisi
+,Belinay Havva TAŞPINAR,10E Bilgisayar Teknik Servisi
+,Beren TÜRKOĞLU,10E Bilgisayar Teknik Servisi
+,Furkan YÜCEMAN,10E Bilgisayar Teknik Servisi
+,Ali Enes KAZIK,10L Bilgisayarlı Makine İmalatı
+,Arda GÖKDEMİR,10L Bilgisayarlı Makine İmalatı
+,Bedirhan SOYLU,10L Bilgisayarlı Makine İmalatı
+,Berat Kaan KURTULDU,10L Bilgisayarlı Makine İmalatı
+,Ensar DEDE,10L Bilgisayarlı Makine İmalatı
+,Eray BATTAL,10L Bilgisayarlı Makine İmalatı
+,Eren Deniz DİNÇ,10L Bilgisayarlı Makine İmalatı
+,Halil İbrahim KARA,10L Bilgisayarlı Makine İmalatı
+,Mert GÜREL,10L Bilgisayarlı Makine İmalatı
+,Muhammet KAÇAR,10L Bilgisayarlı Makine İmalatı
+,Rezak Çınar DENİZ,10L Bilgisayarlı Makine İmalatı
+,Serkan ÇETİNKAYA,10L Bilgisayarlı Makine İmalatı
+,Yakup ÇAMCI,10L Bilgisayarlı Makine İmalatı
+,Yakup KAYA,10L Bilgisayarlı Makine İmalatı
+,Yiğit AKGÜL,10L Bilgisayarlı Makine İmalatı
+,Berat BOYRAZ,10E Bobinaj
+,Eren TOKCAN,10D Bobinaj
+,Harun ÇAKIR,10D Bobinaj
+,Hüsnü MERÇ,10E Bobinaj
+,İbrahim KILIÇ,10E Bobinaj
+,İzzet Buğra AKAY,10E Bobinaj
+,Mikail Mustafa DERİN,10D Bobinaj
+,Mustafa KURT,10D Bobinaj
+,Yaver ERBULUN,10D Bobinaj
+,Aleyna TERZİ,10A Cilt Bakımı Ve Makyaj
+,Arzu TOK,10A Cilt Bakımı Ve Makyaj
+,Dilara NAYCI,10B Cilt Bakımı Ve Makyaj
+,Doğa DURAK,10B Cilt Bakımı Ve Makyaj
+,Ela MALKOÇ,10 Cilt Bakımı Ve Makyaj
+,Elif Minel BERÇİN,10B Cilt Bakımı Ve Makyaj
+,Ferah ELNASEN,10A Cilt Bakımı Ve Makyaj
+,Zeynep Ilgın AKPOLAT,10A Cilt Bakımı Ve Makyaj
+,Berkay TAŞKIN,10K Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+,İbrahim ZENGİN,10F Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+,Özkan ÖZKAN,10K Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+,Polat DÜZENLİ,10H Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+,Yusuf EGE,10N Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+,Ahmet Can KÖLEMENOĞLU,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Ahmetcan EROL,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Ali Fırat ATLI,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Aslan AĞRAŞ,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Bekir KAYAHAN,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Burak ÇETİNKAYA,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Çağrı GÖKGEDİK,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Ege Doruk CANFER,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Emirhan ARTAN,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Emirhan İZSİZ,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Emirhan MEMİŞ,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Emirhan VERİM,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Enver Efe KARATAŞ,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Erdem Utku OĞUZ,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Ertuğrul ÇATALKAYA,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Eyüp KARATAŞ,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Gökay DEMİR,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Hüseyin Kerem KARAKAYA,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Levent ÖZER,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Muhammed Emir ALKANAT,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Muhammet Emir BUĞU,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Musa EREN,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Mustafa KELEŞ,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Ömer Rafet COŞKUN,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Resul ÖZTÜRK,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Rıdvan TEMEL,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Sabri Enes KARATAŞ,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Serhat YUCA,10E Elektrik Tesisatları Ve Pano Montörlüğü
+,Veysi AKTEKİN,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Yemlihan Berken ABDUKAYA,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Yusuf Ali BALKAYA,10D Elektrik Tesisatları Ve Pano Montörlüğü
+,Alparslan BARAN,10D Elektrikli Ev Aletleri Teknik Servisi
+,Ege MANAVOĞLU,10E Elektrikli Ev Aletleri Teknik Servisi
+,Kayra Berke AKINCI,10E Elektrikli Ev Aletleri Teknik Servisi
+,Kerem KAMAR,10D Elektrikli Ev Aletleri Teknik Servisi
+,Kerimcan AÇIKGÖZ,10E Elektrikli Ev Aletleri Teknik Servisi
+,Mustafa Bekir AKAR,10D Elektrikli Ev Aletleri Teknik Servisi
+,Mustafa Efe ÇETİZ,10D Elektrikli Ev Aletleri Teknik Servisi
+,Ogün SAĞDIÇ,10E Elektrikli Ev Aletleri Teknik Servisi
+,Olgun Can YILMAZ,10E Elektrikli Ev Aletleri Teknik Servisi
+,Yusuf Salih ATMAN,10E Elektrikli Ev Aletleri Teknik Servisi
+,Ata Can SILDIR,10E Endüstriyel Bakım Onarım
+,Göktuğ Zülkar ZÜLKEROĞLU,10E Endüstriyel Bakım Onarım
+,Bedirhan BAKAR,10L Endüstriyel Kalıp
+,Ali TAŞGIN,10E Endüstriyel Kontrol
+,Muhammet Mustafa BAŞ,10E Endüstriyel Kontrol
+,Abdülbaki ARSLAN,10B Erkek Kuaförlüğü
+,Abdüssamed ÇUKADAR,10 Erkek Kuaförlüğü
+,Alperen TAKIM,10C Erkek Kuaförlüğü
+,Arda YILMAZ,10C Erkek Kuaförlüğü
+,Azad AYNA,10C Erkek Kuaförlüğü
+,Azat Ensar KORDAĞLI,10C Erkek Kuaförlüğü
+,Barış AKGÜN,10C Erkek Kuaförlüğü
+,Barış Özgür SEVGİOĞLU,10C Erkek Kuaförlüğü
+,Batın Mert GÜNDOĞDU,10C Erkek Kuaförlüğü
+,Batuhan TEKİN,10C Erkek Kuaförlüğü
+,Berat YAMAN,10B Erkek Kuaförlüğü
+,Bilal KAYA,10C Erkek Kuaförlüğü
+,Bilal TAHTALI,10A Erkek Kuaförlüğü
+,Bünyamin ÇOLAK,10C Erkek Kuaförlüğü
+,Celil ÖZKAN,10B Erkek Kuaförlüğü
+,Cihangir BULUR,10C Erkek Kuaförlüğü
+,Devrim TAŞ,10A Erkek Kuaförlüğü
+,Durdu Eren ŞAHİN,10C Erkek Kuaförlüğü
+,Efe GENÇ,10C Erkek Kuaförlüğü
+,Ege KARAÇOBAN,10C Erkek Kuaförlüğü
+,Emir YADIŞ,10C Erkek Kuaförlüğü
+,Emirhan AKCAL,10B Erkek Kuaförlüğü
+,Emirhan GÜNGÖR,10A Erkek Kuaförlüğü
+,Eren Can AKKAYA,10C Erkek Kuaförlüğü
+,Eser YENİYILDIZ,10B Erkek Kuaförlüğü
+,Fatih ÇETİNKAYA,10B Erkek Kuaförlüğü
+,Furkan DURDU,10A Erkek Kuaförlüğü
+,Göktuğ Okan GİZİR,10C Erkek Kuaförlüğü
+,Görkem Yiğit YALDIZ,10C Erkek Kuaförlüğü
+,Halis YILMAZ,10B Erkek Kuaförlüğü
+,Harun DOĞRU,10C Erkek Kuaförlüğü
+,Hüseyin Berk KORKMAZ,10C Erkek Kuaförlüğü
+,İdris Efe TORUN,10C Erkek Kuaförlüğü
+,Kaan UZUN,10A Erkek Kuaförlüğü
+,Muhammed ERBEK,10A Erkek Kuaförlüğü
+,Muhammed Orhan KAYMAK,10B Erkek Kuaförlüğü
+,Muhammed Samet KESEL,10C Erkek Kuaförlüğü
+,Muhammet Alperen SÜRBAHANLI,10C Erkek Kuaförlüğü
+,Mustafa KARATAŞ,10C Erkek Kuaförlüğü
+,Mustafa Namık TÜRKOĞLU,10A Erkek Kuaförlüğü
+,Mustafa SADE,10C Erkek Kuaförlüğü
+,Nurullah CAZIR,10C Erkek Kuaförlüğü
+,Ozan AKDOĞAN,10C Erkek Kuaförlüğü
+,Özer DEMİR,10C Erkek Kuaförlüğü
+,Ramazan Talha MUSLU,10A Erkek Kuaförlüğü
+,Samet ÇELİK,10C Erkek Kuaförlüğü
+,Selami AKBIYIK,10A Erkek Kuaförlüğü
+,Serhat ÖRS,10C Erkek Kuaförlüğü
+,Sinan DAĞCI,10B Erkek Kuaförlüğü
+,Soykan KARADENİZ,10C Erkek Kuaförlüğü
+,Taner LAÇIN,10A Erkek Kuaförlüğü
+,Utku Miraç AKÇA,10C Erkek Kuaförlüğü
+,Utku SARIKAYA,10C Erkek Kuaförlüğü
+,Yiğit Efe TUFAN,10C Erkek Kuaförlüğü
+,Yiğit Kaan ÇANDAR,10C Erkek Kuaförlüğü
+,Yiğit ŞAHİN,10C Erkek Kuaförlüğü
+,Yunus Emre TEKİN,10B Erkek Kuaförlüğü
+,Yunus Emre UÇAK,10C Erkek Kuaförlüğü
+,Yusuf Ziya AKÇİL,10A Erkek Kuaförlüğü
+,Yüksel ET,10C Erkek Kuaförlüğü
+,İlker SEÇGİN,10A Fotoğraf
+,İpek YILDIZ,10A Fotoğraf
+,Meryem EŞLİK,10A Fotoğraf
+,Polat GÜNDÜZ,10A Fotoğraf
+,Sümeyye UZUN,10A Fotoğraf
+,Yaren AKÇA,10A Fotoğraf
+,Yiğit PEKMEZ,10A Fotoğraf
+,Baran ÇETİN,10D Görüntü Ve Ses Sistemleri
+,Beytullah AYKUT,10D Görüntü Ve Ses Sistemleri
+,Erdem ÖGEDAY,10E Görüntü Ve Ses Sistemleri
+,Ramazan Gencer GÜNERİ,10 Görüntü Ve Ses Sistemleri
+,Hamza EKİN,10A Grafik
+,Murat KAÇMAZ,10E Haberleşme Sistemleri
+,Abdulrezak AKTEKİN,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Ahmet ÇAKIRKAYA,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Ali Talha ASLAN,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Ebubekir EROL,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Eren DEMİR,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Fehim ŞAŞMAZ,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Ömer Fırat KIVRAK,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Özgür Can AFŞAR,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Şerzan Hasan EREN,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Umut KIRCA,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Yiğit YORULMAZ,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Yoldaş GEDİK,10L Isıtma Ve Sıhhi Tesisat Sistemleri
+,Abdülsamet GÜLTEKİN,10D İç Mekân Ve Mobilya Teknolojisi
+,Berat KARAMAN,10D İç Mekân Ve Mobilya Teknolojisi
+,Muhammed Ali İZSİZ,10D İç Mekân Ve Mobilya Teknolojisi
+,Gökhan BAYDAR,10L İklimlendirme Sistemleri
+,Uğur UÇAR,10G İş Makineleri
+,Ali Eren UYGUR,10B Kadın Kuaförlüğü
+,Aras KEPEKLİ,10A Kadın Kuaförlüğü
+,Asya Melin TEKİNALP,10A Kadın Kuaförlüğü
+,Aysun Ecrin BOZKURT,10B Kadın Kuaförlüğü
+,Bahadır AKKUL,10B Kadın Kuaförlüğü
+,Berra KOÇ,10A Kadın Kuaförlüğü
+,Berru Hira KÖKSAL,10A Kadın Kuaförlüğü
+,Cansu VURAL,10B Kadın Kuaförlüğü
+,Cemile PEKTAŞ,10B Kadın Kuaförlüğü
+,Duru KAYA,10B Kadın Kuaförlüğü
+,Edam MUHARREM,10B Kadın Kuaförlüğü
+,Elifnur PEKER,10A Kadın Kuaförlüğü
+,Emine Berna TAŞ,10B Kadın Kuaförlüğü
+,Emine KORKMAZ,10B Kadın Kuaförlüğü
+,Eslem Nisa BAYCAN,10B Kadın Kuaförlüğü
+,Eylem AYDOĞDU,10A Kadın Kuaförlüğü
+,Eylül Esra NURDOĞAN,10A Kadın Kuaförlüğü
+,Gizem ÖZTÜRK,10B Kadın Kuaförlüğü
+,Gözde MANGIRCI,10A Kadın Kuaförlüğü
+,Gül Suna BALCI,10B Kadın Kuaförlüğü
+,Hacer KAYA,10B Kadın Kuaförlüğü
+,Haktan AKKUŞ,10B Kadın Kuaförlüğü
+,Havvanur BEDELOV,10A Kadın Kuaförlüğü
+,Hira KILIÇ,10B Kadın Kuaförlüğü
+,Hiranur SİRİ,10B Kadın Kuaförlüğü
+,Hüseyin Kadir KARABULUT,10A Kadın Kuaförlüğü
+,Irmak ERYILMAZ,10A Kadın Kuaförlüğü
+,İlayda DEMİRÖZ,10B Kadın Kuaförlüğü
+,İlke Ebrar ERGÜL,10B Kadın Kuaförlüğü
+,Kardelen KARTUN,10A Kadın Kuaförlüğü
+,Kübra SARISU,10B Kadın Kuaförlüğü
+,Mehmet Ufuk KARAARSLAN,10A Kadın Kuaförlüğü
+,Melisa KARABIYIK,10A Kadın Kuaförlüğü
+,Merve ÜNLÜ,10B Kadın Kuaförlüğü
+,Merve YILMAZ,10B Kadın Kuaförlüğü
+,Muhammed Öner KAYA,10A Kadın Kuaförlüğü
+,Nazlı EDİZ,10 Kadın Kuaförlüğü
+,Nisa Nur BAYCAN,10B Kadın Kuaförlüğü
+,Nisagül Şehri KALAYCI,10B Kadın Kuaförlüğü
+,Nisanur ÇOLAK,10B Kadın Kuaförlüğü
+,Ömür ÖZTÜRK,10 Kadın Kuaförlüğü
+,Pınar YENİYURT,10B Kadın Kuaförlüğü
+,Ramis HACIOĞLU,10B Kadın Kuaförlüğü
+,Sena ERDAL,10A Kadın Kuaförlüğü
+,Sıla ÜNSAL,10B Kadın Kuaförlüğü
+,Suden ERGİNSOY,10B Kadın Kuaförlüğü
+,Sudenaz KAVAK,10B Kadın Kuaförlüğü
+,Şevval AYBEK,10B Kadın Kuaförlüğü
+,Tuğba HAN,10A Kadın Kuaförlüğü
+,Yaprak Ahu AKIN,10B Kadın Kuaförlüğü
+,Yıldız ÇEVİK,10A Kadın Kuaförlüğü
+,Emir ERTÜRK,10C Kaynakçılık
+,Göktuğ ARICI,10C Kaynakçılık
+,Mustafa Efe MERAL,10C Kaynakçılık
+,Okan MEŞE,10C Kaynakçılık
+,Ataberk İLERİ,10L Makine Bakım Onarım
+,Hasan Hüseyin KAYA,10L Makine Bakım Onarım
+,Kasım ÇAKMAKÇI,10L Makine Bakım Onarım
+,Ömer ŞİMŞEK,10L Makine Bakım Onarım
+,Özgür ERGÜN,10L Makine Bakım Onarım
+,Serdar TEKDOĞAN,10L Makine Bakım Onarım
+,Yiğit KÜÇÜKBATUR,10L Makine Bakım Onarım
+,Defne Ela VARLAR,10C Muhasebe
+,Melisa ARSLAN,10C Muhasebe
+,Muhammed Ali SARIBUĞA,10C Muhasebe
+,Ali Furkan LEVENT,10F Otomotiv Boya
+,Aliyar YAVRUTÜRK,10İ Otomotiv Boya
+,Arda TOPÇU,10K Otomotiv Boya
+,Baran ÇETİN,10N Otomotiv Boya
+,Bulut KARA,10K Otomotiv Boya
+,Diyar Amed TOPRAK,10G Otomotiv Boya
+,Kudret BAKADUR,10N Otomotiv Boya
+,Salih SÖYÜNCÜ,10İ Otomotiv Boya
+,Tugay KARAMAN,10İ Otomotiv Boya
+,Yusuf ELNASEN,10G Otomotiv Boya
+,Abdulbasit ELŞAVİ,10İ Otomotiv Elektrikçiliği
+,Abdulkerim GÜÇLÜGİL,10F Otomotiv Elektrikçiliği
+,Bayram Ali TOPCU,10F Otomotiv Elektrikçiliği
+,Emirhan DANACIOĞLU,10F Otomotiv Elektrikçiliği
+,Eyüp KARTAL,10H Otomotiv Elektrikçiliği
+,Mehmet Fatih GÜMÜŞ,10H Otomotiv Elektrikçiliği
+,Volkan BOZOĞLU,10H Otomotiv Elektrikçiliği
+,Yağız Kemal UĞUN,10F Otomotiv Elektrikçiliği
+,Yusuf KÖYSÜ,10G Otomotiv Elektrikçiliği
+,Abdulsamet TEMEL,10F Otomotiv Elektromekanik
+,Abdurrahim KAYA,10K Otomotiv Elektromekanik
+,Abdül Samet ZORAVALİ,10K Otomotiv Elektromekanik
+,Ahmet YÜKSEL,10G Otomotiv Elektromekanik
+,Akın AYAN,10G Otomotiv Elektromekanik
+,Ali Haydar ALİBAY,10F Otomotiv Elektromekanik
+,Ali Osman KARADENİZ,10N Otomotiv Elektromekanik
+,Arda ÇELEBİ,10İ Otomotiv Elektromekanik
+,Arif Hasan KARAOĞLU,10F Otomotiv Elektromekanik
+,Atakan SEVGİ,10G Otomotiv Elektromekanik
+,Aytuğ ÇETİN,10K Otomotiv Elektromekanik
+,Baran YILDIRIM,10İ Otomotiv Elektromekanik
+,Berat GÖKÇE,10G Otomotiv Elektromekanik
+,Berat YEGİN,10H Otomotiv Elektromekanik
+,Bünyamin YAĞIZ,10K Otomotiv Elektromekanik
+,Çınar ŞAHİN,10G Otomotiv Elektromekanik
+,Efe ARSLAN,10K Otomotiv Elektromekanik
+,Efecan ERMİŞ,10İ Otomotiv Elektromekanik
+,Ege MUTLU,10H Otomotiv Elektromekanik
+,Elyesa KILIÇ,10H Otomotiv Elektromekanik
+,Emir Efe ERDOĞMUŞ,10İ Otomotiv Elektromekanik
+,Emir Nevzat ŞENKAN,10İ Otomotiv Elektromekanik
+,Enes TÜRKAY,10İ Otomotiv Elektromekanik
+,Eren AKBULUT,10G Otomotiv Elektromekanik
+,Eren KÖYLÜ,10H Otomotiv Elektromekanik
+,Eren ÖZTÜRK,10F Otomotiv Elektromekanik
+,Fatih ÇAKIR,10F Otomotiv Elektromekanik
+,Halil Burak KARA,10G Otomotiv Elektromekanik
+,Hüsamettin KILIÇ,10G Otomotiv Elektromekanik
+,Hüzeyfe GÖKKAYA,10G Otomotiv Elektromekanik
+,İbrahim Halil SEZİKLİ,10F Otomotiv Elektromekanik
+,İshak UĞUZ,10F Otomotiv Elektromekanik
+,Kaan TEZEL,10H Otomotiv Elektromekanik
+,Kaancan BAŞARAN,10İ Otomotiv Elektromekanik
+,Kadir YAVUZ,10H Otomotiv Elektromekanik
+,Kenan KURT,10İ Otomotiv Elektromekanik
+,Kerem KUĞUMCU,10G Otomotiv Elektromekanik
+,Kuzey BAYAR,10G Otomotiv Elektromekanik
+,Mehmet Can ŞAYIP,10F Otomotiv Elektromekanik
+,Mert Ali BAYLAN,10F Otomotiv Elektromekanik
+,Mert TAŞKIN,10F Otomotiv Elektromekanik
+,Metehan ÇİÇEK,10İ Otomotiv Elektromekanik
+,Muhammed Berat EŞUT,10F Otomotiv Elektromekanik
+,Muhammed Emin BABAN,10K Otomotiv Elektromekanik
+,Muhammed Sait KAYA,10F Otomotiv Elektromekanik
+,Muhammed SIRÇANCI,10H Otomotiv Elektromekanik
+,Muhammet Emin GÖREN,10G Otomotiv Elektromekanik
+,Muhammet Hüseyin DEMİR,10H Otomotiv Elektromekanik
+,Muhammet İNAN,10K Otomotiv Elektromekanik
+,Muhammet Mustafa YILDIZ,10G Otomotiv Elektromekanik
+,Muharrem TEKE,10G Otomotiv Elektromekanik
+,Murat YOLDAŞ,10F Otomotiv Elektromekanik
+,Mustafa Cesur NARİN,10F Otomotiv Elektromekanik
+,Müslüm ÇOBAN,10K Otomotiv Elektromekanik
+,Ömer ALTAY,10İ Otomotiv Elektromekanik
+,Ömer BENLİ,10K Otomotiv Elektromekanik
+,Ömer Efe FİLİZ,10F Otomotiv Elektromekanik
+,Ömer Kerem YAKIN,10N Otomotiv Elektromekanik
+,Ömer TAŞ,10K Otomotiv Elektromekanik
+,Ömer TUNÇ,10K Otomotiv Elektromekanik
+,Polat ÇINAR,10H Otomotiv Elektromekanik
+,Poyraz Ali ÇAĞLAK,10H Otomotiv Elektromekanik
+,Ramazan TAŞGIN,10İ Otomotiv Elektromekanik
+,Recep Tayyip KAYA,10N Otomotiv Elektromekanik
+,Recep TÜRKKAN,10H Otomotiv Elektromekanik
+,Rojhat GÜNGÜR,10H Otomotiv Elektromekanik
+,Rüzgar ATAÇ,10F Otomotiv Elektromekanik
+,Salih SAGIŞ,10F Otomotiv Elektromekanik
+,Salih YILMAZ,10G Otomotiv Elektromekanik
+,Samet BEYDOĞAN,10K Otomotiv Elektromekanik
+,Sefa Eren CAN,10F Otomotiv Elektromekanik
+,Süheyl TATAK,10H Otomotiv Elektromekanik
+,Şenol EMEK,10İ Otomotiv Elektromekanik
+,Şiyar KARADAĞ,10K Otomotiv Elektromekanik
+,Talha Ensar BOLAT,10H Otomotiv Elektromekanik
+,Tunahan DİLEK,10N Otomotiv Elektromekanik
+,Umut Arslan KAYALAR,10F Otomotiv Elektromekanik
+,Utku KUŞKU,10İ Otomotiv Elektromekanik
+,Yağız Efe GÜNER,10İ Otomotiv Elektromekanik
+,Yasin CİSA,10K Otomotiv Elektromekanik
+,Yasin ÇELİK,10İ Otomotiv Elektromekanik
+,Yasin EROL,10İ Otomotiv Elektromekanik
+,Yasin ESEN,10H Otomotiv Elektromekanik
+,Yiğit GEMİCİ,10F Otomotiv Elektromekanik
+,Yiğit GÜLEN,10İ Otomotiv Elektromekanik
+,Yiğit ÖVÜT,10H Otomotiv Elektromekanik
+,Yunus Can ALTINTAŞ,10İ Otomotiv Elektromekanik
+,Yunus Emre GÜZELYURT,10K Otomotiv Elektromekanik
+,Yunus Emre SAYGI,10H Otomotiv Elektromekanik
+,Yusuf TOKUR,10F Otomotiv Elektromekanik
+,Yusufcan CENGİZ,10K Otomotiv Elektromekanik
+,Abdullah GÖK,10G Otomotiv Gövde
+,Ahmet Talha KARTAL,10H Otomotiv Gövde
+,Arda SERTTAŞ,10F Otomotiv Gövde
+,Berat BABACAN,10F Otomotiv Gövde
+,Berkay TATAR,10İ Otomotiv Gövde
+,Berke SOVAN,10G Otomotiv Gövde
+,Cesim ERGÜN,10F Otomotiv Gövde
+,Egehan DOĞRU,10H Otomotiv Gövde
+,Emir ALTUNOLUK,10N Otomotiv Gövde
+,Emre SAKA,10F Otomotiv Gövde
+,İsmail Efe YENİYURT,10G Otomotiv Gövde
+,Kuzey BOSTANCI,10K Otomotiv Gövde
+,Mert Can ÖZTATAR,10K Otomotiv Gövde
+,Mikail Yalçın KAYA,10K Otomotiv Gövde
+,Muhammed Can ALPASLAN,10H Otomotiv Gövde
+,Muhammed Can OLGUN,10İ Otomotiv Gövde
+,Mustafa Emir AKYILDIZ,10İ Otomotiv Gövde
+,Serkan GÜNDOĞDU,10G Otomotiv Gövde
+,Seyit Ahmet EROL,10İ Otomotiv Gövde
+,Umut KARTAL,10N Otomotiv Gövde
+,Yiğit Can ERMİŞ,10K Otomotiv Gövde
+,Yusuf KURU,10H Otomotiv Gövde
+,Ahmet Hasan KAYA,10G Otomotiv Mekanikerliği
+,Ali ÖZDEMİR,10H Otomotiv Mekanikerliği
+,Barış Enes HORZUM,10H Otomotiv Mekanikerliği
+,Batuhan SEVGİ,10İ Otomotiv Mekanikerliği
+,Berat AKKUL,10K Otomotiv Mekanikerliği
+,Berat ATEŞ,10K Otomotiv Mekanikerliği
+,Berat BİLGİN,10G Otomotiv Mekanikerliği
+,Berat KABA,10N Otomotiv Mekanikerliği
+,Berke BASAR,10G Otomotiv Mekanikerliği
+,Bilal Can KARASAKAL,10K Otomotiv Mekanikerliği
+,Bünyamin BAŞ,10F Otomotiv Mekanikerliği
+,Cesur ARMUT,10H Otomotiv Mekanikerliği
+,Demir Kaan DUMAN,10N Otomotiv Mekanikerliği
+,Efe DÖNMEZ,10K Otomotiv Mekanikerliği
+,Efe GÖKBULUT,10K Otomotiv Mekanikerliği
+,Efe ÖZCAN,10İ Otomotiv Mekanikerliği
+,Efe TAŞTEKİN,10İ Otomotiv Mekanikerliği
+,Efekan YİĞİT,10N Otomotiv Mekanikerliği
+,Ege ALGUR,10F Otomotiv Mekanikerliği
+,Ege EROL,10G Otomotiv Mekanikerliği
+,Emir GÜREŞİR,10İ Otomotiv Mekanikerliği
+,Enes AKAY,10H Otomotiv Mekanikerliği
+,Ezel Berk ŞEN,10F Otomotiv Mekanikerliği
+,Faik KAYA,10K Otomotiv Mekanikerliği
+,Furkan TEKİN,10G Otomotiv Mekanikerliği
+,Hakan ARIK,10N Otomotiv Mekanikerliği
+,Haluk Melik ÇAKAN,10K Otomotiv Mekanikerliği
+,Hasan AKDENİZ,10İ Otomotiv Mekanikerliği
+,Hüseyin Kayra ÖZER,10H Otomotiv Mekanikerliği
+,İbrahim Emre ASLAN,10F Otomotiv Mekanikerliği
+,İlker Kağan ÖZER,10H Otomotiv Mekanikerliği
+,Kaan DAL,10K Otomotiv Mekanikerliği
+,Kaan İNAN,10İ Otomotiv Mekanikerliği
+,Kemal ATAK,10N Otomotiv Mekanikerliği
+,Lokman Efe ŞENGÜL,10H Otomotiv Mekanikerliği
+,Mahmut ÇETİNKAYA,10İ Otomotiv Mekanikerliği
+,Mehmet Ali GÜNEY,10K Otomotiv Mekanikerliği
+,Mehmet Emir SOYLU,10G Otomotiv Mekanikerliği
+,Muarrem BAYDAR,10F Otomotiv Mekanikerliği
+,Muhammed Emin ZORAVALİ,10İ Otomotiv Mekanikerliği
+,Muhammed Furkan KÖSE,10İ Otomotiv Mekanikerliği
+,Muhammed Mustafa GILIÇ,10G Otomotiv Mekanikerliği
+,Muhammed Yasir GÖK,10F Otomotiv Mekanikerliği
+,Muhammet Arda YURDAGÜL,10N Otomotiv Mekanikerliği
+,Muhammet Can IŞIK,10K Otomotiv Mekanikerliği
+,Muhammet Efe ÖZÇELİK,10G Otomotiv Mekanikerliği
+,Muhammet Hasan ALTIN,10H Otomotiv Mekanikerliği
+,Murat Efe KOÇDAĞ,10İ Otomotiv Mekanikerliği
+,Mustafa Eren ŞİMŞEK,10G Otomotiv Mekanikerliği
+,Onur ÖNCEL,10İ Otomotiv Mekanikerliği
+,Poyraz DEMİR,10H Otomotiv Mekanikerliği
+,Ramazan GELİYOR,10H Otomotiv Mekanikerliği
+,Rasim KİLİTÇİ,10G Otomotiv Mekanikerliği
+,Remzi GÖKÇE,10K Otomotiv Mekanikerliği
+,Said Mansur ELBAHADIR,10F Otomotiv Mekanikerliği
+,Serhat ADIGÜZEL,10İ Otomotiv Mekanikerliği
+,Taha GÖZCÜ,10N Otomotiv Mekanikerliği
+,Talha Muhammet ÇAPCI,10H Otomotiv Mekanikerliği
+,Tuğrul SEVGİ,10K Otomotiv Mekanikerliği
+,Tunahan EKER,10H Otomotiv Mekanikerliği
+,Uğur KUŞCU,10G Otomotiv Mekanikerliği
+,Umut YILDIZLI,10F Otomotiv Mekanikerliği
+,Umutcan AYAZ,10K Otomotiv Mekanikerliği
+,Utku SANCAR,10G Otomotiv Mekanikerliği
+,Veysel ALİŞAN,10H Otomotiv Mekanikerliği
+,Veysel GÖKÇE,10H Otomotiv Mekanikerliği
+,Veysel YILDIRIM,10F Otomotiv Mekanikerliği
+,Yiğit Can SEVİM,10G Otomotiv Mekanikerliği
+,Yiğit KAHRAMAN,10İ Otomotiv Mekanikerliği
+,Yiğit PEKMEZCİ,10G Otomotiv Mekanikerliği
+,Yunus Emre YILDIZ,10K Otomotiv Mekanikerliği
+,Yusuf Yiğit ARPACI,10G Otomotiv Mekanikerliği
+,Berat YAVUZ,10F Otomotiv Motor Yenileştirmeciliği
+,Ümit YILMAZ,10K Otomotiv Motor Yenileştirmeciliği
+,Abdulservet ŞAHİN,10F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Ali Can YANIKCI,10K Ön Düzen Ayarcılığı Ve Lastikçilik
+,Ata İŞLER,10G Ön Düzen Ayarcılığı Ve Lastikçilik
+,Batuhan ÖZBURUN,10K Ön Düzen Ayarcılığı Ve Lastikçilik
+,Bedirhan KOÇ,10G Ön Düzen Ayarcılığı Ve Lastikçilik
+,Beytullah AKYÜZ,10İ Ön Düzen Ayarcılığı Ve Lastikçilik
+,Bilal ÖZBEK,10H Ön Düzen Ayarcılığı Ve Lastikçilik
+,Burak ACAR,10G Ön Düzen Ayarcılığı Ve Lastikçilik
+,Enver ÜNAL,10G Ön Düzen Ayarcılığı Ve Lastikçilik
+,Mahmut YILDIRIM,10İ Ön Düzen Ayarcılığı Ve Lastikçilik
+,Mert Can TEKDOĞAN,10H Ön Düzen Ayarcılığı Ve Lastikçilik
+,Muhammed Eren KAR,10F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Muhammed KOÇ,10H Ön Düzen Ayarcılığı Ve Lastikçilik
+,Ramazan GÜNEŞ,10H Ön Düzen Ayarcılığı Ve Lastikçilik
+,Samet BEBE,10K Ön Düzen Ayarcılığı Ve Lastikçilik
+,Sefa YILMAZ,10H Ön Düzen Ayarcılığı Ve Lastikçilik
+,Soner ÖZMENTEŞ,10F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Yakup Mehmet YÜKSEL,10İ Ön Düzen Ayarcılığı Ve Lastikçilik
+,Yusuf ÇİFTÇİ,10İ Ön Düzen Ayarcılığı Ve Lastikçilik
+,Yusuf Eren ÇUKADAR,10G Ön Düzen Ayarcılığı Ve Lastikçilik
+,Yusuf Ziya BAYRAM,10K Ön Düzen Ayarcılığı Ve Lastikçilik
+,Ahmed GÜNEŞ,10M Pasta Ve Tatlı Yapımı
+,Avesta Damla OKŞAK,10M Pasta Ve Tatlı Yapımı
+,Beyzanur KARATAŞ,10M Pasta Ve Tatlı Yapımı
+,Ceren Betül DURMUŞ,10M Pasta Ve Tatlı Yapımı
+,Ceylin ÖKSÜZ,10M Pasta Ve Tatlı Yapımı
+,Delil SÖYLEMEZ,10M Pasta Ve Tatlı Yapımı
+,Ecrin Naz KARAMAN,10M Pasta Ve Tatlı Yapımı
+,Enes ERDEM,10M Pasta Ve Tatlı Yapımı
+,Kardelen İLTER,10M Pasta Ve Tatlı Yapımı
+,Nesrin KINIK,10M Pasta Ve Tatlı Yapımı
+,Poyraz COŞKUN,10M Pasta Ve Tatlı Yapımı
+,Sahra Saliha SARIGÜL,10M Pasta Ve Tatlı Yapımı
+,Sümeyye SIRDAŞ,10M Pasta Ve Tatlı Yapımı
+,Şüheda GÖNÜL,10M Pasta Ve Tatlı Yapımı
+,Yasin Erdinç AKINCI,10M Pasta Ve Tatlı Yapımı
+,Yeşim BALANDI,10M Pasta Ve Tatlı Yapımı
+,Yunus ALADAĞ,10M Pasta Ve Tatlı Yapımı
+,Yusuf Sami ÖZEL,10M Pasta Ve Tatlı Yapımı
+,Zeynep AYNA,10M Pasta Ve Tatlı Yapımı
+,Mustafa TAŞHAN,10C Sac İşleri
+,Muhammed Muaz ÇAVUŞOĞLU,10A Satış Elemanlığı
+,Enes NAZLIGÜL,10L Soğutma Sistemleri
+,Sinan FIRAT,10A Vitrin Kuyumculuğu
+,Alperen ÖZDEMİR,10E Yazılım Geliştirme
+,Ömer Fatih CENGİZ,10E Yazılım Geliştirme
+,Ercan YILMAZ,11K Ahşap Doğrama Teknolojisi
+,Kemal Tuna BAŞARAN,11K Asansör Sistemleri
+,Asya YAMAN,11D Aşçılık
+,Azra SÖYLEMEZ,11D Aşçılık
+,Bulut DEMİR,11D Aşçılık
+,Elif BAGIRAN,11D Aşçılık
+,Emirhan BAYDEDE,11D Aşçılık
+,Fatmanur AYDIN,11D Aşçılık
+,Huriye ŞEYHAHMED,11D Aşçılık
+,Muhammet Batuhan AYDIN,11D Aşçılık
+,Musa TÜRKAY,11D Aşçılık
+,Mustafa Efe DEMİR,11D Aşçılık
+,Necati Levent HEBEBCİ,11D Aşçılık
+,Oğuzhan SAPİL,11D Aşçılık
+,Sinem BİLECEN,11D Aşçılık
+,Şeref DÜZENLİ,11D Aşçılık
+,Taha ÇAKMAK,11D Aşçılık
+,Yiğit AŞCI,11D Aşçılık
+,Fatih BUDAK,11K Bilgisayar Teknik Servisi
+,Yunus Emre KURT,11K Bilgisayar Teknik Servisi
+,Yusuf Aybars ÇELİK,11K Bilgisayar Teknik Servisi
+,Arda DİŞLİ,11İ Bilgisayarlı Makine İmalatı
+,Barış ATTİLLA,11İ Bilgisayarlı Makine İmalatı
+,Batuhan GÜNDOĞAN,11İ Bilgisayarlı Makine İmalatı
+,Doğukan ÖZMEN,11İ Bilgisayarlı Makine İmalatı
+,Efe ÇAMURCU,11İ Bilgisayarlı Makine İmalatı
+,Kaan TELLİ,11İ Bilgisayarlı Makine İmalatı
+,Kemal ÇETİNKAYA,11İ Bilgisayarlı Makine İmalatı
+,Muhammed Mümtaz AŞIROĞLU,11İ Bilgisayarlı Makine İmalatı
+,Mustafa AKBABA,11İ Bilgisayarlı Makine İmalatı
+,Oğuz ÇOKDER,11İ Bilgisayarlı Makine İmalatı
+,Ömer Emin Can ATEŞ,11İ Bilgisayarlı Makine İmalatı
+,Serhat ÇETİNKAYA,11İ Bilgisayarlı Makine İmalatı
+,Yasin TATAR,11İ Bilgisayarlı Makine İmalatı
+,Caner ÇOMAK,11C Bobinaj
+,Emirhan DEĞERLİ,11C Bobinaj
+,Samet TONBUL,11C Bobinaj
+,Yasin ÖZKAYA,11C Bobinaj
+,Çisem Berna ÖNDARÖ,11A Cilt Bakımı Ve Makyaj
+,Elif MACAR,11A Cilt Bakımı Ve Makyaj
+,Fatma Zehra DEMİREL,11A Cilt Bakımı Ve Makyaj
+,Nisanur ATICI,11A Cilt Bakımı Ve Makyaj
+,Nisanur KOCAR,11A Cilt Bakımı Ve Makyaj
+,Yağmur ÇETİNKAYA,11A Cilt Bakımı Ve Makyaj
+,Yasmin YALIM,11A Cilt Bakımı Ve Makyaj
+,Yunus Emre KORCAN,11E Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+,Yusuf Ali DAĞ,11E Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+,Alperen ÜNLÜ,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Arda HAS,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Barış OK,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Batuhan ÇALIŞKAN,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Egemen BİRYAN,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Emirhan ELİTAŞ,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Enes KARAMAN,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Ercan EREN,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Hüseyin YAMAN,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Kadim AĞRAŞ,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Mehmet UZUN,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Mert ÇETİNKAYA,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Mert DERENBİK,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Samet İNCİ,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Şaban ÜNLÜ,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Taha DEMİR,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Yakup EREN,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Yiğit KIRCAOĞLU,11K Elektrik Tesisatları Ve Pano Montörlüğü
+,Yunus Bilal AKYÜZ,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Yunus Emre KALAYCI,11C Elektrik Tesisatları Ve Pano Montörlüğü
+,Baran AKINCI,11C Elektrikli Ev Aletleri Teknik Servisi
+,Metin Can TAŞKIRAN,11C Elektrikli Ev Aletleri Teknik Servisi
+,Uğur GÜLER,11C Elektrikli Ev Aletleri Teknik Servisi
+,Eyüp TEKTAŞ,11C Endüstriyel Bakım Onarım
+,Taha KARAER,11K Endüstriyel Reklamcı (Tabelacı)
+,Ahmet AYDOĞAN,11B Erkek Kuaförlüğü
+,Arda ÖZAYDIN,11B Erkek Kuaförlüğü
+,Arda YÜKSEL,11B Erkek Kuaförlüğü
+,Batuhan ÖZEN,11B Erkek Kuaförlüğü
+,Berat Kaan TATAR,11B Erkek Kuaförlüğü
+,Berat ÖZLÜ,11B Erkek Kuaförlüğü
+,Berkay ÇAMCI,11B Erkek Kuaförlüğü
+,Efe DOĞAN,11B Erkek Kuaförlüğü
+,Emre TÜRK,11B Erkek Kuaförlüğü
+,Erdem Eren BİLİCİ,11B Erkek Kuaförlüğü
+,Eren GÜRAY,11B Erkek Kuaförlüğü
+,Fırat YARIM,11B Erkek Kuaförlüğü
+,Fuat Efe EĞRİYOL,11B Erkek Kuaförlüğü
+,Hacı Mustafa TEKNE,11B Erkek Kuaförlüğü
+,Hüseyin Erdem AKSEL,11B Erkek Kuaförlüğü
+,İbrahim DEMİR,11B Erkek Kuaförlüğü
+,İbrahim DEMİR,11B Erkek Kuaförlüğü
+,İlker KARAASLAN,11B Erkek Kuaförlüğü
+,İsmail DEMİR,11B Erkek Kuaförlüğü
+,İsmet SİVRİ,11B Erkek Kuaförlüğü
+,Kadir TEKDOĞAN,11B Erkek Kuaförlüğü
+,Mehmet Ali ERYİĞİT,11B Erkek Kuaförlüğü
+,Mehmet Emre YEŞİLYURT,11B Erkek Kuaförlüğü
+,Melih SARAÇLI,11B Erkek Kuaförlüğü
+,Mert TÜRK,11B Erkek Kuaförlüğü
+,Miraç AKYÜZ,11B Erkek Kuaförlüğü
+,Muhammed CANLI,11B Erkek Kuaförlüğü
+,Mustafa YANIKCI,11B Erkek Kuaförlüğü
+,Nurettin ÇOLAK,11B Erkek Kuaförlüğü
+,Umut Arda ÇELİK,11B Erkek Kuaförlüğü
+,Umut ŞAHİN,11B Erkek Kuaförlüğü
+,Umutcan YURTSEVEN,11B Erkek Kuaförlüğü
+,Veysel Aras SAVCI,11B Erkek Kuaförlüğü
+,Volkan Ahmet KILIÇ,11B Erkek Kuaförlüğü
+,Yasin BOZKURT,11B Erkek Kuaförlüğü
+,Yasin GÜNDÜZ,11B Erkek Kuaförlüğü
+,Yiğit Can YILDIZEL,11B Erkek Kuaförlüğü
+,Ysmayyl MYRATNAZAROV,11B Erkek Kuaförlüğü
+,Yunus Emre KAHRAMAN,11B Erkek Kuaförlüğü
+,Enes BARAN,11H Fırıncılık
+,Enes Buğra CEYLAN,11D Fotoğraf
+,Ferhat YILDIRIM,11D Fotoğraf
+,Göknur ATLI,11D Fotoğraf
+,Hasan KARTAL,11İ Gaz Yakıcı Cihazlar Ve Servis
+,Mehmet Uğur DÖNER,11İ Gaz Yakıcı Cihazlar Ve Servis
+,Murat KARTAL,11İ Gaz Yakıcı Cihazlar Ve Servis
+,Tarık ÇELİK,11İ Gaz Yakıcı Cihazlar Ve Servis
+,Erdoğan YEŞİLDAĞ,11K Görüntü Ve Ses Sistemleri
+,Mustafa Burak TARHAN,11K Görüntü Ve Ses Sistemleri
+,Yakup DÖMBEK,11K Görüntü Ve Ses Sistemleri
+,Yakup Efe DOĞMUŞ,11K Görüntü Ve Ses Sistemleri
+,Berat CİVELEK,11C Haberleşme Sistemleri
+,Yiğit Can KAÇMAZ,11C Haberleşme Sistemleri
+,Yusuf BAYRAM,11C Haberleşme Sistemleri
+,Delil EREN,11İ Isıtma Ve Sıhhi Tesisat Sistemleri
+,Muhammet EREN,11İ Isıtma Ve Sıhhi Tesisat Sistemleri
+,Sidar EREN,11İ Isıtma Ve Sıhhi Tesisat Sistemleri
+,Vedat AKTEKİN,11İ Isıtma Ve Sıhhi Tesisat Sistemleri
+,Yusuf AKTEKİN,11İ Isıtma Ve Sıhhi Tesisat Sistemleri
+,Emre ZENBİLLİ,11K İç Mekân Ve Mobilya Teknolojisi
+,Eymen ÖNAL,11K İç Mekân Ve Mobilya Teknolojisi
+,Muhammet Emin KAYA,11K İç Mekân Ve Mobilya Teknolojisi
+,Burak YAVUZ,11İ İklimlendirme Sistemleri
+,Demir YILDIRAN,11İ İklimlendirme Sistemleri
+,Emircan SAATCI,11F İş Makineleri
+,Hikmet Eren SERTOĞLU,11F İş Makineleri
+,İbrahim Ersan TOZUN,11F İş Makineleri
+,Aysu DEMİRKIR,11A Kadın Kuaförlüğü
+,Azra ÇAĞAN,11A Kadın Kuaförlüğü
+,Azra KENT,11A Kadın Kuaförlüğü
+,Berfin ERYİĞİT,11A Kadın Kuaförlüğü
+,Beril ŞENTÜRK,11A Kadın Kuaförlüğü
+,Beyzanur MERĞEN,11A Kadın Kuaförlüğü
+,Burak BALKIZ,11A Kadın Kuaförlüğü
+,Damla CANER,11A Kadın Kuaförlüğü
+,Ecenur ÇAMCI,11A Kadın Kuaförlüğü
+,Ecrin Havin AKDOĞAN,11A Kadın Kuaförlüğü
+,Ecrin KALAY,11A Kadın Kuaförlüğü
+,Ecrin Kamile AĞIR,11A Kadın Kuaförlüğü
+,Efe Tuğra URAL,11A Kadın Kuaförlüğü
+,Ela Seray SEVİM,11A Kadın Kuaförlüğü
+,Emine DENİZ,11A Kadın Kuaförlüğü
+,Esra TÜRKDOĞAN,11A Kadın Kuaförlüğü
+,Eylül Yasmin TEMİZKAN,11A Kadın Kuaförlüğü
+,Fatma TOSUN,11A Kadın Kuaförlüğü
+,Gizem YURTSEVER,11A Kadın Kuaförlüğü
+,Halil Suat PABUÇÇU,11A Kadın Kuaförlüğü
+,Havin ÜLKER,11A Kadın Kuaförlüğü
+,Hüseyin Eymen DUMANOVA,11A Kadın Kuaförlüğü
+,İrem YURTSEVER,11A Kadın Kuaförlüğü
+,İremnaz DEMİRDÖVEN,11A Kadın Kuaförlüğü
+,Mediha Naz ALTUNAY,11A Kadın Kuaförlüğü
+,Mert KIZILKAYA,11A Kadın Kuaförlüğü
+,Merve GÜNEŞ,11A Kadın Kuaförlüğü
+,Rengin ÇAKIN,11A Kadın Kuaförlüğü
+,Rojbin ÇELEBİ,11A Kadın Kuaförlüğü
+,Rosida DEMİRHAN,11A Kadın Kuaförlüğü
+,Selen YALÇIN,11A Kadın Kuaförlüğü
+,Selin BOZKURT,11A Kadın Kuaförlüğü
+,Songül GÜRCÜ,11A Kadın Kuaförlüğü
+,Sudenaz TANIK,11A Kadın Kuaförlüğü
+,Sumaya OLIMOVA,11A Kadın Kuaförlüğü
+,Tunç KESER,11A Kadın Kuaförlüğü
+,Umut GÜRCÜ,11A Kadın Kuaförlüğü
+,Yaren KARADENİZ,11A Kadın Kuaförlüğü
+,Yiğit Efe KÖKSAL,11A Kadın Kuaförlüğü
+,Yunus Emre ÇİÇEK,11A Kadın Kuaförlüğü
+,Yunus Emre GÜNDÜZ,11A Kadın Kuaförlüğü
+,Zerrin ÖZER,11A Kadın Kuaförlüğü
+,Alper BALCI,11K Kaynakçılık
+,Caner KUYU,11K Kaynakçılık
+,Faruk KOÇYİĞİT,11K Kaynakçılık
+,Mert ATTİLLA,11K Kaynakçılık
+,Muhammet Ali KAYA,11K Kaynakçılık
+,Yunus ULUSOY,11K Kaynakçılık
+,Enes SAMANCI,11İ Makine Bakım Onarım
+,Kaan Deniz İLGÜN,11İ Makine Bakım Onarım
+,Oğuzhan Kayra DEMİR,11İ Makine Bakım Onarım
+,Ömer Sait TOPCU,11İ Mermer İşleme
+,Efe BABUR,11K Metal Doğrama
+,Açelya BAYEZİT,11K Muhasebe
+,Duru KÜÇÜK,11K Muhasebe
+,Sevim Yaren TEZCAN,11K Muhasebe
+,Abdulkadir KURU,11E Otomotiv Boya
+,Ahmet Serkan ÖZYÜRÜK,11E Otomotiv Boya
+,Baran AKÇAKOCA,11E Otomotiv Boya
+,Delil EREN,11E Otomotiv Boya
+,İlyas AYDIN,11E Otomotiv Boya
+,Jiyan AY,11E Otomotiv Boya
+,Mehmet EKİCİ,11E Otomotiv Boya
+,Ahmet Can YILMAZ,11G Otomotiv Elektrikçiliği
+,Ayberk YAŞLI,11G Otomotiv Elektrikçiliği
+,Berat Emin BİNGÖL,11G Otomotiv Elektrikçiliği
+,Hüseyin KUŞCU,11G Otomotiv Elektrikçiliği
+,Olcay PAKSOY,11G Otomotiv Elektrikçiliği
+,Ramazan ATICI,11G Otomotiv Elektrikçiliği
+,Abdulkadir YAĞIZ,11E Otomotiv Elektromekanik
+,Abdullah Samet BEKDAŞ,11E Otomotiv Elektromekanik
+,Adnan GÖKÇEBAŞ,11E Otomotiv Elektromekanik
+,Ahmet KELEŞ,11F Otomotiv Elektromekanik
+,Ahmet Şafak KANAT,11F Otomotiv Elektromekanik
+,Ahmet YİĞİT,11E Otomotiv Elektromekanik
+,Ahmetcan BAYAR,11E Otomotiv Elektromekanik
+,Ali Erkut GÜZEL,11E Otomotiv Elektromekanik
+,Alperen YAMAN,11F Otomotiv Elektromekanik
+,Arda ALTUN,11F Otomotiv Elektromekanik
+,Azat ÇETİNKAYA,11F Otomotiv Elektromekanik
+,Baki GÜNDOĞDU,11E Otomotiv Elektromekanik
+,Baran BAYTAR,11F Otomotiv Elektromekanik
+,Batın KILIÇ,11F Otomotiv Elektromekanik
+,Bedirhan HACIOĞLU,11F Otomotiv Elektromekanik
+,Bedirhan KARAKAYA,11E Otomotiv Elektromekanik
+,Bedirhan SEVGİ,11F Otomotiv Elektromekanik
+,Bıhışt BOZKURT,11E Otomotiv Elektromekanik
+,Bilal Rojhat AKİNCİ,11F Otomotiv Elektromekanik
+,Bora ÖZ,11E Otomotiv Elektromekanik
+,Burak KUBUR,11E Otomotiv Elektromekanik
+,Bünyamin BÜTÜN,11F Otomotiv Elektromekanik
+,Cem GÜLEÇ,11F Otomotiv Elektromekanik
+,Çağrı SAKİNAK,11E Otomotiv Elektromekanik
+,Devran Ege ELİBOL,11E Otomotiv Elektromekanik
+,Devrim DÜNDAR,11E Otomotiv Elektromekanik
+,Duhan ÜNLÜTÜRK,11E Otomotiv Elektromekanik
+,Egemen ERSEVEN,11F Otomotiv Elektromekanik
+,Emirhan AKAY,11E Otomotiv Elektromekanik
+,Emirhan ATAŞ,11E Otomotiv Elektromekanik
+,Emre DEMİR,11F Otomotiv Elektromekanik
+,Emre KIRCA,11F Otomotiv Elektromekanik
+,Enes TEKDEMİR,11E Otomotiv Elektromekanik
+,Furkan Emin ÖZDERE,11E Otomotiv Elektromekanik
+,Harun KAYALIK,11E Otomotiv Elektromekanik
+,Hasan ASLAN,11E Otomotiv Elektromekanik
+,Hasan Efe CİCİOĞLU,11F Otomotiv Elektromekanik
+,İsmail Buğra YÜREKLİ,11F Otomotiv Elektromekanik
+,Kaan Altay ÇOLAK,11F Otomotiv Elektromekanik
+,Kaan ENGES,11E Otomotiv Elektromekanik
+,Kadir GERÇEKER,11E Otomotiv Elektromekanik
+,Kadir YILDIZ,11E Otomotiv Elektromekanik
+,Mehmet Arda ELÇİ,11E Otomotiv Elektromekanik
+,Metin Eren DEMİRCİ,11F Otomotiv Elektromekanik
+,Muhammed Yasin PEKTEZEL,11F Otomotiv Elektromekanik
+,Murat Can AKYILDIZ,11F Otomotiv Elektromekanik
+,Mustafa Samet KOCA,11E Otomotiv Elektromekanik
+,Muzaffer KELEŞ,11E Otomotiv Elektromekanik
+,Osman Kaan KÜSKÜ,11E Otomotiv Elektromekanik
+,Ömer Faruk ALTUN,11F Otomotiv Elektromekanik
+,Özbek SARIALTUN,11F Otomotiv Elektromekanik
+,Polat BOYRAZ,11E Otomotiv Elektromekanik
+,Samet AYDIN,11E Otomotiv Elektromekanik
+,Sami YAMAN,11E Otomotiv Elektromekanik
+,Selman KELLE,11F Otomotiv Elektromekanik
+,Serkan GÜNDOĞDU,11F Otomotiv Elektromekanik
+,Vecih HARZUM,11F Otomotiv Elektromekanik
+,Veysel Üveys YILDIZ,11F Otomotiv Elektromekanik
+,Yağız Efe AYDEMİR,11F Otomotiv Elektromekanik
+,Yiğit HAZER,11E Otomotiv Elektromekanik
+,Yiğit ÖZGÜN,11F Otomotiv Elektromekanik
+,Yusuf Erdem DELER,11E Otomotiv Elektromekanik
+,Yusuf Eren İNAN,11F Otomotiv Elektromekanik
+,Yusuf ÖZBEK,11E Otomotiv Elektromekanik
+,Ahmet AYDOĞAN,11H Otomotiv Gövde
+,Arda NARŞAP,11H Otomotiv Gövde
+,Eray BACİN,11H Otomotiv Gövde
+,Kadir ÇEKİM,11H Otomotiv Gövde
+,Kamil UĞUR,11H Otomotiv Gövde
+,Muhammed ELŞAVİ,11H Otomotiv Gövde
+,Muhammed Saki TAŞAR,11H Otomotiv Gövde
+,Muhammet Mustafa KÜÇÜK,11H Otomotiv Gövde
+,Mustafa Mert USKAN,11H Otomotiv Gövde
+,Umran ELŞAVİ,11H Otomotiv Gövde
+,Umut MARAL,11H Otomotiv Gövde
+,Veysel TAŞKIN,11H Otomotiv Gövde
+,Yağız DEMİR,11H Otomotiv Gövde
+,Yasin ALPDEGER,11H Otomotiv Gövde
+,Abdulsamed ERDEM,11H Otomotiv Mekanikerliği
+,Ahmed İSMAİL,11H Otomotiv Mekanikerliği
+,Ahmet Hilmi VURAL,11H Otomotiv Mekanikerliği
+,Ahmet Yasin SEL,11H Otomotiv Mekanikerliği
+,Alperen ÖZDEN,11G Otomotiv Mekanikerliği
+,Altay YALÇINKAYA,11G Otomotiv Mekanikerliği
+,Aykut BOYRAZ,11H Otomotiv Mekanikerliği
+,Aytuğ MÜCEHEZ,11H Otomotiv Mekanikerliği
+,Baran TURAN,11H Otomotiv Mekanikerliği
+,Batuhan ÖZMEN,11G Otomotiv Mekanikerliği
+,Bayram İYİGÖR,11G Otomotiv Mekanikerliği
+,Berat Efe GÜNEŞ,11G Otomotiv Mekanikerliği
+,Burak YENİLMEZ,11G Otomotiv Mekanikerliği
+,Burhan GENEŞ,11H Otomotiv Mekanikerliği
+,Cihan UĞUROĞLU,11H Otomotiv Mekanikerliği
+,Efecan HOŞAFCI,11G Otomotiv Mekanikerliği
+,Emirhan Bilal KALFA,11H Otomotiv Mekanikerliği
+,Emre ÇOBAN,11G Otomotiv Mekanikerliği
+,Eyüb Cihan ATEŞ,11G Otomotiv Mekanikerliği
+,Fırat Efe MUMCU,11G Otomotiv Mekanikerliği
+,Furkan ARSLAN,11H Otomotiv Mekanikerliği
+,Furkan KURT,11H Otomotiv Mekanikerliği
+,Göktuğ YÖRÜBAŞ,11H Otomotiv Mekanikerliği
+,Hasan BİNGÖL,11H Otomotiv Mekanikerliği
+,Hasan Sefa KARACA,11H Otomotiv Mekanikerliği
+,Hüseyin SOSYAL,11G Otomotiv Mekanikerliği
+,İbrahim Davut KURT,11H Otomotiv Mekanikerliği
+,İsa KIRMIZIYILDIZ,11H Otomotiv Mekanikerliği
+,İsmail UĞUZ,11G Otomotiv Mekanikerliği
+,Kerem EPÇAÇAN,11H Otomotiv Mekanikerliği
+,Melih ÇAPİN,11G Otomotiv Mekanikerliği
+,Mert BEŞİKÇİ,11G Otomotiv Mekanikerliği
+,Mert Veli TONBUL,11G Otomotiv Mekanikerliği
+,Muhammed AYDIN,11H Otomotiv Mekanikerliği
+,Muhammed İZSİZ,11G Otomotiv Mekanikerliği
+,Mustafa DEMİR,11G Otomotiv Mekanikerliği
+,Mustafa Yavuz BALCI,11G Otomotiv Mekanikerliği
+,Nurullah YILMAZ,11G Otomotiv Mekanikerliği
+,Oruç Can KARABOĞA,11H Otomotiv Mekanikerliği
+,Poyraz AYDINLI,11H Otomotiv Mekanikerliği
+,Rüzgar ATEŞSAÇAN,11G Otomotiv Mekanikerliği
+,Samed Alperen SELVİ,11G Otomotiv Mekanikerliği
+,Samet ÇOLAKER,11G Otomotiv Mekanikerliği
+,Samet Ege ÇELİKLER,11H Otomotiv Mekanikerliği
+,Siraç Emin GÜVEN,11H Otomotiv Mekanikerliği
+,Süleyman GÜNEŞ,11H Otomotiv Mekanikerliği
+,Şervan ERBULUN,11G Otomotiv Mekanikerliği
+,Toprak KOÇDAĞ,11H Otomotiv Mekanikerliği
+,Ufuk ELÇİ,11G Otomotiv Mekanikerliği
+,Utku Yiğit ÖZLÜ,11G Otomotiv Mekanikerliği
+,Ümit KAYA,11G Otomotiv Mekanikerliği
+,Yunus Emre BÜLBÜLER,11G Otomotiv Mekanikerliği
+,Burak TOPÇU,11G Otomotiv Motor Yenileştirmeciliği
+,Efe Hamza BAKACAK,11G Otomotiv Motor Yenileştirmeciliği
+,Yiğit ŞENER,11G Otomotiv Motor Yenileştirmeciliği
+,Ahmet Efe ÇOBANOĞLU,11F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Mehmet KARA,11F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Nadi Can BAKICI,11F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Okan ÖZDOĞAN,11F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Taha ÖZER,11F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Umut Baran AKIN,11F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Yiğit Ramazan OLUŞAN,11F Ön Düzen Ayarcılığı Ve Lastikçilik
+,Eylül OKUR,11D Pasta Ve Tatlı Yapımı
+,Furkan KINIK,11D Pasta Ve Tatlı Yapımı
+,Hiranur ÇABEK,11D Pasta Ve Tatlı Yapımı
+,Medine GEZER,11D Pasta Ve Tatlı Yapımı
+,Melek ÇABEK,11D Pasta Ve Tatlı Yapımı
+,Muhammed ARSLAN,11D Pasta Ve Tatlı Yapımı
+,Nisa Nur AYDOĞAN,11D Pasta Ve Tatlı Yapımı
+,Sude DEMİR,11D Pasta Ve Tatlı Yapımı
+,Uğur BOZBOĞA,11D Pasta Ve Tatlı Yapımı
+,Yağmur TEKİN,11D Pasta Ve Tatlı Yapımı
+,Yunus Emre AFŞAR,11D Pasta Ve Tatlı Yapımı
+,Yusuf ALADAĞ,11D Pasta Ve Tatlı Yapımı
+,Ali GÜLTEKİN,11K Sac İşleri
+,Eren HÜLÜR,11K Sac İşleri
+,Hüseyin ÇOLAK,11K Sac İşleri
+,Hikmet Anıl LAÇIN,11D Satış Elemanlığı
+,Yasin AKİCİ,11D Satış Elemanlığı
+,Hira Nur BAYGIN,11D Sigortacılık
+,Abdulkadir DEMİRCİ,11İ Soğutma Sistemleri
+,Hamit HAMİTOĞLU,11K Vitrin Kuyumculuğu
+,Hatice HAMİTOĞLU,11K Vitrin Kuyumculuğu
+,Kaan DEMİRPERÇİN,11K Vitrin Kuyumculuğu
+,Altan Selim BAŞAR,11K Yazılım Geliştirme
+,Ege ÇOBAN,11K Yazılım Geliştirme
+,Kaan AKGÜN,12B Ahşap Doğrama Teknolojisi
+,Muhammed Eren ATALAY,12B Ahşap Doğrama Teknolojisi
+,Kadir EMİNOĞLU,12E Aşçılık
+,Muhammed MAVİŞ,12E Aşçılık
+,Nilay DEMİRAL,12E Aşçılık
+,Şevin Dar TÜRKAY,12E Aşçılık
+,Uğur SAMAR,12E Aşçılık
+,Yağmur ŞİRİN,12E Aşçılık
+,Can DEMİRKAYNAK,12F Bilgisayar Destekli Makine Ressamlığı
+,Yağız Efe ÖZMEN,12F Bilgisayar Teknik Servisi
+,Adem Yakup ÖZDEMİR,12F Bilgisayarlı Makine İmalatı
+,Ahmetcan CANTÜRK,12F Bilgisayarlı Makine İmalatı
+,Berat BUL,12F Bilgisayarlı Makine İmalatı
+,Davut AKTEKİN,12F Bilgisayarlı Makine İmalatı
+,Hasan AKMAN,12F Bilgisayarlı Makine İmalatı
+,Timuçin YEŞİLTEPE,12F Bilgisayarlı Makine İmalatı
+,Ahmet Taha KOÇ,12C Bobinaj
+,Burhan Can YILMAZ,12C Bobinaj
+,Kemalettin KABAY,12C Bobinaj
+,Muhammed Emin DEMİREL,12C Bobinaj
+,Nurettin DAĞBAŞI,12C Bobinaj
+,Açelya Şule ERGENE,12A Cilt Bakımı Ve Makyaj
+,Beyza ÇAKIR,12A Cilt Bakımı Ve Makyaj
+,Kübra ÇELİK,12A Cilt Bakımı Ve Makyaj
+,Sıla Nazlı KARAMAN,12A Cilt Bakımı Ve Makyaj
+,Yağmur Sude AYKUT,12A Cilt Bakımı Ve Makyaj
+,Yaren ZEYBEKOĞLU,12A Cilt Bakımı Ve Makyaj
+,Oğuzcan EKMEKCİ,12D Dizel Motorları Yakıt Pompası Ve Enjektör Ayarcılığı
+,Abdullah UÇAN,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Alp DURMAZ,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Alperen ÇAVGA,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Arda BELLİ,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Arda TUNCA,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Çağrı TUĞLU,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Emir PINAR,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Habir OK,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,İbrahim Efe KÖLEMEN,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Nurullah KÜL,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Sametcan BAYANDUR,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Uğur Efe DURDABAK,12C Elektrik Tesisatları Ve Pano Montörlüğü
+,Arda ÖREN,12C Elektrikli Ev Aletleri Teknik Servisi
+,Melih BEKDEMİR,12C Elektrikli Ev Aletleri Teknik Servisi
+,Eren BİLGİÇ,12C Endüstriyel Bakım Onarım
+,Muhammet Taha ÇELİK,12C Endüstriyel Bakım Onarım
+,Turgut TOPAL,12C Endüstriyel Bakım Onarım
+,Abdullah IRMAK,12B Erkek Kuaförlüğü
+,Ahmet YİĞİT,12B Erkek Kuaförlüğü
+,Arif KAPLAN,12B Erkek Kuaförlüğü
+,Baran Efe BİTİRGİÇ,12B Erkek Kuaförlüğü
+,Barış POLAT,12B Erkek Kuaförlüğü
+,Berat TURAN,12B Erkek Kuaförlüğü
+,Boran SAVAŞ,12B Erkek Kuaförlüğü
+,Emir ŞENKAL,12B Erkek Kuaförlüğü
+,Emrullah BİLECEN,12B Erkek Kuaförlüğü
+,Eyüp YALIN,12B Erkek Kuaförlüğü
+,Furkan ÖZER,12B Erkek Kuaförlüğü
+,Hüseyin ÇOBAN,12B Erkek Kuaförlüğü
+,Kayra KUĞUMCU,12B Erkek Kuaförlüğü
+,Mert SUÇİN,12B Erkek Kuaförlüğü
+,Muhammed Mustafa ALTUNTAŞ,12B Erkek Kuaförlüğü
+,Muhammet Furkan AYDOĞAN,12B Erkek Kuaförlüğü
+,Musa ÇETİN,12B Erkek Kuaförlüğü
+,Osman KOCA,12B Erkek Kuaförlüğü
+,Ömür OCAK,12B Erkek Kuaförlüğü
+,Ramazan GÜRCÜ,12B Erkek Kuaförlüğü
+,Recep Can TAYLAN,12B Erkek Kuaförlüğü
+,Salih Can TOPAL,12B Erkek Kuaförlüğü
+,Sedat İPEK,12B Erkek Kuaförlüğü
+,Serkan CORUK,12B Erkek Kuaförlüğü
+,Tayfun DEVELİ,12B Erkek Kuaförlüğü
+,Veli Melih SAKA,12B Erkek Kuaförlüğü
+,Yezen ABDULLAH,12B Erkek Kuaförlüğü
+,Umut BORAL,12F Fotoğraf
+,Bekir GÜLGEN,12F Gaz Yakıcı Cihazlar Ve Servis
+,Abdulkadir YAŞAR,12C Görüntü Ve Ses Sistemleri
+,Fazıl ARSLAN,12C Görüntü Ve Ses Sistemleri
+,Zeynep DEMİR,12F Grafik
+,Arda Kerem ERDEM,12F Isıtma Ve Sıhhi Tesisat Sistemleri
+,Arif Buğra YALÇIN,12F Isıtma Ve Sıhhi Tesisat Sistemleri
+,Batuhan ŞEN,12 Isıtma Ve Sıhhi Tesisat Sistemleri
+,Berat USLUER,12 Isıtma Ve Sıhhi Tesisat Sistemleri
+,Berk DEMİR,12F Isıtma Ve Sıhhi Tesisat Sistemleri
+,Botan EREN,12F Isıtma Ve Sıhhi Tesisat Sistemleri
+,Eyyüp Ensar KILIÇ,12F Isıtma Ve Sıhhi Tesisat Sistemleri
+,İsa KIRLI,12F Isıtma Ve Sıhhi Tesisat Sistemleri
+,Mert ÖZDEN,12F Isıtma Ve Sıhhi Tesisat Sistemleri
+,Efe GÜÇLÜ,12B İç Mekân Ve Mobilya Teknolojisi
+,Yusuf Can EZER,12F İklimlendirme Sistemleri
+,Emirhan DİLEK,12D İş Makineleri
+,Aynur Seda DERENBİK,12A Kadın Kuaförlüğü
+,Berat AKTİKEN,12A Kadın Kuaförlüğü
+,Berranur ÖZLÜ,12A Kadın Kuaförlüğü
+,Ceren BAYTAR,12A Kadın Kuaförlüğü
+,Duru TAŞCI,12A Kadın Kuaförlüğü
+,Ecrin Nisa DENİZ,12A Kadın Kuaförlüğü
+,Efe Can CANDAN,12A Kadın Kuaförlüğü
+,Ege ÇELİK,12A Kadın Kuaförlüğü
+,Elanur TUTAR,12A Kadın Kuaförlüğü
+,Eren GÜLEN,12A Kadın Kuaförlüğü
+,Esra SEÇGİN,12A Kadın Kuaförlüğü
+,Eylül ELİEYİOĞLU,12A Kadın Kuaförlüğü
+,Fadime DELİCE,12A Kadın Kuaförlüğü
+,Hafize Nur TÜRKSOY,12A Kadın Kuaförlüğü
+,Hasret UZUN,12A Kadın Kuaförlüğü
+,Hatice AYDIN,12A Kadın Kuaförlüğü
+,Hivvanur OCAKHAN,12A Kadın Kuaförlüğü
+,Irmak ÖZER,12A Kadın Kuaförlüğü
+,Minel ÇAĞLAR,12A Kadın Kuaförlüğü
+,Nisa Nur CEYLAN,12A Kadın Kuaförlüğü
+,Pınar GÖKSEL,12A Kadın Kuaförlüğü
+,Sahabe Hazal ARSLAN,12A Kadın Kuaförlüğü
+,Simge YAYIN,12A Kadın Kuaförlüğü
+,Sude Naz FAZLIOĞLU,12A Kadın Kuaförlüğü
+,Yaren ARSLAN,12A Kadın Kuaförlüğü
+,Zeynep AKINCI,12F Kadın Terziliği
+,Naz AKPOLAT,12F Kantin İşletmeciliği
+,Ali BARAN,12F Makine Bakım Onarım
+,Berkcan ÇELİK,12F Makine Bakım Onarım
+,Resulcan ONAY,12F Makine Bakım Onarım
+,Burak YİĞİT,12B Mobilya İskeleti Ve Döşemesi
+,Yusuf AKGÜL,12F Muhasebe
+,Zubeyt SAPİL,12F Muhasebe
+,Furkan Enver KAYA,12E Otomotiv Elektrikçiliği
+,Seyit Ömer TÜMER,12E Otomotiv Elektrikçiliği
+,Tekin Tolga DENİZ,12E Otomotiv Elektrikçiliği
+,Yakup SEÇMEN,12E Otomotiv Elektrikçiliği
+,Anıl ARICAN,12D Otomotiv Elektromekanik
+,Arda ELLER,12D Otomotiv Elektromekanik
+,Batuhan Efe OZAN,12D Otomotiv Elektromekanik
+,Bedirhan ARINÇ,12D Otomotiv Elektromekanik
+,Berat YILDIZ,12D Otomotiv Elektromekanik
+,Bilal Emre ÇAPRAZ,12D Otomotiv Elektromekanik
+,Boran GÖNÜLTAŞ,12D Otomotiv Elektromekanik
+,Cihan NARİN,12D Otomotiv Elektromekanik
+,Deniz İĞCİ,12D Otomotiv Elektromekanik
+,Ege KURALAY,12D Otomotiv Elektromekanik
+,Furkan GEZER,12D Otomotiv Elektromekanik
+,Hasan ESEN,12D Otomotiv Elektromekanik
+,Hüseyin Mert KÜÇÜKER,12D Otomotiv Elektromekanik
+,İsmail ÇANKAYA,12D Otomotiv Elektromekanik
+,Kaan DEMİR,12D Otomotiv Elektromekanik
+,Kaan SARAÇ,12D Otomotiv Elektromekanik
+,Mehmet Ali KOCA,12D Otomotiv Elektromekanik
+,Mehmethan TARI,12D Otomotiv Elektromekanik
+,Mert Can ATICI,12D Otomotiv Elektromekanik
+,Miraç Metin Can YAMAN,12D Otomotiv Elektromekanik
+,Mücahit SEÇGİN,12 Otomotiv Elektromekanik
+,Semih YAŞAR,12D Otomotiv Elektromekanik
+,Umut OKÇU,12D Otomotiv Elektromekanik
+,Yasin AKPINAR,12D Otomotiv Elektromekanik
+,Yiğit SARAÇLI,12D Otomotiv Elektromekanik
+,Yusuf Taha ÖZBAKIR,12D Otomotiv Elektromekanik
+,Yusuf Talha UĞUR,12D Otomotiv Elektromekanik
+,Yusufcan YILDIRIM,12D Otomotiv Elektromekanik
+,Arif Can GÖKTEPE,12E Otomotiv Gövde
+,Batuhan TUNA,12E Otomotiv Gövde
+,İsa TENEKECİ,12E Otomotiv Gövde
+,Kadir YILDIRIM,12E Otomotiv Gövde
+,Miraç KARADAĞ,12E Otomotiv Gövde
+,Abdulhalim ESEN,12E Otomotiv Mekanikerliği
+,Ahmet ASLAN,12E Otomotiv Mekanikerliği
+,Alkan ARSLAN,12E Otomotiv Mekanikerliği
+,Burak SAĞLAM,12E Otomotiv Mekanikerliği
+,Eyüp Can KIRMIZIYILDIZ,12E Otomotiv Mekanikerliği
+,Hüseyin ESEN,12E Otomotiv Mekanikerliği
+,Hüseyin KARAOĞLU,12E Otomotiv Mekanikerliği
+,Mehmet Sait YEGİN,12E Otomotiv Mekanikerliği
+,Muhammed Baran KAYA,12E Otomotiv Mekanikerliği
+,Mustafa SEZİKLİ,12E Otomotiv Mekanikerliği
+,Orçun SEVGİ,12E Otomotiv Mekanikerliği
+,Recep AKYÜREK,12E Otomotiv Mekanikerliği
+,Taner ESEN,12E Otomotiv Mekanikerliği
+,Tayyip Erdoğan KAHRAMANOĞLU,12E Otomotiv Mekanikerliği
+,Yıldıray SADIÇ,12E Otomotiv Mekanikerliği
+,Furkan KARAMAN,12D Otomotiv Motor Yenileştirmeciliği
+,Ali DEMİREL,12E Ön Düzen Ayarcılığı Ve Lastikçilik
+,Cengizhan GÜMÜŞTAŞ,12E Ön Düzen Ayarcılığı Ve Lastikçilik
+,İslam YALİN,12E Ön Düzen Ayarcılığı Ve Lastikçilik
+,Osman Dijvar ÇAYIN,12E Ön Düzen Ayarcılığı Ve Lastikçilik
+,Efe Yusuf TANIR,12E Pasta Ve Tatlı Yapımı
+,Elif Tuğçe ÇELİK,12E Pasta Ve Tatlı Yapımı
+,Sude ŞAHİN,12E Pasta Ve Tatlı Yapımı
+,Ebuzer PEKMEZ,12B Sac İşleri
+,Emir Can GÜLMEZ,12B Sac İşleri
+,Mehmet Emin PEKMEZ,12B Sac İşleri
+,Mücahit BAYKAN,12B Sac İşleri

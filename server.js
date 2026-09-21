@@ -36,7 +36,7 @@ const db = mysql.createPool({
 const subeGunHaritasi = {
     // PAZARTESİ
     '9A': 'Pazartesi', '10B': 'Pazartesi', '10G': 'Pazartesi', '10M': 'Pazartesi',
-    '11A': 'Pazartesi', '11K': 'Pazartesi', '12E': 'Pazartesi',
+    '11A': 'Pazartesi', '11K': 'Pazartesi', '12E': 'Pazartesi', '10N' : 'Pazartesi',
 
     // SALI
     '9B': 'Salı', '10C': 'Salı', '10H': 'Salı',
@@ -48,7 +48,7 @@ const subeGunHaritasi = {
 
     // PERŞEMBE
     '9D': 'Perşembe', '10E': 'Perşembe', '10K': 'Perşembe',
-    '11D': 'Perşembe', '11H': 'Perşembe', '12B': 'Perşembe',
+    '11D': 'Perşembe', '11H': 'Perşembe', '12B': 'Perşembe','9G':'Perşembe',
 
     // CUMA
     '9E': 'Cuma', '10A': 'Cuma', '10F': 'Cuma', '10L': 'Cuma',
